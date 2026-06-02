@@ -66,6 +66,10 @@ src: ./slides/03-what-is-a-skill.md
 ---
 
 ---
+src: ./slides/03b-how-skills-load.md
+---
+
+---
 src: ./slides/04-the-old-way.md
 ---
 
