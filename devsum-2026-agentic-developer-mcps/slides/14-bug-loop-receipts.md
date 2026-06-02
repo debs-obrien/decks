@@ -5,21 +5,21 @@ class: devsum-slide hero
 
 <div class="slide-inner">
 
-<h2>The receipts</h2>
-<p class="lede">Real PRs. Merged. Last 48 hours. Author: a scheduled agent.</p>
+<h2>Real PRs from the scheduled workflow</h2>
+<p class="lede">Merged changes opened by the bugfix agent, with reproduction notes and verification evidence.</p>
 
 <img src="../public/images/merged-prs-wall.png" alt="GitHub merged PRs filtered to bot author" style="max-width:1000px;width:100%" />
 
 <p class="footer-note" style="text-align:center;max-width:none">
-  Found a bug. Reproduced it on the running app. Wrote the fix. Opened the PR. <span class="accent bold">While I slept.</span>
+  The important part is not that the agent opened a PR. It is that the PR is <span class="accent bold">reviewable</span>: bug context, code changes, screenshots, and checks.
 </p>
 
 </div>
 
 <!--
-PRESENTER NOTES — RECEIPTS
-- This is the moment that earns audience trust. They can verify on their phones.
-- "Last 48 hours" is the unfakeable part. Say the date out loud.
-- Then say: "let me walk you through one of these. Live."
-- FALLBACK: if wifi dies, advance to the PR #4607 screenshot slide. Don't apologise.
+PRESENTER NOTES — SCHEDULED WORKFLOW PRS
+- Calmer than "receipts". This slide establishes that the workflow is running against real work.
+- Don't oversell. Say: "these are examples of the workflow producing reviewable PRs".
+- Then say: "let me walk you through how that loop evolved."
+- FALLBACK: if wifi dies, this screenshot is enough.
 -->

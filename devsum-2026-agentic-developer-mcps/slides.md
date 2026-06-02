@@ -122,6 +122,10 @@ src: ./slides/13-docs-metrics.md
 ---
 
 ---
+src: ./slides/13b-docs-pipeline-visual.md
+---
+
+---
 src: ./slides/14-docs-flow.md
 ---
 
