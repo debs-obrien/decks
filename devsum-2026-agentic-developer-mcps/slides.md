@@ -134,6 +134,10 @@ src: ./slides/20-loop-improved.md
 ---
 
 ---
+src: ./slides/20-independent-qa-gate.md
+---
+
+---
 src: ./slides/20-trust-the-loop.md
 ---
 
