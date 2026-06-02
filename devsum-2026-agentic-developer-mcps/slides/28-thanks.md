@@ -21,9 +21,9 @@ class: devsum-slide
 </div>
 </div>
 <div class="fade-item" style="text-align:center">
-<img src="../public/images/qr-talks-devsum-2026.png" alt="QR code to debbie.codes/talks/devsum-2026" style="width:280px;height:280px;border-radius:14px;background:#fff;padding:10px" />
-<p class="small" style="margin-top:10px"><span class="accent bold mono">debbie.codes/talks/devsum-2026</span></p>
-<p class="small dim" style="margin-top:4px">Slides &middot; skills &middot; the PRs you just saw</p>
+<img src="../public/images/qr-devsum-deck-github.png" alt="QR code to the public DevSum deck on GitHub" style="width:280px;height:280px;border-radius:14px;background:#fff;padding:10px" />
+<p class="small" style="margin-top:10px"><span class="accent bold mono">github.com/debs-obrien/decks</span></p>
+<p class="small dim" style="margin-top:4px">Slides &middot; source &middot; selected evidence</p>
 </div>
 </div>
 </div>
@@ -34,6 +34,6 @@ PRESENTER NOTES — THANKS
 Don't say "any questions?" yet. Just stand there. Let people scan the QR.
 Then take questions.
 
-The QR points at debbie.codes/talks/devsum-2026 - make sure that page
-exists and redirects to github.com/debs-obrien/decks before you fly out.
+The QR points directly at the public deck repo:
+https://github.com/debs-obrien/decks/tree/main/devsum-2026-agentic-developer-mcps
 -->
