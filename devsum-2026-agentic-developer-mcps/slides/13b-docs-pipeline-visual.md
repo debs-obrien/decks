@@ -7,7 +7,7 @@ class: devsum-slide
 
 <h2 style="margin-bottom:20px">The docs pipeline</h2>
 
-<img src="../public/images/docs-blog/diagram-pipeline.png" alt="Documentation pipeline: source code, screenshots, docs, preview" class="no-frame" style="width:94%;max-height:560px;object-fit:contain;border-radius:22px;box-shadow:0 24px 80px rgba(0,0,0,.42)" />
+<img src="https://theaiplatform.app/blog/documenting-product-with-ai-agent/diagram-pipeline.png" alt="Documentation pipeline: source code, screenshots, docs, preview" class="no-frame" style="width:94%;max-height:560px;object-fit:contain;border-radius:22px;box-shadow:0 24px 80px rgba(0,0,0,.42)" />
 
 </div>
 

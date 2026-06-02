@@ -154,10 +154,6 @@ src: ./slides/18-skill-bugfix-md.md
 ---
 
 ---
-src: ./slides/19-narrowed-tools.md
----
-
----
 src: ./slides/20-loop-improved.md
 ---
 
