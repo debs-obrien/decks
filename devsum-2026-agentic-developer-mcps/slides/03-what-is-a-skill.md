@@ -3,27 +3,29 @@ layout: default
 class: devsum-slide
 ---
 
-<div class="slide-inner">
+<div class="slide-inner center">
 
-<h2>What are agent skills?</h2>
-<p class="lede">Reusable instructions that teach an AI agent how to do a specific job in your context.</p>
+<p style="font-size:70px;font-weight:950;line-height:1.02;letter-spacing:-2px;margin:0 auto 30px;max-width:1120px">
+  Skills are <span class="gradient-text">reusable workflows</span> for agents.
+</p>
 
-<div style="display:grid;grid-template-columns:0.9fr 1.1fr;gap:30px;align-items:center;margin-top:18px">
-  <div>
-    <p style="font-size:34px;line-height:1.15;font-weight:850;color:var(--text);margin:0 0 22px">
-      Think of a skill as a <span class="gradient-text">recipe card</span> for the agent.
-    </p>
-    <div class="task-card" style="border-left:4px solid var(--accent);margin-bottom:14px">
-      <span class="task-id" style="color:var(--accent)">It packages</span>
-      <p>When to use it, how to do the task, and what references or tools to load.</p>
-    </div>
-    <div class="task-card" style="border-left:4px solid var(--blue)">
-      <span class="task-id" style="color:var(--blue)">Why it matters</span>
-      <p>Same workflow, same quality bar, reusable across sessions and teammates.</p>
-    </div>
+<p style="font-size:34px;line-height:1.25;color:var(--text-dim);font-weight:750;max-width:980px;margin:0 auto 38px">
+  Not a one-off prompt. Not an external tool.<br>
+  A skill is the instructions for <em>how your team does the job</em>.
+</p>
+
+<div class="card-row" style="max-width:1040px;margin:0 auto">
+  <div class="task-card" style="border-left:4px solid var(--accent)">
+    <span class="task-id" style="color:var(--accent)">When</span>
+    <p>When should the agent use this workflow?</p>
   </div>
-  <div>
-    <img src="../public/images/skills-blog/skill-anatomy.png" alt="Anatomy of a skill" class="no-frame" style="width:100%;border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.35)" />
+  <div class="task-card" style="border-left:4px solid var(--blue)">
+    <span class="task-id" style="color:var(--blue)">How</span>
+    <p>What steps should it follow?</p>
+  </div>
+  <div class="task-card" style="border-left:4px solid var(--purple)">
+    <span class="task-id" style="color:var(--purple)">With what</span>
+    <p>Which references, tools, and guardrails does it need?</p>
   </div>
 </div>
 
@@ -31,7 +33,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES — WHAT ARE AGENT SKILLS
-- Use the blog visual to make this feel less abstract and less robotic.
-- Definition: reusable instructions for a specific job in your context.
-- Don't over-explain yet. The next slide explains how they load.
+- Keep this beginner-friendly and non-jargony.
+- The key distinction: prompt = one-off request, skill = reusable workflow knowledge.
+- Next slide is the visual anatomy from the blog post. Let the visual breathe.
 -->

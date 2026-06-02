@@ -3,36 +3,41 @@ layout: default
 class: devsum-slide
 ---
 
-<div class="slide-inner">
+<div class="slide-inner center">
 
-<h2>How skills get loaded</h2>
-<p class="lede">The agent does not read every skill all the time. It discovers, triggers, then loads details only when needed.</p>
+<p style="font-size:68px;font-weight:950;line-height:1.03;letter-spacing:-2px;margin:0 auto 34px;max-width:1080px">
+  Skills load <span class="gradient-text">only when they are useful</span>.
+</p>
 
-<div style="display:grid;grid-template-columns:1.1fr .9fr;gap:30px;align-items:center;margin-top:18px">
-  <div>
-    <img src="../public/images/skills-blog/skill-loading.png" alt="How skills get loaded" class="no-frame" style="width:100%;border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.35)" />
+<div class="diagram-chain" style="max-width:1060px">
+  <div class="diagram-node purple">
+    <div class="icon">🔎</div>
+    <div class="label">Discover</div>
+    <div class="sub">name + description</div>
   </div>
-  <div>
-    <div class="task-card" style="border-left:4px solid var(--purple);margin-bottom:14px">
-      <span class="task-id" style="color:var(--purple)">1 · Discover</span>
-      <p>The agent sees the skill name and description.</p>
-    </div>
-    <div class="task-card" style="border-left:4px solid var(--blue);margin-bottom:14px">
-      <span class="task-id" style="color:var(--blue)">2 · Trigger</span>
-      <p>If the user request matches, the skill body loads.</p>
-    </div>
-    <div class="task-card" style="border-left:4px solid var(--accent)">
-      <span class="task-id" style="color:var(--accent)">3 · Expand</span>
-      <p>Reference files and tools load only when the workflow needs them.</p>
-    </div>
+  <div class="diagram-arrow">→</div>
+  <div class="diagram-node blue">
+    <div class="icon">⚡</div>
+    <div class="label">Trigger</div>
+    <div class="sub">skill body loads</div>
+  </div>
+  <div class="diagram-arrow">→</div>
+  <div class="diagram-node green">
+    <div class="icon">📚</div>
+    <div class="label">Expand</div>
+    <div class="sub">references + tools</div>
   </div>
 </div>
+
+<p style="font-size:30px;line-height:1.25;color:var(--text-dim);font-weight:750;max-width:900px;margin:30px auto 0">
+  This is why skills are not just giant prompts dumped into every conversation.
+</p>
 
 </div>
 
 <!--
 PRESENTER NOTES — HOW SKILLS LOAD
-- This helps people who are new to skills understand why they are not just giant prompts.
-- Use the visual from the beginner guide, then summarise with discover -> trigger -> expand.
-- Bridge: "Now let's look at the smallest possible skill."
+- Keep this conceptual. The next slide is the visual from the blog post.
+- Discovery is cheap: name + description.
+- Details load only when relevant.
 -->

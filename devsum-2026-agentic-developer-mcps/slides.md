@@ -66,7 +66,15 @@ src: ./slides/03-what-is-a-skill.md
 ---
 
 ---
+src: ./slides/03a-skill-anatomy-visual.md
+---
+
+---
 src: ./slides/03b-how-skills-load.md
+---
+
+---
+src: ./slides/03c-skill-loading-visual.md
 ---
 
 ---
