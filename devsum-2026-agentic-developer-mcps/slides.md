@@ -101,6 +101,19 @@ src: ./slides/11-skills-compose.md
 src: ./slides/12-bridge-to-production.md
 ---
 
+
+---
+src: ./slides/13-docs-metrics.md
+---
+
+---
+src: ./slides/14-docs-flow.md
+---
+
+---
+src: ./slides/15-docs-trust.md
+---
+
 ---
 src: ./slides/13-what-is-tap.md
 ---
