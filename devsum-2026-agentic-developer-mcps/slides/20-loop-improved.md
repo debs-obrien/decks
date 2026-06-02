@@ -5,40 +5,31 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<h2>So we improved the loop</h2>
-<p class="lede">PR #4746 changed the workflow itself: run the bugfix agent against <span class="mono accent">tauri dev</span>, not a pre-built binary.</p>
+<h2>Example: PR #4868</h2>
+<p class="lede">A non-admin user opened Settings → Connections → Credentials and saw a raw Cerbos authorization error. The agent fixed the UI and attached before/after evidence.</p>
 
-<div class="card-row" style="margin-top:24px">
-  <div class="task-card" style="border-left:4px solid var(--red)">
-    <span class="task-id" style="color:var(--red)">Before</span>
-    <h3>Pre-built binary</h3>
-    <p>No HMR. After-fix CDP verification could be blocked.</p>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:24px">
+  <div>
+    <p class="small dim" style="margin:0 0 8px">Before — raw policy error leaked to the UI</p>
+    <img src="../public/images/pr-4868/before-credentials-raw-error.png" alt="Before fix showing raw Cerbos authorization error" style="width:100%" />
   </div>
-  <div class="task-card" style="border-left:4px solid var(--accent)">
-    <span class="task-id" style="color:var(--accent)">Now</span>
-    <h3><span class="mono">tauri dev</span> in CI</h3>
-    <p>HMR + CDP reload. The agent can verify frontend fixes live.</p>
+  <div>
+    <p class="small dim" style="margin:0 0 8px">After — read-only state, no raw policy string</p>
+    <img src="../public/images/pr-4868/after-credentials-fixed.png" alt="After fix showing read-only credentials state" style="width:100%" />
   </div>
 </div>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:28px">
-  <div>
-    <p class="small dim" style="margin:0 0 8px">Before — internal ID leaked</p>
-    <img src="../public/images/pr-4735/04-issue-4732-before.png" alt="Before fix showing internal type ID" style="width:100%" />
-  </div>
-  <div>
-    <p class="small dim" style="margin:0 0 8px">After — verified through HMR/CDP</p>
-    <img src="../public/images/pr-4735/02-issue-4732-after.png" alt="After fix with clean label" style="width:100%" />
-  </div>
-</div>
+<p class="footer-note" style="text-align:center;max-width:none">
+  This is the kind of PR I want from an agent: <span class="accent bold">what was wrong, what changed, and visual proof.</span>
+</p>
 
 </div>
 
 <!--
-PRESENTER NOTES — LOOP IMPROVED
-- This is the maturity story.
-- The system found a weakness in the verification environment, so we improved the environment.
-- PR #4746 changed the workflow to use tauri dev in CI.
-- PR #4735 shows the payoff: before/after screenshots in the PR body, verified live through HMR/CDP.
-- Key line: "Don't only ask whether the agent did the task. Ask whether the loop gave it enough environment to verify the task."
+PRESENTER NOTES — PR 4868 EXAMPLE
+- This is the concrete example PR for the bugfix workflow.
+- Before: raw Cerbos auth error visible alongside the friendly notice.
+- After: only the read-only credentials state remains; no internal policy string is shown.
+- The important part is the evidence: before/after screenshots in the PR body.
+- Next slide explains how those screenshots get from CI to public image URLs that Claude Code can insert.
 -->

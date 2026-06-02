@@ -39,10 +39,6 @@ aspectRatio: "16/9"
 
 <p style="font-size:26px;color:var(--text-dim);margin:0 auto 28px;max-width:820px">Orchestrating AI workflows with MCPs</p>
 
-<p style="font-size:22px;font-weight:700;color:var(--text);margin:0 0 4px">Debbie O'Brien</p>
-
-<p style="font-size:18px;color:var(--text-dim);margin:0">Platform Engineer – Applied AI @ Zephyr Cloud</p>
-
 <div class="title-nav-hint" style="margin-top:28px">
   Use <kbd>←</kbd> <kbd>→</kbd> arrow keys or <kbd>Space</kbd> to navigate
 </div>
@@ -56,6 +52,10 @@ PRESENTER NOTES — COVER
 - This slide is a 5–10 second hold before you start talking.
 - Title talk length: ~45 min. Built for a developer audience that knows what MCP is.
 -->
+
+---
+src: ./slides/01-intro.md
+---
 
 ---
 src: ./slides/02-hook.md
@@ -154,7 +154,15 @@ src: ./slides/18-skill-bugfix-md.md
 ---
 
 ---
+src: ./slides/20-pr-4868-context.md
+---
+
+---
 src: ./slides/20-loop-improved.md
+---
+
+---
+src: ./slides/20-screenshot-mcp.md
 ---
 
 ---
