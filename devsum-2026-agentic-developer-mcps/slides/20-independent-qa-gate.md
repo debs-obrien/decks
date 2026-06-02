@@ -3,56 +3,44 @@ layout: default
 class: devsum-slide
 ---
 
-<div class="slide-inner">
+<div class="slide-inner center">
 
-<h2>Next: generated PRs stay draft</h2>
-<p class="lede">PR #4837 adds an independent QA gate before any agent-generated bugfix can become review-ready.</p>
+<p style="font-size:72px;font-weight:950;line-height:1.02;letter-spacing:-2px;margin:0 auto 34px;max-width:1120px">
+  Agents should not mark their own homework.
+</p>
 
-<div class="diagram-chain" style="margin-top:26px">
+<div class="diagram-chain" style="max-width:980px;margin-top:28px">
   <div class="diagram-node purple">
     <div class="icon">🤖</div>
-    <div class="label">Agent fix</div>
-    <div class="sub">opens draft PR</div>
-  </div>
-  <div class="diagram-arrow">→</div>
-  <div class="diagram-node orange">
-    <div class="icon">🛡️</div>
-    <div class="label">Result guard</div>
-    <div class="sub">checks JSON + screenshots</div>
+    <div class="label">Create</div>
+    <div class="sub">agent does the work</div>
   </div>
   <div class="diagram-arrow">→</div>
   <div class="diagram-node blue">
-    <div class="icon">🎭</div>
-    <div class="label">Fresh QA</div>
-    <div class="sub">scripts/qa.js over CDP</div>
+    <div class="icon">🔍</div>
+    <div class="label">Verify</div>
+    <div class="sub">separate check</div>
   </div>
   <div class="diagram-arrow">→</div>
   <div class="diagram-node green">
     <div class="icon">👀</div>
-    <div class="label">Ready</div>
-    <div class="sub">human review unlocked</div>
+    <div class="label">Review</div>
+    <div class="sub">human decides</div>
   </div>
 </div>
 
-<div class="card-row" style="margin-top:30px">
-  <div class="task-card" style="border-left:4px solid var(--orange)">
-    <span class="task-id" style="color:var(--orange)">Guardrail</span>
-    <h3>No evidence, no promotion</h3>
-    <p>The workflow validates <span class="mono">result.json</span> plus before/after screenshots before the PR can advance.</p>
-  </div>
-  <div class="task-card" style="border-left:4px solid var(--blue)">
-    <span class="task-id" style="color:var(--blue)">Independence</span>
-    <h3>A second pass verifies</h3>
-    <p><span class="mono">scripts/qa.js</span> starts a fresh dev app and checks the fix over CDP.</p>
-  </div>
-</div>
+<p style="font-size:34px;line-height:1.22;color:var(--text-dim);font-weight:800;max-width:980px;margin:36px auto 0">
+  Agent output is not the endpoint.<br>
+  <span class="gradient-text">Reviewable evidence is the endpoint.</span>
+</p>
 
 </div>
 
 <!--
-PRESENTER NOTES — INDEPENDENT QA GATE
-- This is the latest improvement: not just better app environment, but independent gating.
-- PR #4837 keeps generated PRs in draft until a separate QA pass succeeds.
-- Key line: "The agent does not get to mark its own homework."
-- This is the trust story evolving: reproduce → fix → verify → independent QA → human review.
+PRESENTER NOTES — INDEPENDENT QA PRINCIPLE
+- This replaces the implementation-heavy draft PR/result guard slide.
+- PR #4837 is the concrete implementation: generated PRs stay draft until a separate QA pass succeeds.
+- Details if useful: result.json is checked, before/after screenshots are required, and scripts/qa.js runs an independent CDP pass.
+- But the slide message is the reusable pattern: the creator should not be the only verifier.
+- Key line: "The agent can create the work. The workflow must produce evidence. A human decides what ships."
 -->
