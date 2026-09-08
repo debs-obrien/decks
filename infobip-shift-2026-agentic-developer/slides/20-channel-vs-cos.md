@@ -5,7 +5,7 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<h2>Channel lane vs CoS</h2>
+<h2>Channel vs CoS</h2>
 <p class="lede">Work stays in-channel. CoS only for Debbie-yes.</p>
 
 <div class="diagram-chain" style="margin:14px 0 6px;gap:8px">

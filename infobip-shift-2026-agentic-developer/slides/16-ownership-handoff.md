@@ -6,7 +6,7 @@ class: devsum-slide
 <div class="slide-inner">
 
 <h2>Ownership handoff</h2>
-<p class="lede">When bots collide, lanes matter.</p>
+<p class="lede">When bots collide, roles matter.</p>
 
 <div class="diagram-chain" style="margin-top:16px">
   <div class="diagram-node purple" style="min-height:140px;padding:18px 14px">

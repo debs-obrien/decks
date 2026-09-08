@@ -9,7 +9,7 @@ class: devsum-slide
 
 <p style="font-size:48px;color:var(--text);font-weight:900;margin:0 auto 22px;line-height:1.1;max-width:1040px">
   Not one mega-agent.<br>
-  Specialists with lanes.
+  Bots with one clear job each.
 </p>
 
 <p style="font-size:26px;line-height:1.4;color:var(--text-dim);max-width:920px;margin:0 auto">

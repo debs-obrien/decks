@@ -32,6 +32,6 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: VILLAGE VIDEOS SHOWCASE
 - PR #615 in notes only. Never on stage chrome or thanks.
-- Same-week lane work also: awards hygiene (#616), proof-band LCP (#617). Flash those later.
+- Same-week work also: awards hygiene (#616), proof-band LCP (#617). Skip on stage unless asked.
 - Chips: All · Playwright · MCP · Agents · Nuxt · Grok Bot.
 -->

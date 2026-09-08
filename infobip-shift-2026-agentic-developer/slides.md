@@ -38,7 +38,7 @@ aspectRatio: "16/9"
 <h1 class="gradient-text" style="font-size:64px;margin:0 0 14px;letter-spacing:-1.5px">The Agentic Developer</h1>
 
 <p style="font-size:26px;color:var(--text-dim);margin:0 auto 18px;max-width:860px">
-  Hire specialists. Book swimming. Ship the site. Keep the playbook.
+  Hire bots. Book swimming. Ship the site. Keep the skill.
 </p>
 
 <p style="font-size:18px;color:var(--text-muted);margin:0">
@@ -51,7 +51,7 @@ aspectRatio: "16/9"
 PRESENTER NOTES: COVER
 - Hold a few seconds. Look around the room.
 - Don't open with thanks. Hit the hook next.
-- This is NOT ZurichJS (CI/PR). This is building a specialist team.
+- This is NOT ZurichJS (CI/PR). This is building a bot team.
 -->
 
 ---
@@ -83,6 +83,10 @@ src: ./slides/09-swim-timeline.md
 ---
 
 ---
+src: ./slides/17-shot-travel-findings.md
+---
+
+---
 src: ./slides/10-shot-turneo-browser.md
 ---
 
@@ -95,14 +99,6 @@ src: ./slides/12-shot-slot-picker.md
 ---
 
 ---
-src: ./slides/17-shot-travel-findings.md
----
-
----
-src: ./slides/14-room-friction.md
----
-
----
 src: ./slides/16-ownership-handoff.md
 ---
 
@@ -111,15 +107,7 @@ src: ./slides/20-channel-vs-cos.md
 ---
 
 ---
-src: ./slides/21-case-awards.md
----
-
----
 src: ./slides/21b-substrate.md
----
-
----
-src: ./slides/21d-eyes-bridge.md
 ---
 
 ---
@@ -128,10 +116,6 @@ src: ./slides/22-skill-divider.md
 
 ---
 src: ./slides/23-skill-loop.md
----
-
----
-src: ./slides/22b-paypal-human.md
 ---
 
 ---

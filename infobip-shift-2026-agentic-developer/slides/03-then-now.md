@@ -18,7 +18,7 @@ class: devsum-slide
   <div class="task-card" style="border-color:var(--accent)">
     <span class="task-id" style="color:var(--accent)">Shift 2026</span>
     <h3>Agentic developer</h3>
-    <p>A village of specialists. They research, hand off, book swimming, ship the site, and save skills.</p>
+    <p>A village of bots. They research, hand off, book swimming, ship the site, and save skills.</p>
   </div>
 </div>
 
