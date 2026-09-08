@@ -26,7 +26,7 @@ class: devsum-slide
 </div>
 
 <p class="footer-note" style="text-align:center;margin-top:20px">
-  Same trust loop as room numbers.
+  PayPal still mine. The skill remembers the rest.
 </p>
 
 </div>

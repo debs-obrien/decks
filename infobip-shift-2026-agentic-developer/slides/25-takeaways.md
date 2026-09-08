@@ -20,8 +20,8 @@ class: devsum-slide
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--purple)">03</span>
-    <h3>When a flow works, ask to save a skill</h3>
-    <p>You prompt it. Agent writes <span class="mono">decathlon-checkout</span>. Next time I just say buy it.</p>
+    <h3>After a hard win, keep the playbook</h3>
+    <p>Skill written after Decathlon chaos. <span class="mono">decathlon-checkout</span>. PayPal still mine. The skill remembers the rest.</p>
   </div>
 </div>
 
@@ -30,5 +30,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: TAKEAWAYS
 - Three things. Titles first.
-- Takeaway 3 is the move: ask to save the skill.
+- Takeaway 3: skills are recipes you keep after a hard win. Not magic from "please save a skill."
 -->
