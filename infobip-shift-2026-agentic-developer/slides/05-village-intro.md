@@ -8,18 +8,18 @@ class: devsum-slide
 <span class="badge badge-green" style="font-size:16px;padding:6px 16px;margin-bottom:22px">the village</span>
 
 <p style="font-size:48px;color:var(--text);font-weight:900;margin:0 auto 22px;line-height:1.1;max-width:1040px">
-  Not one mega-chat.<br>
-  A team of narrow bots.
+  Not one mega-agent.<br>
+  Specialists with lanes.
 </p>
 
-<p style="font-size:28px;line-height:1.4;color:var(--text-dim);max-width:920px;margin:0 auto">
-  Chief of Staff routes. Specialists stay scoped.<br>
-  Travel books. Stage owns the talk. Engineer ships the site.
+<p style="font-size:26px;line-height:1.4;color:var(--text-dim);max-width:920px;margin:0 auto">
+  Chief of Staff routes. Everyone else stays scoped.<br>
+  Same idea as hiring a small eng org.
 </p>
 
 </div>
 
 <!--
-PRESENTER NOTES: VILLAGE INTRO
-- Set the mental model before the first screenshot.
+PRESENTER NOTES: VILLAGE BREATH
+- One breath. Then show the work team as the hero.
 -->

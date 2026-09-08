@@ -38,7 +38,7 @@ aspectRatio: "16/9"
 <h1 class="gradient-text" style="font-size:64px;margin:0 0 14px;letter-spacing:-1.5px">The Agentic Developer</h1>
 
 <p style="font-size:26px;color:var(--text-dim);margin:0 auto 18px;max-width:860px">
-  Agents that book swimming, ship the site, and write their own skills
+  Hire specialists. Book swimming. Ship the site. Keep the playbook.
 </p>
 
 <p style="font-size:18px;color:var(--text-muted);margin:0">
@@ -51,7 +51,7 @@ aspectRatio: "16/9"
 PRESENTER NOTES: COVER
 - Hold a few seconds. Look around the room.
 - Don't open with thanks. Hit the hook next.
-- This is NOT ZurichJS (CI/PR). This is life + work agent village.
+- This is NOT ZurichJS (CI/PR). This is building a specialist team.
 -->
 
 ---
@@ -67,27 +67,11 @@ src: ./slides/03-then-now.md
 ---
 
 ---
-src: ./slides/04-agenda.md
----
-
----
 src: ./slides/05-village-intro.md
 ---
 
 ---
-src: ./slides/06-shot-bot-village.md
----
-
----
 src: ./slides/07-org-chart.md
----
-
----
-src: ./slides/07b-village-hits.md
----
-
----
-src: ./slides/08-swim-divider.md
 ---
 
 ---
@@ -107,7 +91,7 @@ src: ./slides/12-shot-slot-picker.md
 ---
 
 ---
-src: ./slides/13-shot-booking-intent.md
+src: ./slides/17-shot-travel-findings.md
 ---
 
 ---
@@ -115,27 +99,7 @@ src: ./slides/14-room-friction.md
 ---
 
 ---
-src: ./slides/15-shot-checkout-routine.md
----
-
----
 src: ./slides/16-ownership-handoff.md
----
-
----
-src: ./slides/17-shot-travel-findings.md
----
-
----
-src: ./slides/18-channel-divider.md
----
-
----
-src: ./slides/18b-whos-in-the-room.md
----
-
----
-src: ./slides/19-shot-debbie-codes.md
 ---
 
 ---
@@ -159,15 +123,11 @@ src: ./slides/21b-substrate.md
 ---
 
 ---
-src: ./slides/21c-pattern-travels.md
+src: ./slides/21d-eyes-bridge.md
 ---
 
 ---
 src: ./slides/22-skill-divider.md
----
-
----
-src: ./slides/22a-skill-ask.md
 ---
 
 ---
@@ -176,11 +136,6 @@ src: ./slides/23-skill-loop.md
 
 ---
 src: ./slides/22b-paypal-human.md
----
-
-
----
-src: ./slides/24-still-human.md
 ---
 
 ---

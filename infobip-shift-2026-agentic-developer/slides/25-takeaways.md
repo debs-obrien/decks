@@ -7,28 +7,32 @@ class: devsum-slide
 
 <h2>Takeaways</h2>
 
-<div class="card-stack" style="margin-top:14px">
-  <div class="task-card">
+<div class="card-stack" style="margin-top:10px;max-width:1040px;gap:10px">
+  <div class="task-card" style="padding:14px 18px">
     <span class="task-id" style="color:var(--accent)">01</span>
-    <h3>Specialists with tight scopes beat one mega-agent</h3>
-    <p>Travel books. Stage talks. Engineer ships. CoS routes.</p>
+    <h3 style="font-size:22px">Hire specialists with hard edges</h3>
+    <p style="font-size:18px;margin:4px 0 0">Not one mega-agent. Lanes like a small eng org.</p>
   </div>
-  <div class="task-card">
+  <div class="task-card" style="padding:14px 18px">
     <span class="task-id" style="color:var(--blue)">02</span>
-    <h3>Human gates on consequential steps</h3>
-    <p>Slot choice · room number · merge / public. Ask. Don't invent.</p>
+    <h3 style="font-size:22px">Human gates on money, merge, identity</h3>
+    <p style="font-size:18px;margin:4px 0 0">Slot · room · PayPal · public. Ask. Don't invent.</p>
   </div>
-  <div class="task-card">
+  <div class="task-card" style="padding:14px 18px">
     <span class="task-id" style="color:var(--purple)">03</span>
-    <h3>After a hard win, keep the playbook</h3>
-    <p>Skill written after Decathlon chaos. <span class="mono">decathlon-checkout</span>. PayPal still mine. The skill remembers the rest.</p>
+    <h3 style="font-size:22px">After a hard win, keep the playbook</h3>
+    <p style="font-size:18px;margin:4px 0 0">Do the hard buy once; reuse the skill next time.</p>
+  </div>
+  <div class="task-card" style="border-color:var(--orange);padding:14px 18px">
+    <span class="task-id" style="color:var(--orange)">Monday</span>
+    <h3 style="font-size:22px">Starter</h3>
+    <p style="font-size:18px;margin:4px 0 0">Pick one lane. One hard win. Save a skill. Gate money and merge.</p>
   </div>
 </div>
 
 </div>
 
 <!--
-PRESENTER NOTES: TAKEAWAYS
-- Three things. Titles first.
-- Takeaway 3: skills are recipes you keep after a hard win. Not magic from "please save a skill."
+PRESENTER NOTES: TAKEAWAYS + MONDAY
+- End on the starter. Concrete next step.
 -->

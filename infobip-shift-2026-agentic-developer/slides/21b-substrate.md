@@ -26,11 +26,15 @@ class: devsum-slide
   </div>
 </div>
 
+<p class="footer-note" style="margin-top:12px">
+  The village is the demo. The pattern travels: Cursor skills · Claude skills · Copilot instructions · MCP servers.
+</p>
+
 </div>
 
 <!--
 PRESENTER NOTES: SUBSTRATE
 - MCP = protocol, not a brand.
 - Skills = recipes. Plugins = bundle of skills + connectors.
-- Same pattern in Cursor, Claude, Copilot. Village is the demo.
+- Pattern travels line replaces the old standalone slide.
 -->

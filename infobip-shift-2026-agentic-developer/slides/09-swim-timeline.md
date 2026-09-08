@@ -5,61 +5,36 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<h2>Swim timeline</h2>
-<p class="lede">Nine beats. Intent to watch.</p>
+<span class="badge badge-green" style="font-size:14px;padding:5px 14px;margin-bottom:8px">demo arc</span>
 
-<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:4px">
-  <div class="task-card" style="padding:12px 14px;min-height:100px">
-    <span class="task-id" style="color:var(--blue)">01</span>
-    <h3 style="font-size:18px;margin-top:4px">Intent</h3>
-    <p style="font-size:15px;margin:4px 0 0;line-height:1.3">Availability first. Prefer ~09:30.</p>
+<h2 style="font-size:36px;margin-bottom:6px">Swim booking · four beats</h2>
+<p class="lede" style="margin-bottom:12px">Intent → eyes → decision → watch. Human gates stay human.</p>
+
+<div class="diagram-chain" style="margin:0;gap:10px;align-items:stretch">
+  <div class="diagram-node blue" style="min-height:180px;padding:16px 12px;flex:1">
+    <div class="label" style="font-size:20px;margin-bottom:8px">1 · Intent</div>
+    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">Book Baby Goldfish. Prefer ~09:30. Parents in pool. €0.</div>
   </div>
-  <div class="task-card" style="padding:12px 14px;min-height:100px">
-    <span class="task-id" style="color:var(--purple)">02</span>
-    <h3 style="font-size:18px;margin-top:4px">Specialists</h3>
-    <p style="font-size:15px;margin:4px 0 0;line-height:1.3">stage + travel + CoS.</p>
+  <div class="diagram-arrow" style="font-size:24px">→</div>
+  <div class="diagram-node orange" style="min-height:180px;padding:16px 12px;flex:1">
+    <div class="label" style="font-size:20px;margin-bottom:8px">2 · Eyes</div>
+    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">Travel + stage on live Turneo. Cookie banner. Real slots.</div>
   </div>
-  <div class="task-card" style="padding:12px 14px;min-height:100px">
-    <span class="task-id" style="color:var(--accent)">03</span>
-    <h3 style="font-size:18px;margin-top:4px">Memory</h3>
-    <p style="font-size:15px;margin:4px 0 0;line-height:1.3">Turneo · Goldfish · parents in pool · €0.</p>
+  <div class="diagram-arrow" style="font-size:24px">→</div>
+  <div class="diagram-node purple" style="min-height:180px;padding:16px 12px;flex:1">
+    <div class="label" style="font-size:20px;margin-bottom:8px">3 · Gate</div>
+    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">I pick the slot. Room number via CoS. Don't invent refs.</div>
   </div>
-  <div class="task-card" style="padding:12px 14px;min-height:100px">
-    <span class="task-id" style="color:var(--orange)">04</span>
-    <h3 style="font-size:18px;margin-top:4px">Live slots</h3>
-    <p style="font-size:15px;margin:4px 0 0;line-height:1.3">Sat 12 / Sun 13 open. Mid-week grey.</p>
-  </div>
-  <div class="task-card" style="padding:12px 14px;min-height:100px">
-    <span class="task-id" style="color:var(--pink)">05</span>
-    <h3 style="font-size:18px;margin-top:4px">Decision</h3>
-    <p style="font-size:15px;margin:4px 0 0;line-height:1.3">Sun 13 · 09:30 · both boys.</p>
-  </div>
-  <div class="task-card" style="padding:12px 14px;min-height:100px">
-    <span class="task-id" style="color:var(--red)">06</span>
-    <h3 style="font-size:18px;margin-top:4px">Friction</h3>
-    <p style="font-size:15px;margin:4px 0 0;line-height:1.3">Needs a room number. Don't invent one.</p>
-  </div>
-  <div class="task-card" style="padding:12px 14px;min-height:100px">
-    <span class="task-id" style="color:var(--accent2)">07</span>
-    <h3 style="font-size:18px;margin-top:4px">Unblock</h3>
-    <p style="font-size:15px;margin:4px 0 0;line-height:1.3">Via CoS: room <span class="mono accent">00</span>.</p>
-  </div>
-  <div class="task-card" style="padding:12px 14px;min-height:100px">
-    <span class="task-id" style="color:var(--blue)">08</span>
-    <h3 style="font-size:18px;margin-top:4px">Ownership</h3>
-    <p style="font-size:15px;margin:4px 0 0;line-height:1.3">Travel books. Stage stays on slides.</p>
-  </div>
-  <div class="task-card" style="padding:12px 14px;min-height:100px">
-    <span class="task-id" style="color:var(--purple)">09</span>
-    <h3 style="font-size:18px;margin-top:4px">Watch</h3>
-    <p style="font-size:15px;margin:4px 0 0;line-height:1.3">Routine: mid-week Goldfish mornings.</p>
+  <div class="diagram-arrow" style="font-size:24px">→</div>
+  <div class="diagram-node green" style="min-height:180px;padding:16px 12px;flex:1">
+    <div class="label" style="font-size:20px;margin-bottom:8px">4 · Watch</div>
+    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">Travel owns booking. Mid-week mornings as they unlock.</div>
   </div>
 </div>
 
 </div>
 
 <!--
-PRESENTER NOTES: SWIM TIMELINE
-- Walk the nine panels fast. This maps the screenshots next.
-- Human gates: slot choice + room number. Bots don't invent refs.
+PRESENTER NOTES: SWIM FOUR BEATS
+- Replaces the old 9-panel grid. Walk fast into screenshots.
 -->

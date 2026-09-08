@@ -7,7 +7,7 @@ class: devsum-slide
 <div style="display:grid;grid-template-columns:1.4fr 1fr;gap:32px;align-items:center">
 <div>
 <p style="font-size:clamp(28px,3.5vw,52px);font-weight:800;line-height:1.1;margin-bottom:8px">Thank you.</p>
-<p class="dim" style="font-size:clamp(18px,2vw,26px);margin-bottom:18px">Build one specialist this week. Give it a lane.</p>
+<p class="dim" style="font-size:clamp(18px,2vw,26px);margin-bottom:18px">Hire one specialist this week. Give it a lane.</p>
 <div style="margin-top:14px">
 <p style="font-size:clamp(20px,2.2vw,30px);font-weight:700;margin-bottom:4px">Debbie O&rsquo;Brien</p>
 <p class="dim small" style="margin-bottom:14px">Independent Developer Educator &middot; debbie.codes</p>
