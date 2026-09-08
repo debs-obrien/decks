@@ -12,9 +12,9 @@ class: devsum-slide
   <span class="gradient-text">You still merge.</span>
 </p>
 
-<p style="font-size:25px;color:var(--text-dim);max-width:880px;margin:0 auto 26px;line-height:1.4">
-  Review the repro, the before/after, the diff, the test.
-  Trust the <span class="accent bold">loop</span> — not a black-box agent.
+<p style="font-size:24px;color:var(--text-dim);max-width:880px;margin:0 auto 26px;line-height:1.4">
+  Check the repro, the before and after, the diff, the test.
+  Trust the <span class="accent bold">loop</span>, not a black-box agent.
 </p>
 
 <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:1000px">
@@ -26,6 +26,6 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES — HUMAN MERGE (≈30s)
-- Don't hand the keys to merge. The win is reviewable artifacts in ~2 minutes.
+PRESENTER NOTES: HUMAN MERGE (~30s)
+- Don't hand over merge. The win is reviewable artifacts in about two minutes.
 -->

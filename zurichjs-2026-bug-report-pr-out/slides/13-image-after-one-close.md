@@ -17,7 +17,8 @@ class: devsum-slide hero
   align-items: center;
   justify-content: center;
   gap: 12px;
-  min-height: 0; height: 100%;
+  min-height: 0;
+  height: 100%;
 }
 .shot-badge {
   display: inline-flex;
@@ -33,7 +34,7 @@ class: devsum-slide hero
 }
 .shot.phone {
   width: auto;
-  max-width: 340px;
+  max-width: 300px;
   max-height: 540px;
   object-fit: contain;
   border-radius: 18px;
@@ -43,7 +44,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES — AFTER IMAGE (≈20s)
-- Evidence from PR #623 verification. closeCount: 1.
-- Header toggle hidden while open; overlay ✕ remains.
+PRESENTER NOTES: AFTER IMAGE (~20s)
+- Proof from the fix PR. closeCount: 1.
+- Header toggle hidden while open. Overlay X stays.
 -->

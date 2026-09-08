@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Issue · #622 · elevated for ZurichJS</div>
-<img src="../public/images/issue-622.png" alt="GitHub issue #622 Mobile menu exposes two Close menu buttons" class="shot" />
+<div class="shot-badge">Issue · elevated for ZurichJS</div>
+<img src="../public/images/issue-622.png" alt="GitHub issue: Mobile menu exposes two Close menu buttons" class="shot" />
 
 </div>
 
@@ -17,7 +17,8 @@ class: devsum-slide hero
   align-items: center;
   justify-content: center;
   gap: 12px;
-  min-height: 0; height: 100%;
+  min-height: 0;
+  height: 100%;
 }
 .shot-badge {
   display: inline-flex;
@@ -41,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES — ISSUE IMAGE (≈20s)
-- Cursor bot authored. Linked to fix PR #623 in the sidebar.
-- Read the callout: gates would not auto-file; Debbie elevated.
+PRESENTER NOTES: ISSUE IMAGE (~20s)
+- Cursor bot authored it. Linked fix PR shows up in the sidebar.
+- Read the callout: gates would not auto-file. I elevated it.
 -->

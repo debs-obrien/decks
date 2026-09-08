@@ -1,9 +1,9 @@
 # Bug Report In, Pull Request Out: Agentic CI with Playwright
 
-Slidev deck for ZurichJS Conf 2026 · Fri 11 Sep · 15:10–15:25 · Auditorium.
+Slidev deck for ZurichJS Conf 2026 · Fri 11 Sep · Auditorium.
 
 > A production hunt finds a real a11y bug. Honesty gates keep it a candidate.
-> Elevate → issue → reproduce → fix → verify → PR. Human merge still wins.
+> Elevate, issue, reproduce, fix, verify, PR. Human merge still wins.
 
 ## Run locally
 
@@ -27,7 +27,7 @@ pnpm capture:images
 
 ## Speaker
 
-Debbie O'Brien — Independent Developer Educator
+Debbie O'Brien · Independent Developer Educator
 
 - https://debbie.codes
 - https://github.com/debs-obrien

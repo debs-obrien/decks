@@ -17,7 +17,8 @@ class: devsum-slide hero
   align-items: center;
   justify-content: center;
   gap: 12px;
-  min-height: 0; height: 100%;
+  min-height: 0;
+  height: 100%;
 }
 .shot-badge {
   display: inline-flex;
@@ -41,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES — THETOPBAR DIFF (≈30s)
-- One-file fix: v-show="!isOpen" on header toggle; aria-label stays Open menu.
-- Copilot review comment is fine to mention: humans still read AI review.
+PRESENTER NOTES: THETOPBAR DIFF (~30s)
+- One-file fix: hide the header toggle while open.
+- Copilot review comment is fine to mention. Humans still read AI review.
 -->

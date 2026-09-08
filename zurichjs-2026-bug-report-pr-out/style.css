@@ -549,7 +549,7 @@ iframe {
 .diagram-node.pink { border-color: var(--pink); }
 .diagram-node.red { border-color: var(--red); }
 
-/* Hero slide variant — for slides that are mostly one big visual element. */
+/* Hero slide variant - for slides that are mostly one big visual element. */
 .slidev-layout.devsum-slide.hero .slide-inner {
   padding-top: 0;
 }

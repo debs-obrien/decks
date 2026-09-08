@@ -20,11 +20,10 @@ class: devsum-slide
   <p style="font-size:clamp(20px,2.2vw,28px);font-weight:800;margin-bottom:2px">Debbie O&rsquo;Brien</p>
   <p class="dim small" style="margin-bottom:12px">Independent Developer Educator · debbie.codes</p>
 
-  <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;max-width:1000px;margin:0 auto">
-    <a href="https://github.com/debs-obrien/debbie.codes/pull/621" target="_blank" rel="noreferrer" class="thank-link" style="text-decoration:none">PR #621 hunt</a>
-    <a href="https://github.com/debs-obrien/debbie.codes/issues/622" target="_blank" rel="noreferrer" class="thank-link" style="text-decoration:none">Issue #622</a>
-    <a href="https://github.com/debs-obrien/debbie.codes/pull/623" target="_blank" rel="noreferrer" class="thank-link" style="text-decoration:none">PR #623 fix</a>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;max-width:920px;margin:0 auto">
+    <a href="https://debbie.codes" target="_blank" rel="noreferrer" class="thank-link" style="text-decoration:none">debbie.codes</a>
     <a href="https://debbie.codes/blog/an-agent-that-hunts-bugs-while-i-sleep" target="_blank" rel="noreferrer" class="thank-link" style="text-decoration:none">blog post</a>
+    <a href="https://github.com/debs-obrien" target="_blank" rel="noreferrer" class="thank-link" style="text-decoration:none">github / debs-obrien</a>
   </div>
 
   <p class="small dim" style="margin-top:14px"><span class="accent bold mono">github.com/debs-obrien/decks</span> · ZurichJS deck source</p>
@@ -33,7 +32,7 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES — THANKS (≈20s + Q&A)
-- Don't rush “any questions?”. Let the line sit.
-- Links: hunt 621, issue 622, fix 623, blog, skills in PR #576.
+PRESENTER NOTES: THANKS (~20s + Q&A)
+- Don't rush "any questions?". Let the line sit.
+- Soft links only: site, blog, github. No issue-number wall.
 -->

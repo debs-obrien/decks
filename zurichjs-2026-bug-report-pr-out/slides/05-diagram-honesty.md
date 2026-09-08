@@ -5,36 +5,84 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<h2>Honesty taxonomy + confidence</h2>
-<p class="lede">Finding bugs is easy. <span class="accent bold">Owning uncertainty</span> is the product.</p>
+<h2 style="font-size:36px">Say what you found. Say how sure you are.</h2>
+<p class="lede">Finding bugs is easy. Being honest about uncertainty is the hard part.</p>
 
-<div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:18px">
-  <div class="task-card" style="flex:1;min-width:150px;text-align:center"><h3 style="font-size:21px">🐞 Bug</h3><p class="small">Genuinely broken</p></div>
-  <div class="task-card" style="flex:1;min-width:150px;text-align:center"><h3 style="font-size:21px">😕 Bad UX</h3><p class="small">Works, but shouldn&rsquo;t</p></div>
-  <div class="task-card" style="flex:1;min-width:150px;text-align:center"><h3 style="font-size:21px">🧪 Env / data</h3><p class="small">Setup, not product</p></div>
-  <div class="task-card" style="flex:1;min-width:150px;text-align:center"><h3 style="font-size:21px">🕳️ Test gap</h3><p class="small">Missing coverage</p></div>
-  <div class="task-card" style="flex:1;min-width:150px;text-align:center"><h3 style="font-size:21px">❓ Inconclusive</h3><p class="small">Couldn&rsquo;t confirm</p></div>
+<div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:16px">
+  <div class="task-card" style="flex:1;min-width:140px;text-align:center;overflow:hidden;padding:14px 12px"><h3 style="font-size:20px">🐞 Bug</h3><p class="small">Actually broken</p></div>
+  <div class="task-card" style="flex:1;min-width:140px;text-align:center;overflow:hidden;padding:14px 12px"><h3 style="font-size:20px">😕 Bad UX</h3><p class="small">Works, but shouldn&rsquo;t</p></div>
+  <div class="task-card" style="flex:1;min-width:140px;text-align:center;overflow:hidden;padding:14px 12px"><h3 style="font-size:20px">🧪 Env / data</h3><p class="small">Setup, not product</p></div>
+  <div class="task-card" style="flex:1;min-width:140px;text-align:center;overflow:hidden;padding:14px 12px"><h3 style="font-size:20px">🕳️ Test gap</h3><p class="small">Missing coverage</p></div>
+  <div class="task-card" style="flex:1;min-width:140px;text-align:center;overflow:hidden;padding:14px 12px"><h3 style="font-size:20px">❓ Inconclusive</h3><p class="small">Couldn&rsquo;t confirm</p></div>
 </div>
 
-<p style="text-align:center;margin-top:22px;font-size:24px">
-  Every finding also carries
+<p style="text-align:center;margin-top:18px;font-size:22px">
+  Plus confidence:
   <span class="badge badge-green">High</span>
   <span class="badge badge-orange">Medium</span>
   <span class="badge badge-red">Low</span>
 </p>
 
-<div class="flow-diagram" style="margin:18px auto 0;max-width:1040px;font-size:20px">
-  <span class="flow-node flow-node-green" style="padding:12px 18px"><span class="flow-label" style="font-size:20px;font-weight:700">bug + high + major/blocker</span></span>
-  <span class="flow-arrow">→</span>
-  <span class="flow-node flow-node-purple" style="padding:12px 18px"><span class="flow-label" style="font-size:20px;font-weight:700">auto-file issue</span></span>
-  <span class="flow-arrow">→</span>
-  <span class="flow-node flow-node-orange" style="padding:12px 18px"><span class="flow-label" style="font-size:20px;font-weight:700">else: candidate only</span></span>
+<div class="gate-row">
+  <div class="gate-box green">bug + high + major/blocker</div>
+  <div class="gate-arrow">→</div>
+  <div class="gate-box purple">auto-file issue</div>
+  <div class="gate-arrow">→</div>
+  <div class="gate-box orange">else: candidate only</div>
 </div>
 
 </div>
+
+<style>
+.gate-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: 10px;
+  margin: 18px auto 0;
+  max-width: 1060px;
+  flex-wrap: nowrap;
+}
+.gate-box {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 750;
+  line-height: 1.3;
+  padding: 16px 14px;
+  border-radius: 12px;
+  border: 1px solid transparent;
+  overflow-wrap: anywhere;
+}
+.gate-box.green {
+  background: rgba(46, 173, 51, 0.12);
+  border-color: rgba(46, 173, 51, 0.3);
+  color: var(--accent);
+}
+.gate-box.purple {
+  background: rgba(124, 58, 237, 0.12);
+  border-color: rgba(124, 58, 237, 0.3);
+  color: #a78bfa;
+}
+.gate-box.orange {
+  background: rgba(245, 158, 11, 0.12);
+  border-color: rgba(245, 158, 11, 0.3);
+  color: #fbbf24;
+}
+.gate-arrow {
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+  font-size: 26px;
+  font-weight: 900;
+  flex: 0 0 auto;
+}
+</style>
 
 <!--
-PRESENTER NOTES — HONESTY (≈50s)
-- Walk buckets fast. Land: auto-file needs bug + high + major/blocker.
-- Tonight's demo is high-confidence bug but severity minor → candidate.
+PRESENTER NOTES: HONESTY (~50s)
+- Walk buckets fast. Auto-file needs bug + high + major/blocker.
+- Tonight's demo is high confidence, severity minor. So candidate only.
 -->

@@ -19,8 +19,8 @@ mermaid:
     fontSize: 24px
 info: |
   ## Bug Report In, Pull Request Out
-  Agentic CI with Playwright — ZurichJS Conf 2026 lightning talk.
-  Production hunt → honesty gates → issue → reproduce → fix → PR.
+  Agentic CI with Playwright. ZurichJS Conf 2026 lightning talk.
+  Production hunt, honesty gates, issue, reproduce, fix, PR.
 class: devsum-slide
 lineNumbers: false
 canvasWidth: 1280
@@ -29,7 +29,7 @@ aspectRatio: "16/9"
 
 <div class="slide-inner center title-glow" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0;min-height:100%;height:100%">
 
-<div class="title-badge">ZurichJS Conf 2026 · Fri 11 Sep · 15:10–15:25 · Auditorium</div>
+<div class="title-badge">ZurichJS Conf 2026 · Fri 11 Sep · Auditorium</div>
 
 <div class="broken-icon" style="margin:18px 0">
   <span>🐞</span><span class="arr">→</span><span>📝</span><span class="arr">→</span><span>🔀</span>
@@ -50,10 +50,10 @@ aspectRatio: "16/9"
 </div>
 
 <!--
-PRESENTER NOTES — COVER (≈10s)
-- Lightning talk: 15 minutes. Hold this for a breath, then go.
-- Don't thank the room yet — open with the cold-open promise.
-- Gesture the emoji chain: bug → report → PR. That's the whole talk.
+PRESENTER NOTES: COVER (~10s)
+- Lightning talk. Hold for a breath, then go.
+- Don't thank the room yet. Open with the cold-open promise.
+- Gesture the chain: bug, report, PR. That's the whole talk.
 -->
 
 ---

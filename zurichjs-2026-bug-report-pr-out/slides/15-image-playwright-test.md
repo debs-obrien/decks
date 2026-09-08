@@ -17,7 +17,8 @@ class: devsum-slide hero
   align-items: center;
   justify-content: center;
   gap: 12px;
-  min-height: 0; height: 100%;
+  min-height: 0;
+  height: 100%;
 }
 .shot-badge {
   display: inline-flex;
@@ -41,7 +42,8 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES — PLAYWRIGHT TEST (≈30s)
-- Highlight toHaveCount(1). Old filter({ hasText: ✕ }) gone — bug forced the filter.
-- Loop leaves a test so the bug can't quietly return.
+PRESENTER NOTES: PLAYWRIGHT TEST (~30s)
+- Highlight toHaveCount(1).
+- The old filter for the X went away because the bug forced that filter.
+- Leave a test so it can't quietly come back.
 -->

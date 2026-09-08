@@ -2,172 +2,191 @@
   {
     "slide": 1,
     "title": "Bug Report In,Pull Request Out",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 2,
     "title": "Debbie O’Brien",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": true,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 3,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 4,
-    "title": "Discover → Issue → Reproduce → Fix → Verify → PR",
-    "err": false,
+    "title": "Same shape every time",
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 5,
-    "title": "Hunt and fix are separate units of work",
-    "err": false,
+    "title": "Hunt and fix are different jobs",
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 6,
-    "title": "Honesty taxonomy + confidence",
-    "err": false,
+    "title": "Say what you found. Say how sure you are.",
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 7,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 8,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 9,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 10,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 11,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 12,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 13,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 14,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 15,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 16,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 17,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 18,
-    "title": "Take home in four lines",
-    "err": false,
+    "title": "Four things to steal",
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": false,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   },
   {
     "slide": 19,
     "title": "",
-    "err": false,
+    "hasTime": false,
+    "hasEmDash": false,
+    "hasPrWall": false,
     "zephyr": false,
-    "bio": true,
-    "clipped": [],
-    "imgBroken": false
+    "err": false,
+    "clipped": []
   }
 ]

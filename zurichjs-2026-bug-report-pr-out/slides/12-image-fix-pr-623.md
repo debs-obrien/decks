@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Fix PR · #623 · Closes #622</div>
-<img src="../public/images/fix-pr-623.png" alt="GitHub pull request #623 fixing single Close menu control" class="shot" />
+<div class="shot-badge">Fix PR · with proof</div>
+<img src="../public/images/fix-pr-623.png" alt="GitHub pull request fixing single Close menu control" class="shot" />
 
 </div>
 
@@ -17,7 +17,8 @@ class: devsum-slide hero
   align-items: center;
   justify-content: center;
   gap: 12px;
-  min-height: 0; height: 100%;
+  min-height: 0;
+  height: 100%;
 }
 .shot-badge {
   display: inline-flex;
@@ -41,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES — FIX PR IMAGE (≈25s)
-- Point at Summary + Repro before any code change + Closes #622.
-- Evidence: before closeCount 2, after 1, plus regression test.
+PRESENTER NOTES: FIX PR IMAGE (~25s)
+- Point at Summary, Repro before any code change, and the proof.
+- Before closeCount 2, after 1, plus a regression test.
 -->

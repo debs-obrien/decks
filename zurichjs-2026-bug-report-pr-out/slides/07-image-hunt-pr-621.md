@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Hunt PR · #621 · production site-bug-hunt</div>
-<img src="../public/images/hunt-pr-621.png" alt="GitHub pull request #621: production site-bug-hunt for ZurichJS talk prep" class="shot" />
+<div class="shot-badge">Hunt PR · production site-bug-hunt</div>
+<img src="../public/images/hunt-pr-621.png" alt="GitHub pull request for production site-bug-hunt for ZurichJS talk prep" class="shot" />
 
 </div>
 
@@ -17,7 +17,8 @@ class: devsum-slide hero
   align-items: center;
   justify-content: center;
   gap: 12px;
-  min-height: 0; height: 100%;
+  min-height: 0;
+  height: 100%;
 }
 .shot-badge {
   display: inline-flex;
@@ -44,7 +45,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES — HUNT PR IMAGE (≈25s)
-- Point at the candidates table: mobile-duplicate-close-menu is “best talk demo”.
-- Call out: No GitHub issues filed. Honesty gates held.
+PRESENTER NOTES: HUNT PR IMAGE (~25s)
+- Point at the candidates table. Mobile duplicate Close is the talk demo.
+- Call out: no GitHub issues filed. Honesty gates held.
 -->

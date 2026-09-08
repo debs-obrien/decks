@@ -13,9 +13,9 @@ class: devsum-slide
 <h1>Debbie O&rsquo;Brien</h1>
 <p class="about-role">Independent Developer Educator</p>
 <ul class="feature-list about-list">
-<li><span class="icon">🧪</span><span>Days in <span class="bold">testing &amp; agents</span> with Playwright</span></li>
-<li><span class="icon">🌙</span><span>Building loops that hunt bugs <span class="bold">while I sleep</span></span></li>
-<li><span class="icon">🎤</span><span>Here for the <span class="bold">honest</span> version — gates, not magic</span></li>
+<li><span class="icon">🧪</span><span>I live in <span class="bold">testing and agents</span> with Playwright</span></li>
+<li><span class="icon">🌙</span><span>I build loops that hunt bugs <span class="bold">while I sleep</span></span></li>
+<li><span class="icon">🎤</span><span>I show the <span class="bold">honest</span> version. Gates, not magic.</span></li>
 </ul>
 <div class="about-links">
 <span class="thank-link">debbie.codes</span>
@@ -30,7 +30,8 @@ class: devsum-slide
 .about-slide {
   display: flex;
   align-items: center;
-  min-height: 0; height: 100%;
+  min-height: 0;
+  height: 100%;
 }
 .about-grid {
   display: grid;
@@ -79,7 +80,7 @@ class: devsum-slide
 </style>
 
 <!--
-PRESENTER NOTES — ABOUT (≈20s)
-- Lightning pace: name, role, one line on why honesty in agent loops.
-- Then: “tonight is a real production story on debbie.codes.”
+PRESENTER NOTES: ABOUT (~20s)
+- Keep it short. Name, role, why honesty matters.
+- Then: this is a real production story on debbie.codes.
 -->

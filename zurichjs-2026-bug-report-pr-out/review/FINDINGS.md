@@ -1,24 +1,16 @@
 # Visual QA findings (1280×720 live Slidev)
 
-Captured from `pnpm exec slidev` studio + Playwright screenshots in this folder.
+Debbie review pass applied. Screenshots recaptured from live Slidev.
 
-## Pass
+## Checks
 
-- No text overflow / cut-off at slide edges (automated + visual review of all 19).
-- Titles readable; diagram slides clear.
-- Bio: **Independent Developer Educator** on about + thanks; **no Zephyr**.
-- Cover elements centered (badge / icons / title at cx=640).
-- Image slides use full-bleed GH/phone shots with short badges; GH shots ~895×560 (auditorium-readable for key rows).
+- No clock times on slides (cover is event + day + venue only)
+- Thanks slide: soft links only (debbie.codes, blog, github). No PR/issue number wall
+- Loop diagram redesigned as 3×2 grid so labels fit inside boxes
+- Two-skills + honesty gate boxes overflow-checked
+- No em dashes / en dashes as em dashes in slide copy or speaker notes
+- Voice tightened to Debbie tone (short, plain, concrete)
 
-## Soft notes (acceptable for lightning; not blockers)
+## Files
 
-1. **GitHub UI screenshots** (08–10, 13, 15–16): secondary chrome (sidebar, checks) is dense — key PR/issue titles + candidate table / diff remain the readable signal.
-2. **Honesty flow nodes** (06): bumped label size after review for projector distance.
-3. **Phone before/after** (11, 14): intentionally narrow (~260×560); annotations carry the story.
-
-## Fixes applied this pass
-
-- Bio already Independent Developer Educator (confirmed).
-- Image `src` → `/images/...` (Slidev public URL).
-- Cover flex-centered; honesty flow type enlarged; about photo circle CSS reinforced.
-- Added this `review/` screenshot pack for Debbie.
+`slide-01.png` … `slide-19.png` plus `qa-findings.json`

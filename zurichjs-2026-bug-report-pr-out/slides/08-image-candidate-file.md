@@ -17,7 +17,8 @@ class: devsum-slide hero
   align-items: center;
   justify-content: center;
   gap: 12px;
-  min-height: 0; height: 100%;
+  min-height: 0;
+  height: 100%;
 }
 .shot-badge {
   display: inline-flex;
@@ -41,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES — CANDIDATE IMAGE (≈25s)
-- Show frontmatter: severity minor, confidence high, classification bug.
-- This file is the “bug report in” before a human elevates.
+PRESENTER NOTES: CANDIDATE IMAGE (~25s)
+- Frontmatter: severity minor, confidence high, classification bug.
+- This is the bug report before a human elevates it.
 -->

@@ -5,28 +5,28 @@ class: devsum-slide
 
 <div class="slide-inner takeaways-slide">
 
-<h2>Take home in four lines</h2>
+<h2>Four things to steal</h2>
 
 <div class="takeaways-grid">
   <div class="task-card">
     <span class="task-id" style="color:var(--blue)">01</span>
     <h3>Split hunt from fix</h3>
-    <p>Two skills, two jobs. Compose them.</p>
+    <p>Two skills. Two jobs. Compose them.</p>
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--purple)">02</span>
     <h3>Gate on honesty</h3>
-    <p>Classify + confidence. Minor stays a candidate.</p>
+    <p>Classify. Add confidence. Minor stays a candidate.</p>
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--accent)">03</span>
     <h3>Reproduce before code</h3>
-    <p>Honest before shots. No repro → no PR.</p>
+    <p>Honest before shots. No repro, no PR.</p>
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--orange)">04</span>
     <h3>Trust the loop</h3>
-    <p>Human merge. Leave a regression test.</p>
+    <p>You merge. Leave a regression test.</p>
   </div>
 </div>
 
@@ -45,6 +45,7 @@ class: devsum-slide
 </style>
 
 <!--
-PRESENTER NOTES — TAKEAWAYS (≈35s)
-- Read titles only. Callback: #621 → #622 → #623 on debbie.codes.
+PRESENTER NOTES: TAKEAWAYS (~35s)
+- Read titles only.
+- Callback: this whole loop ran on debbie.codes.
 -->
