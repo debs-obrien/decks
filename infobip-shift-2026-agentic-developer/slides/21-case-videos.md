@@ -5,32 +5,32 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<span class="badge badge-blue" style="font-size:14px;padding:5px 14px;margin-bottom:10px">channel case</span>
+<span class="badge badge-blue" style="font-size:14px;padding:5px 14px;margin-bottom:8px">channel case</span>
 
-<h2 style="margin-bottom:8px">Videos: find the talk</h2>
+<h2 style="font-size:36px;margin-bottom:4px">Videos: find the talk</h2>
+<p class="lede" style="margin-bottom:10px">Flat dump → Featured → chips → Latest</p>
 
-<div class="card-row" style="margin-top:8px;align-items:stretch">
-  <div class="task-card" style="border-color:var(--text-muted);padding:18px 20px;flex:1">
-    <span class="task-id" style="color:var(--text-muted)">before</span>
-    <h3 style="font-size:24px;margin-top:6px">Flat dump</h3>
-    <p style="font-size:20px;margin:8px 0 0">Long /videos list. Playwright vs agents vs Grok? Good luck scrolling.</p>
+<div class="diagram-chain" style="margin:0;gap:10px;align-items:stretch">
+  <div class="diagram-node orange" style="min-height:210px;padding:16px 14px;flex:1">
+    <div class="label" style="font-size:18px;margin-bottom:8px">1 · Spot</div>
+    <div class="sub" style="font-size:18px;line-height:1.35;margin:0">Scout on live /videos. Long list. Playwright vs agents vs Grok? Hard to find.</div>
   </div>
-  <div class="diagram-arrow" style="align-self:center;padding:0 8px;font-size:28px">→</div>
-  <div class="task-card" style="border-color:var(--accent);padding:18px 20px;flex:1">
-    <span class="task-id" style="color:var(--accent)">after</span>
-    <h3 style="font-size:24px;margin-top:6px">Featured → chips → Latest</h3>
-    <p style="font-size:20px;margin:8px 0 0">All · Playwright · MCP · Agents · Nuxt · Grok Bot. One tap.</p>
+  <div class="diagram-arrow" style="font-size:24px">→</div>
+  <div class="diagram-node blue" style="min-height:210px;padding:16px 14px;flex:1">
+    <div class="label" style="font-size:18px;margin-bottom:8px">2 · Decide</div>
+    <div class="sub" style="font-size:18px;line-height:1.35;margin:0">Design locks path: Featured strip, then chips (All · Playwright · MCP · Agents · Nuxt · Grok Bot), then Latest.</div>
+  </div>
+  <div class="diagram-arrow" style="font-size:24px">→</div>
+  <div class="diagram-node green" style="min-height:210px;padding:16px 14px;flex:1">
+    <div class="label" style="font-size:18px;margin-bottom:8px">3 · Ship</div>
+    <div class="sub" style="font-size:18px;line-height:1.35;margin:0">One-tap filters. Talks like Playwright MCP Servers Explained are findable.</div>
   </div>
 </div>
-
-<p class="footer-note" style="margin-top:20px">
-  Scout spotted it. Design locked the path. Engineer shipped. Browsing finally makes sense.
-</p>
 
 </div>
 
 <!--
 PRESENTER NOTES: CASE VIDEOS
-- Story: scout → design → ship. Not a PR number dump.
-- Example findable talk: Playwright MCP Servers Explained.
+- Issue #615 in notes only. Don't dump numbers on stage or thanks.
+- Punch: browsing finally makes sense.
 -->
