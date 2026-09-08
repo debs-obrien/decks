@@ -1,6 +1,6 @@
 ---
 name: conference-slidev-deck
-description: Build and ship conference Slidev decks in debs-obrien/decks. Match DevSum/workshop; one screenshot per slide; diagrams; starting_ref main; mandatory live 1280×720 review before sign-off; no stale Zephyr bio; privacy home-only; no finals upload without Debbie yes via CoS.
+description: Build and ship conference Slidev decks in debs-obrien/decks. Match DevSum/workshop; one screenshot per slide; diagrams; starting_ref main; Debbie polish (no em dashes, no talk clock times on slides, no PR dumps on thanks, short voice, diagram labels fit at 1280x720); mandatory live review before sign-off; no stale Zephyr bio; privacy home-only; no finals upload without Debbie yes via CoS.
 ---
 
 # Conference Slidev deck (decks repo)
@@ -35,8 +35,18 @@ Folder naming: `<event-slug>-<talk-slug>/` (e.g. `infobip-shift-2026-agentic-dev
 ## Privacy (hard rules)
 
 - Never show street address, postcode, phone, or email on slides
-- Say **“home”** only for shipping / delivery
+- Say **"home"** only for shipping / delivery
 - Prefer totals in text over PII screenshots
+
+## Debbie polish (hard rules)
+
+Apply these on every deck pass (slides + speaker notes):
+
+1. **No em dashes** - never use `—` on slides or in notes. Prefer a period, comma, colon, or a plain hyphen.
+2. **No talk clock times on slides** - event / day / venue are fine (e.g. `Tue 15 Sep 2026 · Zadar`). Do **not** put schedule times like `12:15-12:45` or `CET` ranges on slides. Timing belongs in speaker notes only.
+3. **Thanks / end slides** - no PR or issue number dumps. Personal links + QR are enough.
+4. **Debbie voice** - short, plain, concrete, contractions. No AI filler ("leverage", "delve", "in today's landscape", long throat-clearing ledes). Prefer "I pick" / "I unblock" over corporate abstraction.
+5. **Diagram review at 1280×720** - every label must fit **inside** its box. No spill, no clipped text, no wrapping that overflows the node. Shorten copy before shrinking the whole slide.
 
 ## Structure
 
@@ -45,7 +55,7 @@ Folder naming: `<event-slug>-<talk-slug>/` (e.g. `infobip-shift-2026-agentic-dev
 3. **One full slide per screenshot** - never collage Desktop captures
 4. Takeaways (3) + thanks / QR
 
-Aim ~20-28 slides for a 30-minute talk. Include speaker notes with timing.
+Aim ~20-28 slides for a 30-minute talk. Include speaker notes with timing (notes only, not on-slide clocks).
 
 ## Screenshots
 
@@ -75,7 +85,7 @@ Build must succeed before you claim the deck is done.
 Do **not** sign off from markdown alone.
 
 1. Render slides at **1280×720** (`pnpm dev` and/or export)
-2. Visually review **every** slide - overflow, cut-off text, image framing, contrast
+2. Visually review **every** slide - overflow, cut-off text, image framing, contrast, diagram label fit
 3. Fix → rebuild
 4. Only then push / update the PR; report URL, slide count, image map
 
@@ -83,7 +93,7 @@ If live preview is impossible in the environment, say so in the PR and still `pn
 
 ## Finals / speaker uploads (hard gate)
 
-- **No finals upload** (Sessionize, conference portal, shared “final” PDF/PPTX, public “ready for stage” drop) **without Debbie yes via CoS**
+- **No finals upload** (Sessionize, conference portal, shared "final" PDF/PPTX, public "ready for stage" drop) **without Debbie yes via CoS**
 - Draft PRs and in-progress Slidev source are fine; calling something final or uploading to the event is a CoS / Debbie decision
 
 ## PR checklist
@@ -92,8 +102,10 @@ If live preview is impossible in the environment, say so in the PR and still `pn
 - [ ] Theme/layout match DevSum/workshop
 - [ ] Bio is Independent Developer Educator (no Zephyr unless asked)
 - [ ] Privacy: home-only; no address/phone/email
+- [ ] Debbie polish: no em dashes; no talk clock times on slides; no PR dumps on thanks; short concrete voice
+- [ ] Diagram labels fit inside boxes at 1280×720
 - [ ] Each screenshot has its own slide + diagrams where promised
-- [ ] Speaker notes with timing
+- [ ] Speaker notes with timing (notes only)
 - [ ] `pnpm build` green
 - [ ] Live 1280×720 review done (or explicitly blocked + called out)
 - [ ] No finals upload without Debbie yes via CoS
