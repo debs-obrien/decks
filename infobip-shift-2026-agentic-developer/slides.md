@@ -148,15 +148,15 @@ src: ./slides/22-skill-divider.md
 ---
 
 ---
+src: ./slides/23-skill-loop.md
+---
+
+---
 src: ./slides/22b-paypal-human.md
 ---
 
 ---
 src: ./slides/22c-privacy-home.md
----
-
----
-src: ./slides/23-skill-loop.md
 ---
 
 ---
