@@ -35,7 +35,7 @@ class: devsum-slide
 </div>
 
 <p class="footer-note" style="text-align:center;margin-top:18px">
-  Recipe: check cart first · add missing qty only · one agent through pay · hand off at PayPal · totals in text, not PII shots
+  Buy once, hand off PayPal, save the skill. · check cart first · add missing qty only · totals in text, not PII
 </p>
 
 </div>
