@@ -20,8 +20,6 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES — VILLAGE INTRO · 4:00–4:45
+PRESENTER NOTES: VILLAGE INTRO
 - Set the mental model before the first screenshot.
-- “Village” = many specialists with tight scopes + a router.
-- Next slide: show the real sidebar.
 -->

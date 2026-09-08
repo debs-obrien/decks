@@ -13,14 +13,12 @@ class: devsum-slide
 </p>
 
 <p style="font-size:26px;line-height:1.4;color:var(--text-dim);max-width:880px;margin:0 auto">
-  Turneo · Baby Goldfish · prefer 09:30 · book only after Debbie picks
+  Turneo · Baby Goldfish · prefer 09:30 · book only after I pick
 </p>
 
 </div>
 
 <!--
-PRESENTER NOTES — SWIM DIVIDER · 6:45–7:00
-- Section break. Reset energy.
-- Real stay: Sat 12 – Sat 19 Sep 2026, Family Hotel Diadora, Punta Skala.
-- Prefer mornings ~09:30. No room number yet at start.
+PRESENTER NOTES: SWIM DIVIDER
+- Real stay: Sat 12 to Sat 19 Sep 2026, Diadora, Punta Skala.
 -->

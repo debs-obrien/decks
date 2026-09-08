@@ -13,9 +13,7 @@ class: devsum-slide hero
 </div>
 
 <!--
-PRESENTER NOTES — SHOT: TURNEO BROWSER · 8:15–9:15
-- Same “eyes” idea as Playwright MCP — browser as the agent’s vision.
-- Point at: date, 09:30 / 14:00, Baby Goldfish x2, Add to cart, cookie consent.
-- “Teach a task” in the chrome is a nice aside if visible — agents learn flows.
-- Prefer morning 09:30 — Debbie’s stated preference.
+PRESENTER NOTES: SHOT: TURNEO BROWSER
+- Same eyes idea as Playwright MCP. Browser is the vision.
+- Prefer morning 09:30.
 -->

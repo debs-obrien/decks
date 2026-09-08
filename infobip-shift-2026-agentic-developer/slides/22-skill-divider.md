@@ -20,8 +20,7 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES — SKILL DIVIDER · 18:30–19:00
-- Punch line (say it twice): Buy once, hand off PayPal, save the skill.
-- Origin: Aug 18, 2× kids Adidas tracksuits, home delivery — never show address.
-- Next: loop diagram → human at PayPal → privacy.
+PRESENTER NOTES: SKILL DIVIDER
+- Punch line twice: Buy once, hand off PayPal, save the skill.
+- Never show address.
 -->

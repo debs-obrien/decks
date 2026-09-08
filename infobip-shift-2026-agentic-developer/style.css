@@ -530,9 +530,21 @@ iframe {
 }
 .diagram-node .sub {
   margin-top: 8px;
-  font-size: 18px;
-  line-height: 1.2;
+  font-size: 16px;
+  line-height: 1.25;
   color: var(--text-dim);
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+.diagram-node .label {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+.diagram-chain {
+  max-width: 1100px;
+}
+.diagram-node {
+  overflow: hidden;
 }
 .diagram-arrow {
   display: flex;
@@ -549,7 +561,7 @@ iframe {
 .diagram-node.pink { border-color: var(--pink); }
 .diagram-node.red { border-color: var(--red); }
 
-/* Hero slide variant — for slides that are mostly one big visual element. */
+/* Hero slide variant - for slides that are mostly one big visual element. */
 .slidev-layout.devsum-slide.hero .slide-inner {
   padding-top: 0;
 }

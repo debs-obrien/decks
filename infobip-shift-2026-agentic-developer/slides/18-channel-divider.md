@@ -20,7 +20,6 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES — CHANNEL DIVIDER · 15:15–15:40
-- Bridge: life bots and work bots are the same architecture.
-- Next: who’s in the room with hard role edges, then the screenshot.
+PRESENTER NOTES: CHANNEL DIVIDER
+- Life bots and work bots. Same architecture.
 -->

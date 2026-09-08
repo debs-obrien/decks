@@ -20,7 +20,7 @@ mermaid:
 info: |
   ## The Agentic Developer
   Infobip Shift 2026 · Zadar Main Stage
-  Life + work agent village — not the CI/PR loop.
+  Life + work agent village. Not the CI/PR loop.
 class: devsum-slide
 lineNumbers: false
 canvasWidth: 1280
@@ -42,17 +42,16 @@ aspectRatio: "16/9"
 </p>
 
 <p style="font-size:18px;color:var(--text-muted);margin:0">
-  Tue 15 Sep 2026 · 12:15–12:45 CET · 30 min
+  Tue 15 Sep 2026 · Zadar
 </p>
 
 </div>
 
 <!--
-PRESENTER NOTES — COVER · 0:00–0:15
-- Hold 5–10 seconds. Look around the room.
-- Don’t open with thanks — open with the hook on the next slides.
+PRESENTER NOTES: COVER
+- Hold a few seconds. Look around the room.
+- Don't open with thanks. Hit the hook next.
 - This is NOT ZurichJS (CI/PR). This is life + work agent village.
-- Timing budget for whole talk: 30:00 hard stop.
 -->
 
 ---

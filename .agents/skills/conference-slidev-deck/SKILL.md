@@ -9,7 +9,7 @@ Use this skill when creating or revising a talk deck under https://github.com/de
 
 ## Git / branch
 
-- `starting_ref`: **main** — branch from latest `main` unless Debbie says otherwise
+- `starting_ref`: **main** - branch from latest `main` unless Debbie says otherwise
 - Feature branch prefix: `cursor/<descriptive-name>-…`
 - Open or update the PR on that branch; do not force-push `main`
 
@@ -29,7 +29,7 @@ Folder naming: `<event-slug>-<talk-slug>/` (e.g. `infobip-shift-2026-agentic-dev
 ## Bio & branding
 
 - Bio title: **Independent Developer Educator** · debbie.codes
-- **No stale Zephyr bio** — never use Zephyr Cloud / Platform Engineer on conference decks unless Debbie explicitly asks
+- **No stale Zephyr bio** - never use Zephyr Cloud / Platform Engineer on conference decks unless Debbie explicitly asks
 - Speaker photo: reuse `public/images/debbie.png` from an existing deck when available
 
 ## Privacy (hard rules)
@@ -42,16 +42,16 @@ Folder naming: `<event-slug>-<talk-slug>/` (e.g. `infobip-shift-2026-agentic-dev
 
 1. Cover → intro → hook → talk arcs
 2. **Diagrams** where they teach faster than bullets
-3. **One full slide per screenshot** — never collage Desktop captures
+3. **One full slide per screenshot** - never collage Desktop captures
 4. Takeaways (3) + thanks / QR
 
-Aim ~20–28 slides for a 30-minute talk. Include speaker notes with timing.
+Aim ~20-28 slides for a 30-minute talk. Include speaker notes with timing.
 
 ## Screenshots
 
 - Store under `public/images/` with clear kebab-case names
 - Keep `IMAGE-MAP.md` when attachments are supplied
-- Placeholders only if binaries fail to land — document re-attach; do not invent fake Desktop UI
+- Placeholders only if binaries fail to land - document re-attach; do not invent fake Desktop UI
 
 ## Shopping / PayPal arcs (when relevant)
 
@@ -75,7 +75,7 @@ Build must succeed before you claim the deck is done.
 Do **not** sign off from markdown alone.
 
 1. Render slides at **1280×720** (`pnpm dev` and/or export)
-2. Visually review **every** slide — overflow, cut-off text, image framing, contrast
+2. Visually review **every** slide - overflow, cut-off text, image framing, contrast
 3. Fix → rebuild
 4. Only then push / update the PR; report URL, slide count, image map
 

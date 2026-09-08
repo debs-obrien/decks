@@ -13,9 +13,7 @@ class: devsum-slide hero
 </div>
 
 <!--
-PRESENTER NOTES — SHOT: STAGE LIVE · 9:15–10:15
-- stage is the talks bot; travel is peeking Diadora / Turneo for her.
-- Right pane “stage’s screen” proves the agent is on a real site.
-- Debbie: morning preference + we can book without room number (yet).
-- This is async handoff, not one mega-chat.
+PRESENTER NOTES: SHOT: STAGE LIVE
+- stage is talks. travel peeks Turneo for her.
+- Async handoff. Not one mega-chat.
 -->

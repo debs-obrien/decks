@@ -13,9 +13,7 @@ class: devsum-slide hero
 </div>
 
 <!--
-PRESENTER NOTES — SHOT: BOT VILLAGE · 4:45–5:45
-- Full-bleed screenshot. Let the sidebar do the talking.
-- Point at: chief of staff, coach bot, travel, shopping (Decathlon skill teaser), job hunt, home, blog.
-- Say: each bot has a job. Noise stays out of the wrong channel.
-- Timing: ~60s. Don’t narrate every row.
+PRESENTER NOTES: SHOT: BOT VILLAGE
+- Let the sidebar talk. Point at CoS, travel, shopping, home.
+- Each bot has a job.
 -->

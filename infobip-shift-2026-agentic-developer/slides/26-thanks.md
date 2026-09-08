@@ -29,9 +29,7 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES — THANKS · 25:00–30:00
-- Don’t say “any questions?” immediately — let people scan the QR.
-- Then take questions.
-- QR: https://github.com/debs-obrien/decks/tree/main/infobip-shift-2026-agentic-developer
-- If asked about ZurichJS: that’s the CI/PR cousin talk — different deck.
+PRESENTER NOTES: THANKS
+- Let people scan the QR. Then take questions.
+- ZurichJS is the CI/PR cousin talk. Different deck.
 -->

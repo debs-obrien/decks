@@ -16,7 +16,7 @@ class: devsum-slide
   <div class="task-card">
     <span class="task-id" style="color:var(--blue)">02</span>
     <h3>Human gates on consequential steps</h3>
-    <p>Slot choice · room number · merge / public — ask, don’t invent.</p>
+    <p>Slot choice · room number · merge / public. Ask. Don't invent.</p>
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--purple)">03</span>
@@ -28,8 +28,7 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES — TAKEAWAYS · 22:30–25:00
-- Three things only. Read titles. One sentence each.
-- How to start: pick one recurring life task + one work lane; give each a specialist; put a CoS in front.
-- Leave ~5 min buffer before thanks for overrun / Q.
+PRESENTER NOTES: TAKEAWAYS
+- Three things. Read the titles. One sentence each.
+- How to start: one life task + one work lane. Give each a specialist. Put a CoS in front.
 -->
