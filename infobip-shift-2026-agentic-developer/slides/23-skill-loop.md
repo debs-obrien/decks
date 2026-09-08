@@ -5,24 +5,25 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<h2 style="font-size:40px;margin-bottom:6px">Do → friction → save → reuse</h2>
+<h2 style="font-size:38px;margin-bottom:4px">Do → friction → save → reuse</h2>
+<p class="lede" style="margin-bottom:10px">Recipe kept after a hard win. Not magic from a prompt.</p>
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:18px;max-width:1000px">
-  <div class="diagram-node blue" style="min-height:150px;padding:22px 18px">
-    <div class="label" style="font-size:32px;margin-bottom:10px">1 · Do</div>
-    <div class="sub" style="font-size:22px;margin:0">Hard buy once</div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:8px;max-width:1000px">
+  <div class="diagram-node blue" style="min-height:140px;padding:18px 16px">
+    <div class="label" style="font-size:28px;margin-bottom:8px">1 · Do</div>
+    <div class="sub" style="font-size:20px;margin:0">Hard buy once</div>
   </div>
-  <div class="diagram-node orange" style="min-height:150px;padding:22px 18px">
-    <div class="label" style="font-size:32px;margin-bottom:10px">2 · Friction</div>
-    <div class="sub" style="font-size:22px;margin:0">Qty · PayPal tabs</div>
+  <div class="diagram-node orange" style="min-height:140px;padding:18px 16px">
+    <div class="label" style="font-size:28px;margin-bottom:8px">2 · Friction</div>
+    <div class="sub" style="font-size:20px;margin:0">Tabs · home · PayPal</div>
   </div>
-  <div class="diagram-node purple" style="min-height:150px;padding:22px 18px">
-    <div class="label" style="font-size:32px;margin-bottom:10px">3 · Save</div>
-    <div class="sub" style="font-size:22px;margin:0"><span class="mono">decathlon-checkout</span></div>
+  <div class="diagram-node purple" style="min-height:140px;padding:18px 16px">
+    <div class="label" style="font-size:28px;margin-bottom:8px">3 · Save</div>
+    <div class="sub" style="font-size:20px;margin:0">After · <span class="mono">decathlon-checkout</span></div>
   </div>
-  <div class="diagram-node green" style="min-height:150px;padding:22px 18px">
-    <div class="label" style="font-size:32px;margin-bottom:10px">4 · Reuse</div>
-    <div class="sub" style="font-size:20px;margin:0;line-height:1.25">Do the hard buy once; reuse the skill next time</div>
+  <div class="diagram-node green" style="min-height:140px;padding:18px 16px">
+    <div class="label" style="font-size:28px;margin-bottom:8px">4 · Reuse</div>
+    <div class="sub" style="font-size:18px;margin:0;line-height:1.3">Do the hard buy once;<br>reuse the skill next time</div>
   </div>
 </div>
 
@@ -30,7 +31,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: SKILL LOOP
-- Big readable 2x2. Save happened AFTER the win.
+- Save is AFTER the live buy. Agent/team wrote the skill.
 - Punch: Do the hard buy once; reuse the skill next time.
-- Also good: PayPal still mine. The skill remembers the rest.
+- Also: PayPal still mine. The skill remembers the rest. (next slide)
 -->

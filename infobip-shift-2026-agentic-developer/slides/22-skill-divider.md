@@ -14,13 +14,14 @@ class: devsum-slide
 
 <p style="font-size:24px;line-height:1.4;color:var(--text-dim);max-width:920px;margin:0 auto">
   Aug 18 · <span class="mono">decathlon.es</span> · kids tracksuits · home · PayPal<br>
-  After the chaos: <span class="mono accent bold">decathlon-checkout</span>
+  Skill written after (~28 Aug): <span class="mono accent bold">decathlon-checkout</span>
 </p>
 
 </div>
 
 <!--
 PRESENTER NOTES: SKILL DIVIDER
-- Skill came AFTER the messy buy. Not from a magic "save skill" prompt.
+- Buy was messy on Aug 18. Skill file came later (~28 Aug), agent/team initiative.
+- I never typed "save as skill" or "optimize" before it existed.
 - Never show address.
 -->

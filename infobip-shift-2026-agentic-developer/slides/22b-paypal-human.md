@@ -34,4 +34,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: HUMAN AT PAYPAL
 - I do login/2FA myself. Agent never sees credentials.
+- Punch with skill-loop: PayPal still mine. The skill remembers the rest.
 -->

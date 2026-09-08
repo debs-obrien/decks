@@ -8,7 +8,7 @@ class: devsum-slide
 <span class="badge badge-orange" style="font-size:14px;padding:5px 14px;margin-bottom:10px">live buy · real lines</span>
 
 <h2 style="font-size:36px;margin-bottom:8px">What I actually said</h2>
-<p class="lede" style="margin-bottom:8px">Messy gates. Not "please save a skill."</p>
+<p class="lede" style="margin-bottom:8px">Messy gates. Not a magic "save skill" prompt.</p>
 
 <div class="card-stack" style="gap:8px;max-width:1040px">
   <div class="task-card" style="border-color:var(--accent);padding:12px 18px">
@@ -35,8 +35,9 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: REAL LINES
-- Honest: I never typed "save as skill" before decathlon-checkout existed.
-- These are the gates that shaped the playbook: PayPal handoff, tab chaos, home delivery.
-- Skill was written after the hard win (agent/team), dated ~28 Aug.
-- Optional line off-slide: "Okay, I think I filled in everything so go ahead and finalize the payment."
+- Honest: never said optimize / save as skill / make this faster next time before the skill existed.
+- Gates that shaped the playbook: PayPal handoff, tab chaos, home delivery.
+- Also said (notes): "Okay, I think I filled in everything so go ahead and finalize the payment."
+- Skill written AFTER the buy (~28 Aug), agent/team initiative.
+- Privacy: say "home" only. No phone/email in chat (demos get recorded).
 -->
