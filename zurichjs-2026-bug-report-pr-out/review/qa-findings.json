@@ -1,0 +1,173 @@
+[
+  {
+    "slide": 1,
+    "title": "Bug Report In,Pull Request Out",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 2,
+    "title": "Debbie O’Brien",
+    "err": false,
+    "zephyr": false,
+    "bio": true,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 3,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 4,
+    "title": "Discover → Issue → Reproduce → Fix → Verify → PR",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 5,
+    "title": "Hunt and fix are separate units of work",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 6,
+    "title": "Honesty taxonomy + confidence",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 7,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 8,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 9,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 10,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 11,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 12,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 13,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 14,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 15,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 16,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 17,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 18,
+    "title": "Take home in four lines",
+    "err": false,
+    "zephyr": false,
+    "bio": false,
+    "clipped": [],
+    "imgBroken": false
+  },
+  {
+    "slide": 19,
+    "title": "",
+    "err": false,
+    "zephyr": false,
+    "bio": true,
+    "clipped": [],
+    "imgBroken": false
+  }
+]

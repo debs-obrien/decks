@@ -48,6 +48,8 @@ class: devsum-slide
   height: 260px;
   border-radius: 50%;
   object-fit: cover;
+  overflow: hidden;
+  display: block;
   border: 4px solid var(--purple);
   box-shadow: 0 20px 60px rgba(124, 58, 237, 0.35);
 }

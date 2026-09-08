@@ -23,12 +23,12 @@ class: devsum-slide
   <span class="badge badge-red">Low</span>
 </p>
 
-<div class="flow-diagram" style="margin:22px auto 0;max-width:980px">
-  <span class="flow-node flow-node-green"><span class="flow-label">bug + high + major/blocker</span></span>
+<div class="flow-diagram" style="margin:18px auto 0;max-width:1040px;font-size:20px">
+  <span class="flow-node flow-node-green" style="padding:12px 18px"><span class="flow-label" style="font-size:20px;font-weight:700">bug + high + major/blocker</span></span>
   <span class="flow-arrow">→</span>
-  <span class="flow-node flow-node-purple"><span class="flow-label">auto-file issue</span></span>
+  <span class="flow-node flow-node-purple" style="padding:12px 18px"><span class="flow-label" style="font-size:20px;font-weight:700">auto-file issue</span></span>
   <span class="flow-arrow">→</span>
-  <span class="flow-node flow-node-orange"><span class="flow-label">else: candidate only</span></span>
+  <span class="flow-node flow-node-orange" style="padding:12px 18px"><span class="flow-label" style="font-size:20px;font-weight:700">else: candidate only</span></span>
 </div>
 
 </div>

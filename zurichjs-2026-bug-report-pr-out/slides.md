@@ -27,7 +27,7 @@ canvasWidth: 1280
 aspectRatio: "16/9"
 ---
 
-<div class="slide-inner center title-glow">
+<div class="slide-inner center title-glow" style="display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0;min-height:100%;height:100%">
 
 <div class="title-badge">ZurichJS Conf 2026 · Fri 11 Sep · 15:10–15:25 · Auditorium</div>
 
