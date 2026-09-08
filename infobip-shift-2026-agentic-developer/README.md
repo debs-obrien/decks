@@ -1,6 +1,6 @@
-# The Agentic Developer — Infobip Shift 2026
+# The Agentic Developer · Infobip Shift 2026
 
-Slidev deck for Infobip Shift 2026, Zadar — Main Stage · Tue 15 Sep 2026 · 12:15–12:45 CET.
+Slidev deck for Infobip Shift 2026, Zadar Main Stage · Tue 15 Sep 2026.
 
 > Last year AI could drive a browser for *tests*. This year agents run your *life and work*.
 
@@ -22,7 +22,7 @@ pnpm build
 
 ## Speaker
 
-Debbie O'Brien — Independent Developer Educator · debbie.codes
+Debbie O'Brien · Independent Developer Educator · debbie.codes
 
 ## Screenshots
 
