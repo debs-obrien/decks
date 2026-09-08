@@ -21,7 +21,7 @@ class: devsum-slide
   <div class="task-card">
     <span class="task-id" style="color:var(--purple)">03</span>
     <h3>When a flow repeats, save a skill</h3>
-    <p>Do → notice → <span class="mono">decathlon-checkout</span>. Agents can write the playbook.</p>
+    <p>Do → friction → <span class="mono">decathlon-checkout</span> → reuse. Agents write the playbook.</p>
   </div>
 </div>
 
