@@ -14,17 +14,17 @@ class: devsum-slide
   <div class="task-card" style="border-color:var(--accent);padding:12px 18px">
     <span class="task-id" style="color:var(--accent)">coach</span>
     <h3 style="font-size:22px;margin-top:2px">Home gym + protein + form checks</h3>
-    <p style="font-size:18px;margin:4px 0 0">Setup photos. Reads labels. Critiques clips. Adds finds to a YouTube playlist.</p>
+    <p style="font-size:18px;margin:4px 0 0">Home-gym photos. Protein from the packaging. Critiques workout clips. Adds finds to a YouTube playlist.</p>
   </div>
   <div class="task-card" style="border-color:var(--orange);padding:12px 18px">
     <span class="task-id" style="color:var(--orange)">shopping · Vinted</span>
     <h3 style="font-size:22px;margin-top:2px">Iron Man + Spider-Man hunt</h3>
-    <p style="font-size:18px;margin:4px 0 0">Age 3 · ~98 cm. Login handoff. Favourites/cart for review. No buy without my yes.</p>
+    <p style="font-size:18px;margin:4px 0 0">Age 3 · ~98 cm. Login handoff. Favourites and cart for me to review. No buy without my yes.</p>
   </div>
   <div class="task-card" style="border-color:var(--blue);padding:12px 18px">
     <span class="task-id" style="color:var(--blue)">publish</span>
     <h3 style="font-size:22px;margin-top:2px">Screen Studio → thumbs → YouTube</h3>
-    <p style="font-size:18px;margin:4px 0 0">Chapters, site, blog, LinkedIn, X. Nothing public until CoS yes.</p>
+    <p style="font-size:18px;margin:4px 0 0">Unlisted + chapters → site, blog, LinkedIn, X. Nothing public until CoS yes.</p>
   </div>
 </div>
 
