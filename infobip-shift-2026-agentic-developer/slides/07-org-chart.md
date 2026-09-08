@@ -46,4 +46,5 @@ PRESENTER NOTES: VILLAGE AS TEAM
 - Hero is the WORK org. Hard edges matter.
 - Optional 15s life proof: publish pipeline (mirrors a release). Coach/Vinted only if asked.
 - Channel lane: designer → engineer → qa → live. CoS stays out of noise.
+- Next slide: /videos as the deep proof the team shipped.
 -->

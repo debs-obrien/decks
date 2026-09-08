@@ -5,32 +5,33 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<span class="badge badge-orange" style="font-size:14px;padding:5px 14px;margin-bottom:8px">channel case</span>
+<span class="badge badge-purple" style="font-size:14px;padding:5px 14px;margin-bottom:8px">same week</span>
 
-<h2 style="font-size:36px;margin-bottom:4px">Awards: credibility over vanity</h2>
-<p class="lede" style="margin-bottom:10px">Keep what's true. Drop the vanity links.</p>
+<h2 style="font-size:34px;margin-bottom:6px">Same lane. Two more ships.</h2>
+<p class="lede" style="margin-bottom:12px">Videos was the deep cut. Awards + LCP were the same week's work.</p>
 
-<div class="diagram-chain" style="margin:0;gap:10px;align-items:stretch">
-  <div class="diagram-node orange" style="min-height:210px;padding:16px 14px;flex:1">
-    <div class="label" style="font-size:18px;margin-bottom:8px">Before</div>
-    <div class="sub" style="font-size:18px;line-height:1.35;margin:0">Auth0 Ambassador still claimed. Nuxt linked to a team page that no longer lists me.</div>
+<div class="card-row" style="align-items:stretch;gap:14px">
+  <div class="task-card" style="border-color:var(--orange);padding:18px 20px;flex:1">
+    <span class="task-id" style="color:var(--orange)">awards</span>
+    <h3 style="font-size:22px;margin-top:6px">Credibility over vanity</h3>
+    <p style="font-size:18px;margin:8px 0 0">Auth0 gone. Nuxt stays (true) but unlinked. Scout flagged. We verified live.</p>
   </div>
-  <div class="diagram-arrow" style="font-size:24px">→</div>
-  <div class="diagram-node blue" style="min-height:210px;padding:16px 14px;flex:1">
-    <div class="label" style="font-size:18px;margin-bottom:8px">Scout · verify</div>
-    <div class="sub" style="font-size:18px;line-height:1.35;margin:0">Scout flagged it. We checked the live Nuxt and Auth0 pages.</div>
-  </div>
-  <div class="diagram-arrow" style="font-size:24px">→</div>
-  <div class="diagram-node green" style="min-height:210px;padding:16px 14px;flex:1">
-    <div class="label" style="font-size:18px;margin-bottom:8px">After</div>
-    <div class="sub" style="font-size:18px;line-height:1.35;margin:0">Auth0 removed. Nuxt badge stays (true) but unlinked.</div>
+  <div class="task-card" style="border-color:var(--accent);padding:18px 20px;flex:1">
+    <span class="task-id" style="color:var(--accent)">proof-band</span>
+    <h3 style="font-size:22px;margin-top:6px">Cheaper paint</h3>
+    <p style="font-size:18px;margin:8px 0 0"><span class="mono">hqdefault</span> → <span class="mono">mqdefault</span> + srcset. Same story. Faster LCP.</p>
   </div>
 </div>
+
+<p class="footer-note" style="margin-top:16px">
+  Callback: /videos Featured → chips → Latest. Already saw the team ship it.
+</p>
 
 </div>
 
 <!--
-PRESENTER NOTES: CASE AWARDS
-- Issue #616 in notes only.
-- Credibility over vanity links.
+PRESENTER NOTES: CHANNEL FLASH
+- Awards #616, LCP #617 in notes only.
+- 10s videos callback only. Don't retell the full story.
+- Optional: /talks → /speaking + sitemap if asked.
 -->

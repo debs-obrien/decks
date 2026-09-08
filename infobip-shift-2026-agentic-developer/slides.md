@@ -75,6 +75,10 @@ src: ./slides/07-org-chart.md
 ---
 
 ---
+src: ./slides/07c-village-videos-showcase.md
+---
+
+---
 src: ./slides/09-swim-timeline.md
 ---
 
@@ -107,15 +111,7 @@ src: ./slides/20-channel-vs-cos.md
 ---
 
 ---
-src: ./slides/21-case-videos.md
----
-
----
 src: ./slides/21-case-awards.md
----
-
----
-src: ./slides/21-case-proofband.md
 ---
 
 ---
