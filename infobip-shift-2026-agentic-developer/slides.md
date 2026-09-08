@@ -128,6 +128,10 @@ src: ./slides/18-channel-divider.md
 ---
 
 ---
+src: ./slides/18b-whos-in-the-room.md
+---
+
+---
 src: ./slides/19-shot-debbie-codes.md
 ---
 

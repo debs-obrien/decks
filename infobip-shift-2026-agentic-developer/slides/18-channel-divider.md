@@ -13,8 +13,8 @@ class: devsum-slide
 </p>
 
 <p style="font-size:26px;line-height:1.4;color:var(--text-dim);max-width:900px;margin:0 auto">
-  Noisy channel → specialists stay scoped.<br>
-  Engineer ships. QA proves. Designer locks. CoS gates.
+  Site queue lives here: designer → engineer → qa → ship.<br>
+  CoS stays out of the noise.
 </p>
 
 </div>
@@ -22,6 +22,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES — CHANNEL DIVIDER · 15:15–15:40
 - Bridge: life bots and work bots are the same architecture.
-- Site queue lives in the debbie.codes channel.
-- Next screenshot: engineer + qa coordinating selective CI.
+- Next: who’s in the room with hard role edges, then the screenshot.
 -->

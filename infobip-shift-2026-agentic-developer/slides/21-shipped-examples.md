@@ -6,7 +6,7 @@ class: devsum-slide
 <div class="slide-inner">
 
 <h2>Shipped recently</h2>
-<p class="lede">Sep 2026 receipts from the channel.</p>
+<p class="lede">Sep 2026 receipts — pick one or two on stage.</p>
 
 <div class="card-stack" style="margin-top:8px">
   <div class="task-card">
@@ -15,7 +15,7 @@ class: devsum-slide
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--blue)">#616</span>
-    <h3>About awards hygiene — Auth0 removed · Nuxt Ambassador kept</h3>
+    <h3>About awards hygiene — Auth0 Ambassador removed; Nuxt Ambassador kept but unlinked</h3>
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--purple)">#617–#620</span>
@@ -29,7 +29,8 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES — SHIPPED · 17:45–18:30
-- Don’t deep-dive every PR — pick 1–2 as proof the village ships.
-- QA live-prove pass after merge is the trust loop.
-- Bridge to skills: the same bots that ship also learn reusable workflows.
+- Don’t read all three. Pick #615 (visible UX) or #617–#620 (CI) depending on audience.
+- #616: Auth0 Ambassador removed; Nuxt Ambassador stays but unlinked — say it accurately.
+- Bonus #610 only if someone asks about IA.
+- Bridge to skills next.
 -->

@@ -13,12 +13,8 @@ class: devsum-slide hero
 </div>
 
 <!--
-PRESENTER NOTES — SHOT: DEBBIE.CODES · 15:40–16:45
-- Who’s in the room:
-  - engineer (site lead) — implements + ships; only bot who pings Debbie on site work
-  - designer — locks layout/flow/copy; no production code / PRs
-  - qa — proves PRs + live; no merge/ship
-  - site scout — patrols live + proposes backlog → reports to engineer
-- Point at the CI proposal thread as “bots debating like a team.”
-- Hygiene: one owner at a time.
+PRESENTER NOTES — SHOT: DEBBIE.CODES · 16:20–16:50
+- Roles already covered — use this shot as proof the channel is real.
+- Point at engineer ↔ qa selective CI thread: bots debating like a team.
+- Hygiene visible in practice: one owner speaking at a time.
 -->

@@ -25,11 +25,11 @@ class: devsum-slide
     </div>
     <div class="diagram-node orange" style="min-height:120px">
       <div class="label" style="font-size:22px">engineer</div>
-      <div class="sub">site lead · ship</div>
+      <div class="sub">site lead · only pings Debbie</div>
     </div>
     <div class="diagram-node pink" style="min-height:120px">
       <div class="label" style="font-size:22px">qa · designer</div>
-      <div class="sub">prove · lock layout</div>
+      <div class="sub">prove · lock · no merge/PRs</div>
     </div>
   </div>
 </div>
