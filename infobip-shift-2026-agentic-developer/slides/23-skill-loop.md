@@ -5,42 +5,31 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<h2>Do → friction → save → reuse</h2>
-<p class="lede" style="font-weight:800;color:var(--text)">Buy once, hand off PayPal, save the skill.</p>
+<h2 style="font-size:40px;margin-bottom:6px">Do → friction → save → reuse</h2>
 
-<div class="diagram-chain" style="margin-top:12px;gap:8px">
-  <div class="diagram-node blue" style="min-height:140px;padding:12px 8px">
-    <div class="icon" style="font-size:24px;margin-bottom:6px">1</div>
-    <div class="label" style="font-size:18px">Do</div>
-    <div class="sub">Shop once end-to-end</div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:18px;max-width:1000px">
+  <div class="diagram-node blue" style="min-height:150px;padding:22px 18px">
+    <div class="label" style="font-size:32px;margin-bottom:10px">1 · Do</div>
+    <div class="sub" style="font-size:22px;margin:0">Shop once</div>
   </div>
-  <div class="diagram-arrow">→</div>
-  <div class="diagram-node orange" style="min-height:140px;padding:12px 8px">
-    <div class="icon" style="font-size:24px;margin-bottom:6px">2</div>
-    <div class="label" style="font-size:18px">Friction</div>
-    <div class="sub">Qty doubling · PayPal wall</div>
+  <div class="diagram-node orange" style="min-height:150px;padding:22px 18px">
+    <div class="label" style="font-size:32px;margin-bottom:10px">2 · Friction</div>
+    <div class="sub" style="font-size:22px;margin:0">Qty · PayPal wall</div>
   </div>
-  <div class="diagram-arrow">→</div>
-  <div class="diagram-node purple" style="min-height:140px;padding:12px 8px">
-    <div class="icon" style="font-size:24px;margin-bottom:6px">3</div>
-    <div class="label" style="font-size:18px">Save</div>
-    <div class="sub"><span class="mono">decathlon-checkout</span></div>
+  <div class="diagram-node purple" style="min-height:150px;padding:22px 18px">
+    <div class="label" style="font-size:32px;margin-bottom:10px">3 · Save</div>
+    <div class="sub" style="font-size:22px;margin:0"><span class="mono">decathlon-checkout</span></div>
   </div>
-  <div class="diagram-arrow">→</div>
-  <div class="diagram-node green" style="min-height:140px;padding:12px 8px">
-    <div class="icon" style="font-size:24px;margin-bottom:6px">4</div>
-    <div class="label" style="font-size:18px">Reuse</div>
-    <div class="sub">Next buy is boring</div>
+  <div class="diagram-node green" style="min-height:150px;padding:22px 18px">
+    <div class="label" style="font-size:32px;margin-bottom:10px">4 · Reuse</div>
+    <div class="sub" style="font-size:22px;margin:0">Next time I just say buy it</div>
   </div>
 </div>
-
-<p class="footer-note" style="text-align:center;margin-top:14px;font-size:18px">
-  Check cart first · add missing qty only · hand off at PayPal · totals in text
-</p>
 
 </div>
 
 <!--
 PRESENTER NOTES: SKILL LOOP
-- Walk the four nodes. Linger on Save.
+- Big readable 2x2. Walk Do → Friction → Save → Reuse.
+- Reuse line: Next time I just say buy it.
 -->

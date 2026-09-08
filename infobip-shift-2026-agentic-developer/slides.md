@@ -143,7 +143,19 @@ src: ./slides/21-shipped-examples.md
 ---
 
 ---
+src: ./slides/21b-substrate.md
+---
+
+---
+src: ./slides/21c-pattern-travels.md
+---
+
+---
 src: ./slides/22-skill-divider.md
+---
+
+---
+src: ./slides/22a-skill-ask.md
 ---
 
 ---

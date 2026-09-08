@@ -20,8 +20,8 @@ class: devsum-slide
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--purple)">03</span>
-    <h3>When a flow repeats, save a skill</h3>
-    <p>Buy once, hand off PayPal, save <span class="mono">decathlon-checkout</span>. Next buy is boring.</p>
+    <h3>When a flow works, ask to save a skill</h3>
+    <p>You prompt it. Agent writes <span class="mono">decathlon-checkout</span>. Next time I just say buy it.</p>
   </div>
 </div>
 
@@ -29,6 +29,6 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: TAKEAWAYS
-- Three things. Read the titles. One sentence each.
-- How to start: one life task + one work lane. Give each a specialist. Put a CoS in front.
+- Three things. Titles first.
+- Takeaway 3 is the move: ask to save the skill.
 -->
