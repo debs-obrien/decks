@@ -1406,3 +1406,40 @@ tr.row-success:hover td {
     font-size: 20px;
   }
 }
+
+/* ZurichJS lightning: keep 1280x720 content inside the frame */
+.slidev-layout.devsum-slide .image-slide {
+  min-height: 0 !important;
+  height: 100%;
+  justify-content: flex-start;
+  gap: 10px;
+  padding-top: 4px;
+}
+.slidev-layout.devsum-slide .image-slide .shot-badge {
+  flex: 0 0 auto;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.slidev-layout.devsum-slide .image-slide .shot {
+  max-width: min(1080px, 100%) !important;
+  max-height: 560px !important;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+.slidev-layout.devsum-slide .image-slide .shot.phone {
+  max-width: 300px !important;
+  max-height: 560px !important;
+}
+.slidev-layout.devsum-slide .about-slide {
+  min-height: 0;
+  height: 100%;
+}
+.slidev-layout.devsum-slide .diagram-chain {
+  row-gap: 12px;
+}
+.slidev-layout.devsum-slide h2 {
+  overflow-wrap: anywhere;
+}

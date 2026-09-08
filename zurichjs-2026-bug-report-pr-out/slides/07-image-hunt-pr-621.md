@@ -17,7 +17,7 @@ class: devsum-slide hero
   align-items: center;
   justify-content: center;
   gap: 12px;
-  min-height: 74vh;
+  min-height: 0; height: 100%;
 }
 .shot-badge {
   display: inline-flex;
@@ -35,7 +35,7 @@ class: devsum-slide hero
 .shot {
   width: 100%;
   max-width: 1080px;
-  max-height: 620px;
+  max-height: 540px;
   object-fit: contain;
   border-radius: 12px;
   border: 1px solid var(--code-border);

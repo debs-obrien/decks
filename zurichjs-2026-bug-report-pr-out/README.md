@@ -27,7 +27,7 @@ pnpm capture:images
 
 ## Speaker
 
-Debbie O'Brien — Platform Engineer, Applied AI @ Zephyr Cloud
+Debbie O'Brien — Independent Developer Educator
 
 - https://debbie.codes
 - https://github.com/debs-obrien

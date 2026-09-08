@@ -3,7 +3,7 @@ layout: default
 class: devsum-slide
 ---
 
-<div class="slide-inner center" style="display:flex;flex-direction:column;justify-content:center;gap:28px;min-height:70vh">
+<div class="slide-inner center" style="display:flex;flex-direction:column;justify-content:center;gap:28px;min-height:0;height:100%">
 
 <div style="margin:auto 0">
 <p class="fade-item" style="font-size:clamp(40px,6vw,76px);font-weight:900;line-height:1.02;margin-bottom:14px">Thank you.</p>
@@ -18,7 +18,7 @@ class: devsum-slide
 
 <div class="fade-item" style="border-top:1px solid var(--code-border);padding-top:16px;width:100%">
   <p style="font-size:clamp(20px,2.2vw,28px);font-weight:800;margin-bottom:2px">Debbie O&rsquo;Brien</p>
-  <p class="dim small" style="margin-bottom:12px">Platform Engineer, Applied AI &middot; Zephyr Cloud · debbie.codes</p>
+  <p class="dim small" style="margin-bottom:12px">Independent Developer Educator · debbie.codes</p>
 
   <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;max-width:1000px;margin:0 auto">
     <a href="https://github.com/debs-obrien/debbie.codes/pull/621" target="_blank" rel="noreferrer" class="thank-link" style="text-decoration:none">PR #621 hunt</a>

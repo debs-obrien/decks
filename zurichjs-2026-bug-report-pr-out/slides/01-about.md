@@ -11,7 +11,7 @@ class: devsum-slide
 <div class="about-text">
 <span class="title-badge">Hi, I'm</span>
 <h1>Debbie O&rsquo;Brien</h1>
-<p class="about-role">Platform Engineer, Applied AI &middot; Zephyr Cloud</p>
+<p class="about-role">Independent Developer Educator</p>
 <ul class="feature-list about-list">
 <li><span class="icon">🧪</span><span>Days in <span class="bold">testing &amp; agents</span> with Playwright</span></li>
 <li><span class="icon">🌙</span><span>Building loops that hunt bugs <span class="bold">while I sleep</span></span></li>
@@ -30,7 +30,7 @@ class: devsum-slide
 .about-slide {
   display: flex;
   align-items: center;
-  min-height: 74vh;
+  min-height: 0; height: 100%;
 }
 .about-grid {
   display: grid;
