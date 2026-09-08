@@ -11,7 +11,7 @@ class: devsum-slide
 <div class="card-stack" style="margin-top:10px;max-width:1000px">
   <div class="task-card" style="display:flex;gap:20px;align-items:center;padding:14px 22px">
     <span class="task-id" style="color:var(--blue);min-width:28px">1</span>
-    <div><h3 style="margin:0;font-size:24px">Then → now + the village</h3><p style="margin:4px 0 0">CoS routing, specialist scopes</p></div>
+    <div><h3 style="margin:0;font-size:24px">Then → now + the village</h3><p style="margin:4px 0 0">CoS routing · coach · Vinted · publish</p></div>
   </div>
   <div class="task-card" style="display:flex;gap:20px;align-items:center;padding:14px 22px">
     <span class="task-id" style="color:var(--accent);min-width:28px">2</span>
@@ -19,7 +19,7 @@ class: devsum-slide
   </div>
   <div class="task-card" style="display:flex;gap:20px;align-items:center;padding:14px 22px">
     <span class="task-id" style="color:var(--purple);min-width:28px">3</span>
-    <div><h3 style="margin:0;font-size:24px">Work channel + skills</h3><p style="margin:4px 0 0">debbie.codes · Decathlon checkout skill</p></div>
+    <div><h3 style="margin:0;font-size:24px">Work channel + skills</h3><p style="margin:4px 0 0">debbie.codes cases · MCP/skills · Decathlon</p></div>
   </div>
   <div class="task-card" style="display:flex;gap:20px;align-items:center;padding:14px 22px">
     <span class="task-id" style="color:var(--orange);min-width:28px">4</span>

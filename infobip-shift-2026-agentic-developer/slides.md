@@ -83,6 +83,10 @@ src: ./slides/07-org-chart.md
 ---
 
 ---
+src: ./slides/07b-village-hits.md
+---
+
+---
 src: ./slides/08-swim-divider.md
 ---
 
@@ -139,7 +143,15 @@ src: ./slides/20-channel-vs-cos.md
 ---
 
 ---
-src: ./slides/21-shipped-examples.md
+src: ./slides/21-case-videos.md
+---
+
+---
+src: ./slides/21-case-awards.md
+---
+
+---
+src: ./slides/21-case-proofband.md
 ---
 
 ---
