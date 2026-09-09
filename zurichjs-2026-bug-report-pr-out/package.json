@@ -1,0 +1,24 @@
+{
+  "name": "@talks/zurichjs-bug-report-pr-out",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev slides.md --open",
+    "build": "slidev build slides.md",
+    "export": "slidev export slides.md",
+    "export:pdf": "slidev export slides.md --format pdf",
+    "capture:images": "node scripts/capture-images.mjs"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.11.3",
+    "@slidev/theme-default": "latest",
+    "playwright": "^1.58.1",
+    "seedrandom": "^3.0.5",
+    "slidev-theme-eloc": "^1.1.0",
+    "vue": "^3.5.26"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.58.1"
+  }
+}
