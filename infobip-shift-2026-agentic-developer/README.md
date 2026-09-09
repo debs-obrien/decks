@@ -20,6 +20,10 @@ pnpm dev
 pnpm build
 ```
 
+## Backup
+
+Offline PDF: `export/infobip-shift-2026-agentic-developer.pdf` (also `exports/infobip-shift-2026-agentic-developer.pdf` at repo root).
+
 ## Speaker
 
 Debbie O'Brien · Independent Developer Educator · debbie.codes

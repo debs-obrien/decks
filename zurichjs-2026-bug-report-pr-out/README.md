@@ -19,6 +19,10 @@ pnpm dev
 pnpm build
 ```
 
+## Backup
+
+Offline PDF: `export/zurichjs-2026-bug-report-pr-out.pdf` (also `exports/zurichjs-2026-bug-report-pr-out.pdf` at repo root).
+
 ## Capture talk images (optional)
 
 ```bash
