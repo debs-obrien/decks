@@ -121,6 +121,14 @@ src: ./slides/16-human-merge-gate.md
 ---
 
 ---
+src: ./slides/16b-image-review-a11y.md
+---
+
+---
+src: ./slides/16c-image-review-pr-623.md
+---
+
+---
 src: ./slides/17-takeaways.md
 ---
 
