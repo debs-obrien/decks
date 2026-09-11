@@ -26,6 +26,7 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES: HUMAN MERGE (~30s)
+PRESENTER NOTES: HUMAN MERGE (~20s)
 - Don't hand over merge. The win is reviewable artifacts in about two minutes.
+- Next two slides: second-pass review catches focus and a11y the first PR missed.
 -->
