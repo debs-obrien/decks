@@ -5,7 +5,7 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Human taste · cards</div>
+<div class="shot-badge">Shaped in chat · cards</div>
 <img src="../public/images/promptql-03.png" alt="PromptQL snapshot cards with Nuxt folded into AI educator, not its own box" class="shot" />
 
 </div>
