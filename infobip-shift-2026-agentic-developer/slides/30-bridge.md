@@ -21,7 +21,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: BRIDGE
-- Callback: site-bug-hunt and site-bugfix → travel and stage bots.
-- Reproduce before code → eyes on Turneo before book.
-- You still merge → I still pick the slot.
+- Callback: overnight work loop → a whole bot team outside the repo.
+- Sweep shopping, coach, job hunt, work, content. Then swim as the deep example.
+- You still merge → I still keep the yes.
 -->
