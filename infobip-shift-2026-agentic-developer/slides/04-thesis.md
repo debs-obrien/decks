@@ -12,7 +12,7 @@ class: devsum-slide
 <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:1080px;margin:0 auto">
   <div class="task-card" style="flex:1;min-width:240px;border-left:4px solid var(--blue)">
     <span class="task-id" style="color:var(--blue)">Bots</span>
-    <h3 style="font-size:26px">Specialists with edges</h3>
+    <h3 style="font-size:26px">One job. Hard edges.</h3>
     <p style="font-size:20px">Hunt. Fix. Travel. Stage. Each bot gets one clear job.</p>
   </div>
   <div class="task-card" style="flex:1;min-width:240px;border-left:4px solid var(--purple)">

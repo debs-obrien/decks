@@ -38,7 +38,7 @@ aspectRatio: "16/9"
 <h1 class="gradient-text" style="font-size:64px;margin:0 0 14px;letter-spacing:-1.5px">The Agentic Developer</h1>
 
 <p style="font-size:26px;color:var(--text-dim);margin:0 auto 18px;max-width:900px">
-  Agents draft. You still gate. Same pattern at work and in life.
+  Bug report in. Pull request out. Same gates outside the repo.
 </p>
 
 <p style="font-size:18px;color:var(--text-muted);margin:0">
@@ -72,6 +72,14 @@ src: ./slides/04-thesis.md
 
 ---
 src: ./slides/05-why-agentic.md
+---
+
+---
+src: ./slides/06-shot-grok-bot.md
+---
+
+---
+src: ./slides/07-shot-grok-bot-cos.md
 ---
 
 ---

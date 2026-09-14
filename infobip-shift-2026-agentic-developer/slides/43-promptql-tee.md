@@ -1,36 +1,48 @@
 ---
 layout: default
-class: devsum-slide
+class: devsum-slide hero
 ---
 
-<div class="slide-inner">
+<div class="slide-inner image-slide">
 
-<span class="title-badge" style="margin-bottom:10px">Skim risk</span>
-<h2 style="font-size:36px;margin-bottom:8px">People skim. Don't bury the ask.</h2>
-<p class="lede" style="margin-bottom:16px">I almost missed the tee offer under the snapshot. Make the message prominent.</p>
-
-<div style="display:flex;gap:14px;flex-wrap:wrap;max-width:1080px;margin:0 auto">
-  <div class="task-card" style="flex:1;min-width:280px;border-left:4px solid var(--orange);padding:18px 20px">
-    <span class="task-id" style="color:var(--orange)">UX fix</span>
-    <h3 style="font-size:24px;margin-top:6px">One clear ask</h3>
-    <p style="font-size:19px;margin:8px 0 0">Not hidden under the artifact. A callout people can actually see.</p>
-  </div>
-  <div class="task-card" style="flex:1;min-width:280px;border-left:4px solid var(--blue);padding:18px 20px">
-    <span class="task-id" style="color:var(--blue)">Better still</span>
-    <h3 style="font-size:24px;margin-top:6px">A proper form</h3>
-    <p style="font-size:19px;margin:8px 0 0">Not chat paste for size and home. Interactive form. Private to the right person.</p>
-  </div>
-</div>
-
-<p class="footer-note" style="margin-top:22px;text-align:center">
-  Privacy: home only. Never street, postcode, or phone on stage.
-</p>
+<div class="shot-badge">Skim risk · tee ask</div>
+<img src="../public/images/promptql-04-tee-ux.png" alt="PromptQL chat making the tee offer prominent after Debbie almost missed it under the snapshot" class="shot" />
 
 </div>
+
+<style>
+.image-slide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  min-height: 0;
+  height: 100%;
+}
+.shot-badge {
+  display: inline-flex;
+  font-size: 16px;
+  font-weight: 700;
+  color: #93c5fd;
+  background: rgba(59, 130, 246, 0.14);
+  border: 1px solid rgba(59, 130, 246, 0.35);
+  padding: 6px 14px;
+  border-radius: 999px;
+}
+.shot {
+  width: 100%;
+  max-width: 1080px;
+  max-height: 540px;
+  object-fit: contain;
+  border-radius: 12px;
+  border: 1px solid var(--code-border);
+  box-shadow: 0 24px 70px rgba(0,0,0,.45);
+}
+</style>
 
 <!--
-PRESENTER NOTES: PROMPTQL TEE UX
-- If promptql-04-tee-ux.png lands, use image slide (crop any address fields).
-- Skip promptql-01 if it shows "shipping address were posted."
-- Punch next: agents draft, humans still review.
+PRESENTER NOTES: PROMPTQL TEE SHOT
+- I almost missed the tee ask under the snapshot. People skim.
+- Privacy: home only. Never street, postcode, or phone on stage.
 -->

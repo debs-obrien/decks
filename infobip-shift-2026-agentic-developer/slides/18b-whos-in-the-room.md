@@ -6,7 +6,7 @@ class: devsum-slide
 <div class="slide-inner">
 
 <h2>Who's in the room</h2>
-<p class="lede"><span class="mono">debbie.codes</span> · specialists with hard edges</p>
+<p class="lede"><span class="mono">debbie.codes</span> · bots with hard edges</p>
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:6px">
   <div class="task-card" style="border-color:var(--orange);padding:16px 18px">

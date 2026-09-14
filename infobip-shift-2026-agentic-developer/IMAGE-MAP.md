@@ -2,6 +2,13 @@
 
 Assets used by the Infobip Shift 2026 deck (`The Agentic Developer`).
 
+## Grok Bot (open)
+
+| Deck filename | Slide role | Status |
+|---------------|------------|--------|
+| `grok-bot-village.png` | What Grok Bot looks like · work sidebar + engineer PR | **BYTES MISSING ON VM** · slide wired; re-drop into `public/images/` |
+| `grok-bot-cos-can-do.png` | What it can do · CoS draft + send gate + reschedule | **BYTES MISSING ON VM** · slide wired; re-drop into `public/images/` |
+
 ## Zurich work loop (copied from `zurichjs-2026-bug-report-pr-out/public/images/`)
 
 | Deck filename | Slide role |
@@ -26,16 +33,16 @@ Trimmed for 12–14 min (still in `public/images/`, not on spine): candidate fil
 | `stage-travel-live-screen.png` | stage ↔ travel live handoff |
 | `chat-slot-picker.png` | Human slot gate |
 
-## PromptQL (attached resized PNGs)
+## PromptQL
 
 | Expected filename | Slide role | Status |
 |-------------------|------------|--------|
-| `promptql-02-bio-correct.png` | Bio / Playwright correction | **Missing on VM** · narrative slide in place |
-| `promptql-03.png` | Snapshot cards · human taste | **Missing on VM** · narrative slide in place |
-| `promptql-04-tee-ux.png` | Tee offer UX · make ask prominent | **Missing on VM** · narrative slide in place |
-| `promptql-01.png` | Optional form ask | **Skip until re-attach** · privacy: crop/skip if “shipping address were posted” |
+| `promptql-02-bio-correct.png` | Bio / Playwright + Nuxt correction | **BYTES MISSING ON VM** · image slide wired |
+| `promptql-03.png` | Cards · Nuxt not its own box | **BYTES MISSING ON VM** · image slide wired |
+| `promptql-04-tee-ux.png` | Tee ask · make ask prominent | **BYTES MISSING ON VM** · image slide wired |
+| `promptql-01.png` | Optional form ask | **Skip** · privacy if “shipping address were posted” |
 
-Re-attach the four PNGs into `public/images/`, then swap narrative PromptQL slides for badge + full-shot image slides (Zurich image-slide style).
+Cloud Agent vision sees the attachments, but PNG bytes never land on disk (`Failed to read attachment`). Drop the five files into `public/images/` on this branch from a machine that has them, then push.
 
 ## Other
 

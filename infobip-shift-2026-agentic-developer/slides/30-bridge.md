@@ -14,7 +14,7 @@ class: devsum-slide
 
 <p style="font-size:26px;line-height:1.4;color:var(--text-dim);max-width:880px;margin:0 auto">
   Eyes on a live site. One clear job per bot.<br>
-  Human gate on the consequential yes.
+  I still pick the yes that matters.
 </p>
 
 </div>

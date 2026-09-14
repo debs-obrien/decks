@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Correct the artifact · bio</div>
-<img src="../public/images/promptql-02-bio-correct.png" alt="PromptQL chat correcting bio to include Playwright and Nuxt Ambassador" class="shot" />
+<div class="shot-badge">Grok Bot</div>
+<img src="../public/images/grok-bot-village.png" alt="Sidebar of bots and engineer chat shipping a site PR" class="shot" />
 
 </div>
 
@@ -24,9 +24,9 @@ class: devsum-slide hero
   display: inline-flex;
   font-size: 16px;
   font-weight: 700;
-  color: #fcd34d;
-  background: rgba(234, 179, 8, 0.14);
-  border: 1px solid rgba(234, 179, 8, 0.35);
+  color: #86efac;
+  background: rgba(34, 197, 94, 0.12);
+  border: 1px solid rgba(34, 197, 94, 0.35);
   padding: 6px 14px;
   border-radius: 999px;
 }
@@ -42,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: PROMPTQL BIO SHOT
-- Point at the correction: Playwright + Nuxt. I said so in chat.
-- Agents draft. I still own the words.
+PRESENTER NOTES: GROK BOT VILLAGE
+- One breath. This is the surface. Bots in a sidebar. Engineer ships PRs.
+- Then show what CoS can do. Then thesis / Zurich loop.
 -->
