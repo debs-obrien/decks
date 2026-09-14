@@ -22,6 +22,6 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: PROMPTQL DIVIDER
 - Build frame, not correction babysitting.
-- Bio line, card layout, tee ask — shaped in the conversation.
+- Bio line, card layout, tee ask. Shaped in the conversation.
 - Same gate: I still decide what ships.
 -->
