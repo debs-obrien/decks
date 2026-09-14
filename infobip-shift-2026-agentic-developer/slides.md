@@ -175,6 +175,10 @@ src: ./slides/43-promptql-tee.md
 ---
 
 ---
+src: ./slides/43b-promptql-tee-form.md
+---
+
+---
 src: ./slides/44-promptql-punch.md
 ---
 
