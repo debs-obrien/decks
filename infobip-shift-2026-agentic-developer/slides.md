@@ -83,10 +83,6 @@ src: ./slides/11-zurich-loop.md
 ---
 
 ---
-src: ./slides/13-zurich-honesty.md
----
-
----
 src: ./slides/14-zurich-gates-kept.md
 ---
 
