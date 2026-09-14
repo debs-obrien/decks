@@ -42,10 +42,6 @@ class: devsum-slide
   </div>
 </div>
 
-<div class="task-card" style="border-left:4px solid var(--accent);margin:18px auto 0;max-width:980px">
-  <span class="task-id" style="color:var(--accent)">If honesty fails</span>
-  <p style="font-size:22px;margin:0">The loop <span class="bold">stops</span>. Candidate file, or no PR. Not a fake win.</p>
-</div>
 
 </div>
 
@@ -98,5 +94,4 @@ class: devsum-slide
 PRESENTER NOTES: DIAGRAM LOOP
 - Walk the six boxes once. Finger on Reproduce. That's the hinge.
 - Verbal: hunt and fix are different jobs. Don't mush them into one prompt.
-- Then honesty gates + screenshots.
 -->
