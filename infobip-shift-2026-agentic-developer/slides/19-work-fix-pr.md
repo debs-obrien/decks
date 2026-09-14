@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Human review · a11y</div>
-<img src="../public/images/review-fix-correct-a11y-regression.png" alt="Agent review says the fix is correct, then flags a keyboard a11y regression: focus drops when the menu opens" class="shot" />
+<div class="shot-badge">Draft fix PR · with proof</div>
+<img src="../public/images/fix-pr-623.png" alt="GitHub pull request fixing single Close menu control" class="shot" />
 
 </div>
 
@@ -24,9 +24,9 @@ class: devsum-slide hero
   display: inline-flex;
   font-size: 16px;
   font-weight: 700;
-  color: #fcd34d;
-  background: rgba(234, 179, 8, 0.14);
-  border: 1px solid rgba(234, 179, 8, 0.35);
+  color: #86efac;
+  background: rgba(34, 197, 94, 0.12);
+  border: 1px solid rgba(34, 197, 94, 0.35);
   padding: 6px 14px;
   border-radius: 999px;
 }
@@ -42,8 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: REVIEW A11Y
-- Agents prepared the PR. Green CI. Still not done.
-- Point at the warning: focus drops. That's why you still merge.
-- Callback later in PromptQL: same lesson on the playground.
+PRESENTER NOTES: FIX PR IMAGE
+- Draft PR from site-bugfix. Point at repro-before-code and the proof.
+- Before closeCount 2, after 1, plus a regression test. You still merge.
 -->

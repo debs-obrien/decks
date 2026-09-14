@@ -44,5 +44,5 @@ class: devsum-slide hero
 <!--
 PRESENTER NOTES: GROK BOT VILLAGE
 - One breath. This is the surface. Bots in a sidebar. Engineer ships PRs.
-- Then show what CoS can do. Then thesis / Zurich loop.
+- Then show what CoS can do. Then thesis / work loop.
 -->

@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Hunt PR · production site-bug-hunt</div>
-<img src="../public/images/hunt-pr-621.png" alt="GitHub pull request for production site-bug-hunt for ZurichJS talk prep" class="shot" />
+<div class="shot-badge">Issue · I elevated it</div>
+<img src="../public/images/issue-622.png" alt="GitHub issue: Mobile menu exposes two Close menu buttons" class="shot" />
 
 </div>
 
@@ -22,14 +22,11 @@ class: devsum-slide hero
 }
 .shot-badge {
   display: inline-flex;
-  align-items: center;
-  gap: 8px;
   font-size: 16px;
   font-weight: 700;
-  letter-spacing: 0.02em;
-  color: #c4b5fd;
-  background: rgba(124, 58, 237, 0.14);
-  border: 1px solid rgba(124, 58, 237, 0.35);
+  color: #fcd34d;
+  background: rgba(245, 158, 11, 0.14);
+  border: 1px solid rgba(245, 158, 11, 0.35);
   padding: 6px 14px;
   border-radius: 999px;
 }
@@ -45,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: HUNT PR IMAGE
-- Point at the candidates table. Mobile duplicate Close is the talk demo.
-- Call out: no GitHub issues filed. Honesty gates held.
+PRESENTER NOTES: ISSUE IMAGE
+- Hunt left a candidate. Gates held. I elevated the mobile duplicate Close.
+- Linked fix PR shows up in the sidebar once site-bugfix runs.
 -->

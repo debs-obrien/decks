@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Fix PR · with proof</div>
-<img src="../public/images/fix-pr-623.png" alt="GitHub pull request fixing single Close menu control" class="shot" />
+<div class="shot-badge">Hunt PR · production site-bug-hunt</div>
+<img src="../public/images/hunt-pr-621.png" alt="GitHub pull request for production site-bug-hunt on debbie.codes" class="shot" />
 
 </div>
 
@@ -22,11 +22,14 @@ class: devsum-slide hero
 }
 .shot-badge {
   display: inline-flex;
+  align-items: center;
+  gap: 8px;
   font-size: 16px;
   font-weight: 700;
-  color: #86efac;
-  background: rgba(34, 197, 94, 0.12);
-  border: 1px solid rgba(34, 197, 94, 0.35);
+  letter-spacing: 0.02em;
+  color: #c4b5fd;
+  background: rgba(124, 58, 237, 0.14);
+  border: 1px solid rgba(124, 58, 237, 0.35);
   padding: 6px 14px;
   border-radius: 999px;
 }
@@ -42,7 +45,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: FIX PR IMAGE (~25s)
-- Point at Summary, Repro before any code change, and the proof.
-- Before closeCount 2, after 1, plus a regression test.
+PRESENTER NOTES: HUNT PR IMAGE
+- Point at the candidates table. Mobile duplicate Close is the demo.
+- Call out: no GitHub issues filed. Honesty gates held. Hand off to site-bugfix later.
 -->

@@ -19,7 +19,7 @@ class: devsum-slide
 
 <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:1000px">
   <div class="task-card" style="flex:1;min-width:200px;border-left:4px solid var(--blue)"><span class="task-id" style="color:var(--blue)">Hunt</span><p>Candidates + evidence</p></div>
-  <div class="task-card" style="flex:1;min-width:200px;border-left:4px solid var(--purple)"><span class="task-id" style="color:var(--purple)">Fix</span><p>Reviewable PR body</p></div>
+  <div class="task-card" style="flex:1;min-width:200px;border-left:4px solid var(--purple)"><span class="task-id" style="color:var(--purple)">Fix</span><p>Draft PR with proof</p></div>
   <div class="task-card" style="flex:1;min-width:200px;border-left:4px solid var(--accent)"><span class="task-id" style="color:var(--accent)">Human</span><p>Merge</p></div>
 </div>
 
@@ -27,6 +27,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: HUMAN MERGE
-- Don't hand over merge. The win is reviewable artifacts.
+- Agents prepare the draft PR. You still merge.
+- Check repro, before/after, diff, test. Trust the loop, not a black-box bot.
 - Next: second-pass review catches focus and a11y the first PR missed.
 -->

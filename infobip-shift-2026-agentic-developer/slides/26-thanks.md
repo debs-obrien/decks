@@ -31,5 +31,4 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: THANKS
 - Let people scan the QR. Then take questions.
-- ZurichJS is the CI/PR cousin talk. Different deck.
 -->

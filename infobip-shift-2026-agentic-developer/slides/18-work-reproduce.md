@@ -87,7 +87,8 @@ class: devsum-slide
 </style>
 
 <!--
-PRESENTER NOTES: REPRODUCE RULE (~35s)
-- Slow down. This is the hinge of the talk.
+PRESENTER NOTES: REPRODUCE RULE
+- Slow down. This is the hinge of site-bugfix.
+- No product code until reproduction succeeds. Loud cannot-repro beats a fake fix.
 - Agents will invent a tidy "before" from a fixed branch if you let them.
 -->

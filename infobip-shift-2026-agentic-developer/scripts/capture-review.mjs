@@ -16,15 +16,13 @@ const base = process.argv[2] || 'http://127.0.0.1:3030'
 // 1-based slide numbers → filename stem
 const shots = [
   [6, '06-why-agentic'],
-  [21, '21-bridge'],
-  [28, '28-promptql-divider'],
-  [29, '29-promptql-bio'],
-  [30, '30-promptql-cards'],
-  [31, '31-promptql-tee'],
-  [32, '32-promptql-punch'],
-  [33, '33-takeaways'],
-  [8, '08-zurich-loop'],
-  [18, '18-zurich-merge'],
+  [9, '09-work-open'],
+  [10, '10-work-loop'],
+  [11, '11-two-skills'],
+  [12, '12-gates-kept'],
+  [20, '20-merge-gate'],
+  [23, '23-bridge'],
+  [35, '35-takeaways'],
 ]
 
 await mkdir(outDir, { recursive: true })

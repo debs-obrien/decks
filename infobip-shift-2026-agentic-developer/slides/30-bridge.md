@@ -20,9 +20,8 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES: BRIDGE (~1 min)
-- Callback: hunt/fix skills → travel/stage bots.
+PRESENTER NOTES: BRIDGE
+- Callback: site-bug-hunt and site-bugfix → travel and stage bots.
 - Reproduce before code → eyes on Turneo before book.
 - You still merge → I still pick the slot.
-- Then swim for ~7–8 min.
 -->

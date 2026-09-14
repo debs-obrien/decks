@@ -41,8 +41,8 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES: ZURICH OPEN (start of 12–14 min work core)
-- Promise the arc: hunt, elevated issue, fix PR. Production site.
-- Stress: minor did NOT auto-file. I elevated it. Honesty first.
+PRESENTER NOTES: WORK OPEN
+- Promise the arc: hunt wrote candidates, I elevated one issue, fix opened a draft PR.
+- Stress: gates held. Nothing auto-filed. Two skills, not one mega-bot.
 - Walk visual beats. Trim talky asides if pacing dies.
 -->

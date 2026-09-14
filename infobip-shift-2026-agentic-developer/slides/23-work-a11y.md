@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Issue · elevated for the talk</div>
-<img src="../public/images/issue-622.png" alt="GitHub issue: Mobile menu exposes two Close menu buttons" class="shot" />
+<div class="shot-badge">Human review · a11y</div>
+<img src="../public/images/review-fix-correct-a11y-regression.png" alt="Agent review says the fix is correct, then flags a keyboard a11y regression: focus drops when the menu opens" class="shot" />
 
 </div>
 
@@ -25,8 +25,8 @@ class: devsum-slide hero
   font-size: 16px;
   font-weight: 700;
   color: #fcd34d;
-  background: rgba(245, 158, 11, 0.14);
-  border: 1px solid rgba(245, 158, 11, 0.35);
+  background: rgba(234, 179, 8, 0.14);
+  border: 1px solid rgba(234, 179, 8, 0.35);
   padding: 6px 14px;
   border-radius: 999px;
 }
@@ -42,7 +42,8 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: ISSUE IMAGE (~20s)
-- Cursor bot authored it. Linked fix PR shows up in the sidebar.
-- Read the callout: gates would not auto-file. I elevated it.
+PRESENTER NOTES: REVIEW A11Y
+- site-bugfix prepared the draft PR. Green CI. Still not done.
+- Point at the warning: focus drops. That's why you still merge.
+- Callback later in PromptQL: same lesson on the playground.
 -->

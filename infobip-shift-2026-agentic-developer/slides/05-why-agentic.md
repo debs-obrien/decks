@@ -15,7 +15,7 @@ class: devsum-slide
 <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:1040px;margin:0 auto">
  <div class="task-card" style="flex:1;min-width:260px;text-align:left;border-left:4px solid var(--blue)">
  <span class="task-id" style="color:var(--blue)">Work</span>
- <p style="font-size:22px;margin:8px 0 0">Hunt → issue → fix → test → you still merge.</p>
+ <p style="font-size:22px;margin:8px 0 0">Hunt finds candidates. Fix drafts a PR. You still merge.</p>
  </div>
  <div class="task-card" style="flex:1;min-width:260px;text-align:left;border-left:4px solid var(--accent)">
  <span class="task-id" style="color:var(--accent)">Life</span>
@@ -30,8 +30,8 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES: WHY AGENTIC DEVELOPER (~30–40s)
-- Explicit answer for Main Stage. Zurich alone can feel like testing.
-- Three proofs: repo loop, swim, PromptQL taste gate.
-- Then dive Zurich for ~12–14 min.
+PRESENTER NOTES: WHY AGENTIC DEVELOPER
+- Explicit answer for Main Stage. The overnight work loop alone can feel like testing.
+- Work is two skills: hunt finds, fix drafts, you merge.
+- Then Life and Taste. Dive the work loop next.
 -->
