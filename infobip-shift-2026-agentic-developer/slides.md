@@ -127,14 +127,6 @@ src: ./slides/30-bridge.md
 ---
 
 ---
-src: ./slides/06-shot-grok-bot.md
----
-
----
-src: ./slides/07-shot-grok-bot-cos.md
----
-
----
 src: ./slides/31-swim-beats.md
 ---
 
@@ -156,6 +148,14 @@ src: ./slides/35-swim-slot.md
 
 ---
 src: ./slides/36-swim-ownership.md
+---
+
+---
+src: ./slides/06-shot-grok-bot.md
+---
+
+---
+src: ./slides/07-shot-grok-bot-cos.md
 ---
 
 ---
