@@ -15,7 +15,7 @@ class: devsum-slide
     <span class="task-id" style="color:#a78bfa">site-bug-hunt</span>
     <h3 style="font-size:24px;margin-top:4px">Find and classify</h3>
     <ul class="feature-list" style="font-size:18px;margin-top:6px;gap:8px">
-      <li><span class="icon">🧭</span><span>Crawl the important journeys</span></li>
+      <li><span class="icon">🧭</span><span>Crawl the important paths</span></li>
       <li><span class="icon">📸</span><span>Capture evidence</span></li>
       <li><span class="icon">🗂️</span><span>Write candidate files</span></li>
       <li><span class="icon">🚪</span><span>File issues only when gates pass</span></li>

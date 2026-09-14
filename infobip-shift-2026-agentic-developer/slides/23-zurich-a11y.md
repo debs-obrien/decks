@@ -45,5 +45,5 @@ class: devsum-slide hero
 PRESENTER NOTES: REVIEW A11Y
 - Agents prepared the PR. Green CI. Still not done.
 - Point at the warning: focus drops. That's why you still merge.
-- Callback later in PromptQL: same lesson on a polished playground.
+- Callback later in PromptQL: same lesson on the playground.
 -->

@@ -28,7 +28,7 @@ class: devsum-slide
   <div class="diagram-arrow" style="font-size:24px">→</div>
   <div class="diagram-node green" style="min-height:180px;padding:16px 12px;flex:1">
     <div class="label" style="font-size:20px;margin-bottom:8px">4 · Watch</div>
-    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">Travel owns booking. Mid-week mornings as they unlock.</div>
+    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">Travel owns booking. Mid-week mornings when slots show up.</div>
   </div>
 </div>
 

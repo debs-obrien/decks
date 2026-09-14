@@ -5,8 +5,6 @@ class: devsum-slide
 
 <div class="slide-inner center">
 
-<span class="title-badge" style="margin-bottom:18px">The punch</span>
-
 <p style="font-size:44px;font-weight:800;line-height:1.14;max-width:1000px;margin:0 auto 18px">
   Agents draft.<br>
   <span class="gradient-text">Humans still review.</span>
@@ -14,7 +12,7 @@ class: devsum-slide
 
 <p style="font-size:24px;color:var(--text-dim);max-width:880px;margin:0 auto 26px;line-height:1.4">
   Same lesson as the Zurich a11y pass after green CI.<br>
-  Polished playground. Still needs my corrections.
+  PromptQL still needed my corrections.
 </p>
 
 <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:1000px">

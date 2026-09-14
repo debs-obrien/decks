@@ -23,7 +23,7 @@ class: devsum-slide
 </div>
 
 <p class="footer-note" style="margin-top:22px;text-align:center">
-  Hierarchy is taste. Taste is still human.
+  That's a taste call. Still mine.
 </p>
 
 </div>

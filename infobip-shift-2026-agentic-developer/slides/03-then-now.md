@@ -23,7 +23,7 @@ class: devsum-slide
 </div>
 
 <p class="footer-note" style="margin-top:28px">
-  Last year felt like the breakthrough. This year I'm living with it.
+  Last year felt big. This year I'm living with it.
 </p>
 
 </div>
@@ -31,5 +31,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: THEN/NOW (~1 min inside the open)
 - Flash Shift 2025. Don't rebuild that talk.
-- Turn: not a tester-only story. Work loop + life loop + polished playground.
+- Turn: not a tester-only story. Work loop + life loop + PromptQL.
 -->

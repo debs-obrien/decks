@@ -39,7 +39,7 @@ class: devsum-slide
   <div class="task-card" style="border-color:var(--purple);padding:14px 18px">
     <span class="task-id" style="color:var(--purple)">CoS gate</span>
     <h3 style="font-size:20px">Debbie-yes only</h3>
-    <p style="font-size:18px">merge · public · consequential. Stay out of the noise.</p>
+    <p style="font-size:18px">merge · public · the big yes. Stay out of the noise.</p>
   </div>
 </div>
 

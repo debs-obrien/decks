@@ -13,7 +13,7 @@ class: devsum-slide
 </p>
 
 <p style="font-size:26px;line-height:1.4;color:var(--text-dim);max-width:880px;margin:0 auto">
-  A polished agent playground drafted my snapshot.<br>
+  PromptQL drafted my snapshot.<br>
   I still had to correct it. Like the a11y review.
 </p>
 
@@ -22,6 +22,6 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: PROMPTQL DIVIDER (~4–5 min block)
 - Not a vendor pitch. My correction loop.
-- Frame: even polished agents need human taste.
+- Frame: even PromptQL needs my taste.
 - Callback to Zurich a11y review after green CI.
 -->

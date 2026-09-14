@@ -6,7 +6,7 @@ class: devsum-slide
 <div class="slide-inner">
 
 <h2>What still needs a human</h2>
-<p class="lede">Agents execute. You still own the consequential yes.</p>
+<p class="lede">Agents execute. You still own the yes that matters.</p>
 
 <ul class="feature-list" style="margin-top:10px;font-size:24px;max-width:980px">
   <li><span class="icon">🕐</span><span><span class="label">Prefer times</span> <span class="desc">which slot to book</span></span></li>
