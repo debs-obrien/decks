@@ -21,7 +21,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: BRIDGE
-- Callback: overnight work loop → a whole bot team outside the repo.
-- Sweep shopping, coach, job hunt, work, content. Then swim as the deep example.
+- Overnight work loop → same pattern outside the repo.
+- Next: swim goal (what we wanted), then proof screenshots, then CoS + team zoom-out.
 - You still merge → I still keep the yes.
 -->
