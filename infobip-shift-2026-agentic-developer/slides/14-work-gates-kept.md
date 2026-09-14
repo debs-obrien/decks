@@ -7,14 +7,12 @@ class: devsum-slide
 
 <span class="badge badge-orange" style="font-size:16px;padding:6px 16px;margin-bottom:18px">gates working</span>
 
-<p style="font-size:40px;font-weight:800;line-height:1.14;max-width:1040px;margin:0 auto 18px">
-  Two Close menus. <span class="mono">confidence: high</span>.<br>
-  Severity: <span class="orange">minor</span> → <span class="accent">no auto-file</span>.
+<p style="font-size:42px;font-weight:800;line-height:1.14;max-width:1040px;margin:0 auto 18px">
+  Severity <span class="orange">minor</span> → <span class="accent">no auto-file</span>.
 </p>
 
-<p style="font-size:24px;color:var(--text-dim);max-width:920px;margin:0 auto 24px;line-height:1.4">
-  Hunt wrote <span class="mono">qa/bug-candidates/mobile-duplicate-close-menu.md</span>
-  and stopped. I elevated it to an issue. The gates stayed honest.
+<p style="font-size:26px;color:var(--text-dim);max-width:920px;margin:0 auto 24px;line-height:1.4">
+  I elevated it to an issue. The gates stayed honest.
 </p>
 
 <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
@@ -29,6 +27,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: GATES
 - Teaching beat: silence can be success. Nothing auto-filed overnight.
-- Honesty in one breath: bug + high + major/blocker, fingerprint, caps. Else candidate only.
-- This one was minor. I elevated it. Then site-bugfix took the issue.
+- Minor → candidate only. I elevated. Then site-bugfix took the issue.
 -->
