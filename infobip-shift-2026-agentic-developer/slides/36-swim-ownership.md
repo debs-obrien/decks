@@ -7,7 +7,7 @@ class: devsum-slide
 
 <span class="badge badge-purple" style="font-size:14px;padding:5px 14px;margin-bottom:10px">the team</span>
 
-<h2 style="font-size:34px;margin:0 0 14px">Chief of staff on top. Specialists underneath.</h2>
+<h2 style="font-size:34px;margin:0 0 14px">Chief of staff on top. Bots underneath.</h2>
 
 <div class="cos-card">
   <div class="cos-label">Chief of staff</div>
