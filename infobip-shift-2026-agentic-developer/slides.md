@@ -75,6 +75,14 @@ src: ./slides/05-why-agentic.md
 ---
 
 ---
+src: ./slides/06-shot-grok-bot.md
+---
+
+---
+src: ./slides/07-shot-grok-bot-cos.md
+---
+
+---
 src: ./slides/10-zurich-open.md
 ---
 

@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Correct the artifact · bio</div>
-<img src="../public/images/promptql-02-bio-correct.png" alt="PromptQL chat correcting bio to include Playwright and Nuxt Ambassador" class="shot" />
+<div class="shot-badge">Grok Bot · what it can do</div>
+<img src="../public/images/grok-bot-cos-can-do.png" alt="Chief of staff chat drafting a speaker-invite reply and rescheduling a meeting after Debbie yes" class="shot" />
 
 </div>
 
@@ -24,9 +24,9 @@ class: devsum-slide hero
   display: inline-flex;
   font-size: 16px;
   font-weight: 700;
-  color: #fcd34d;
-  background: rgba(234, 179, 8, 0.14);
-  border: 1px solid rgba(234, 179, 8, 0.35);
+  color: #c4b5fd;
+  background: rgba(124, 58, 237, 0.14);
+  border: 1px solid rgba(124, 58, 237, 0.35);
   padding: 6px 14px;
   border-radius: 999px;
 }
@@ -42,7 +42,8 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: PROMPTQL BIO SHOT
-- Point at the correction: Playwright + Nuxt. I said so in chat.
-- Agents draft. I still own the words.
+PRESENTER NOTES: GROK BOT COS
+- Draft speaker reply from messy instruction. Review card. Nothing sends without my yes.
+- Then reschedule endform. Same gate.
+- Don't linger on the email in the UI. Point at the gate.
 -->
