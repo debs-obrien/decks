@@ -28,9 +28,6 @@ aspectRatio: "16/9"
 ---
 
 <div class="slide-inner center title-glow">
-
-<div class="title-badge">Infobip Shift 2026 · Zadar · Main Stage</div>
-
 <div class="broken-icon" style="margin:18px 0">
   <span>🐞</span><span class="arr">→</span><span>🏊</span><span class="arr">→</span><span>✋</span>
 </div>
@@ -40,11 +37,6 @@ aspectRatio: "16/9"
 <p style="font-size:26px;color:var(--text-dim);margin:0 auto 18px;max-width:900px">
   Bug report in. Pull request out. Same gates outside the repo.
 </p>
-
-<p style="font-size:18px;color:var(--text-muted);margin:0">
-  Tue 15 Sep 2026 · Zadar
-</p>
-
 </div>
 
 <!--
