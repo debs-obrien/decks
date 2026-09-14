@@ -6,7 +6,7 @@ class: devsum-slide hero
 <div class="slide-inner image-slide">
 
 <div class="shot-badge">Hunt PR · production site-bug-hunt</div>
-<img src="../public/images/hunt-pr-621.png" alt="GitHub pull request for production site-bug-hunt for ZurichJS talk prep" class="shot" />
+<img src="../public/images/hunt-pr-621.png" alt="GitHub pull request for production site-bug-hunt on debbie.codes" class="shot" />
 
 </div>
 

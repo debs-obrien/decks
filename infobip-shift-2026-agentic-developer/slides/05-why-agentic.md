@@ -31,7 +31,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: WHY AGENTIC DEVELOPER
-- Explicit answer for Main Stage. Zurich alone can feel like testing.
+- Explicit answer for Main Stage. The overnight work loop alone can feel like testing.
 - Work is two skills: hunt finds, fix drafts, you merge.
-- Then Life and Taste. Dive Zurich next.
+- Then Life and Taste. Dive the work loop next.
 -->

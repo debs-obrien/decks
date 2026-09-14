@@ -20,7 +20,7 @@ mermaid:
 info: |
   ## The Agentic Developer
   Infobip Shift 2026 · Zadar Main Stage
-  Zurich work loop + swim + PromptQL human gate.
+  Overnight work loop + swim + PromptQL human gate.
 class: devsum-slide
 lineNumbers: false
 canvasWidth: 1280
@@ -43,7 +43,7 @@ aspectRatio: "16/9"
 PRESENTER NOTES: COVER (~2–3 min block starts after intro)
 - Hold a breath. Look around the room.
 - Don't open with thanks. Hit intro, then hook.
-- Spine: Zurich work loop (~12–14) → swim (~7–8) → PromptQL (~4–5).
+- Spine: overnight work loop on debbie.codes → swim → PromptQL.
 -->
 
 ---
@@ -75,59 +75,59 @@ src: ./slides/07-shot-grok-bot-cos.md
 ---
 
 ---
-src: ./slides/10-zurich-open.md
+src: ./slides/10-work-open.md
 ---
 
 ---
-src: ./slides/11-zurich-loop.md
+src: ./slides/11-work-loop.md
 ---
 
 ---
-src: ./slides/12-zurich-two-skills.md
+src: ./slides/12-work-two-skills.md
 ---
 
 ---
-src: ./slides/14-zurich-gates-kept.md
+src: ./slides/14-work-gates-kept.md
 ---
 
 ---
-src: ./slides/15-zurich-hunt.md
+src: ./slides/15-work-hunt.md
 ---
 
 ---
-src: ./slides/16-zurich-issue.md
+src: ./slides/16-work-issue.md
 ---
 
 ---
-src: ./slides/17-zurich-before.md
+src: ./slides/17-work-before.md
 ---
 
 ---
-src: ./slides/18-zurich-reproduce.md
+src: ./slides/18-work-reproduce.md
 ---
 
 ---
-src: ./slides/19-zurich-fix-pr.md
+src: ./slides/19-work-fix-pr.md
 ---
 
 ---
-src: ./slides/20-zurich-after.md
+src: ./slides/20-work-after.md
 ---
 
 ---
-src: ./slides/21-zurich-playwright.md
+src: ./slides/21-work-playwright.md
 ---
 
 ---
-src: ./slides/22-zurich-merge-gate.md
+src: ./slides/22-work-merge-gate.md
 ---
 
 ---
-src: ./slides/23-zurich-a11y.md
+src: ./slides/23-work-a11y.md
 ---
 
 ---
-src: ./slides/24-zurich-ultrareview.md
+src: ./slides/24-work-ultrareview.md
 ---
 
 ---

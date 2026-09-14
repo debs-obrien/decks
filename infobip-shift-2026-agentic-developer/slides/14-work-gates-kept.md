@@ -29,5 +29,6 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: GATES
 - Teaching beat: silence can be success. Nothing auto-filed overnight.
-- I elevated the minor myself. Then site-bugfix took the issue.
+- Honesty in one breath: bug + high + major/blocker, fingerprint, caps. Else candidate only.
+- This one was minor. I elevated it. Then site-bugfix took the issue.
 -->

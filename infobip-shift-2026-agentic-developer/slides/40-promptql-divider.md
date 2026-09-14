@@ -23,5 +23,5 @@ class: devsum-slide
 PRESENTER NOTES: PROMPTQL DIVIDER (~4–5 min block)
 - Not a vendor pitch. My correction loop.
 - Frame: even PromptQL needs my taste.
-- Callback to Zurich a11y review after green CI.
+- Callback to the a11y review after green CI.
 -->

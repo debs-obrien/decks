@@ -20,7 +20,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: HOOK (part of 2–3 min open)
-- Open on the Zurich line the room already loved.
+- Open on the overnight line: bug report in, pull request out.
 - Then widen: same gates for life work, not just CI.
 - Don't linger. Then → now next.
 -->

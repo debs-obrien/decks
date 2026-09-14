@@ -2,9 +2,9 @@
 
 Slidev deck for Infobip Shift 2026, Zadar Main Stage · Tue 15 Sep 2026.
 
-> Agents draft. You still gate. Zurich work loop + swim booking + PromptQL human taste.
+> Agents draft. You still gate. Overnight work loop on debbie.codes + swim booking + PromptQL human taste.
 
-Spine: Zurich proven talk as work core (~12–14) · swim (~7–8) · PromptQL correction loop (~4–5).
+Spine: overnight hunt/fix loop as work core · swim · PromptQL correction loop.
 
 ## Run locally
 
@@ -34,4 +34,4 @@ Debbie O'Brien · Independent Developer Educator · debbie.codes
 
 ## Screenshots
 
-Zurich images copied into `public/images/`. Swim shots already present. PromptQL PNGs: see `IMAGE-MAP.md` (re-attach if missing).
+Work-loop images in `public/images/`. Swim shots already present. PromptQL PNGs: see `IMAGE-MAP.md` (re-attach if missing).

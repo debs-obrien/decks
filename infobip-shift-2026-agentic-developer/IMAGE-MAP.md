@@ -9,7 +9,7 @@ Assets used by the Infobip Shift 2026 deck (`The Agentic Developer`).
 | `grok-bot-village.png` | What Grok Bot looks like · work sidebar + engineer PR | **BYTES MISSING ON VM** · slide wired; re-drop into `public/images/` |
 | `grok-bot-cos-can-do.png` | What it can do · CoS draft + send gate + reschedule | **BYTES MISSING ON VM** · slide wired; re-drop into `public/images/` |
 
-## Zurich work loop (copied from `zurichjs-2026-bug-report-pr-out/public/images/`)
+## Overnight work loop (debbie.codes hunt / fix)
 
 | Deck filename | Slide role |
 |---------------|------------|
@@ -22,7 +22,7 @@ Assets used by the Infobip Shift 2026 deck (`The Agentic Developer`).
 | `review-fix-correct-a11y-regression.png` | Human review · a11y regression |
 | `review-pr-623-ultrareview.png` | Second-pass review still needs eyes |
 
-Trimmed for 12–14 min (still in `public/images/`, not on spine): candidate file, TheTopBar diff, two-skills diagram (verbal on loop slide).
+Trimmed for time (still in `public/images/`, not on spine): candidate file, TheTopBar diff.
 
 ## Swim (existing Infobip assets)
 

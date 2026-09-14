@@ -41,7 +41,7 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES: ZURICH OPEN
+PRESENTER NOTES: WORK OPEN
 - Promise the arc: hunt wrote candidates, I elevated one issue, fix opened a draft PR.
 - Stress: gates held. Nothing auto-filed. Two skills, not one mega-bot.
 - Walk visual beats. Trim talky asides if pacing dies.
