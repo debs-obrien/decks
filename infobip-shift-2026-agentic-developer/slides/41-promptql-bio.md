@@ -5,7 +5,7 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Correct the artifact · bio</div>
+<div class="shot-badge">Shaped in chat · bio</div>
 <img src="../public/images/promptql-02-bio-correct.png" alt="PromptQL chat correcting bio to include Playwright and Nuxt Ambassador" class="shot" />
 
 </div>
