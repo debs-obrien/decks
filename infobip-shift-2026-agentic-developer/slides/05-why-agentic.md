@@ -15,11 +15,11 @@ class: devsum-slide
 <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:1040px;margin:0 auto">
  <div class="task-card" style="flex:1;min-width:260px;text-align:left;border-left:4px solid var(--blue)">
  <span class="task-id" style="color:var(--blue)">Work</span>
- <p style="font-size:22px;margin:8px 0 0">Hunt → issue → fix → test → you still merge. </p>
+ <p style="font-size:22px;margin:8px 0 0">Hunt → issue → fix → test → you still merge.</p>
  </div>
  <div class="task-card" style="flex:1;min-width:260px;text-align:left;border-left:4px solid var(--accent)">
  <span class="task-id" style="color:var(--accent)">Life</span>
- <p style="font-size:22px;margin:8px 0 0">Swim booking with eyes on Turneo. I pick the slot. Travel owns the watch.</p>
+ <p style="font-size:22px;margin:8px 0 0">Books swimming lessons, fills out forms, and sets up a watch for when next lessons open.</p>
  </div>
  <div class="task-card" style="flex:1;min-width:260px;text-align:left;border-left:4px solid var(--purple)">
  <span class="task-id" style="color:var(--purple)">Taste</span>
