@@ -6,7 +6,7 @@ class: devsum-slide
 <div class="slide-inner">
 
 <span class="title-badge" style="margin-bottom:10px">Thesis</span>
-<h2 style="font-size:40px;margin-bottom:8px">Hire bots. Give one clear job. Keep the gates.</h2>
+<h2 style="font-size:40px;margin-bottom:8px">Give each bot one clear job. You keep the yes.</h2>
 <p class="lede" style="margin-bottom:18px">Not one mega-agent. Not magic auto-merge.</p>
 
 <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:1080px;margin:0 auto">
