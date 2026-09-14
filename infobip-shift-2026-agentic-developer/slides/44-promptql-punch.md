@@ -5,13 +5,13 @@ class: devsum-slide
 
 <div class="slide-inner center">
 
-<p style="font-size:44px;font-weight:800;line-height:1.14;max-width:1000px;margin:0 auto 18px">
-  Build the small thing<br>
-  <span class="gradient-text">in the conversation.</span>
+<p style="font-size:48px;font-weight:900;line-height:1.12;max-width:1000px;margin:0 auto 18px">
+  Ask for a form.<br>
+  <span class="gradient-text">Get a form.</span>
 </p>
 
 <p style="font-size:24px;color:var(--text-dim);max-width:880px;margin:0 auto 26px;line-height:1.4">
-  Bio, cards, tee ask. Shaped in chat.<br>
+  Built in the thread. Bio, cards, tee ask.<br>
   I still keep the yes.
 </p>
 
@@ -25,6 +25,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: PROMPTQL PUNCH
-- Tie three arcs. Build-in-chat, not "I had to correct it."
+- Land the build-in-chat idea. Form beat is the proof.
+- Privacy: say home only. Never read street/postcode aloud.
 - Then takeaways.
 -->
