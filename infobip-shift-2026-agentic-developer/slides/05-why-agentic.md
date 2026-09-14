@@ -23,7 +23,7 @@ class: devsum-slide
  </div>
  <div class="task-card" style="flex:1;min-width:260px;text-align:left;border-left:4px solid var(--purple)">
  <span class="task-id" style="color:var(--purple)">Taste</span>
- <p style="font-size:22px;margin:8px 0 0">Even PromptQL needed my corrections. Same lesson as merge.</p>
+ <p style="font-size:22px;margin:8px 0 0">Drafts the bio, shapes the card, fixes tee UX. I still correct the snapshot.</p>
  </div>
 </div>
 
