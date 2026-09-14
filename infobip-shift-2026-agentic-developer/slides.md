@@ -79,6 +79,14 @@ src: ./slides/12-work-two-skills.md
 ---
 
 ---
+src: ./slides/13-work-skill-hunt.md
+---
+
+---
+src: ./slides/13b-work-skill-fix.md
+---
+
+---
 src: ./slides/14-work-gates-kept.md
 ---
 
