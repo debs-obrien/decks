@@ -83,17 +83,10 @@ src: ./slides/11-zurich-loop.md
 ---
 
 ---
-<<<<<<< HEAD
-=======
 src: ./slides/12-zurich-two-skills.md
 ---
 
 ---
-src: ./slides/13-zurich-honesty.md
----
-
----
->>>>>>> f987f18 (fix(infobip): align Zurich slides with real hunt/fix skills)
 src: ./slides/14-zurich-gates-kept.md
 ---
 
