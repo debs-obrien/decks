@@ -2,9 +2,9 @@
 
 Slidev deck for Infobip Shift 2026, Zadar Main Stage · Tue 15 Sep 2026.
 
-> Last year AI could drive a browser for *tests*. This year agents run your *life and work*.
+> Agents draft. You still gate. Zurich work loop + swim booking + PromptQL human taste.
 
-Different from ZurichJS (CI/PR loop). This talk is the life + work agent village.
+Spine: Zurich proven talk as work core (~12–14) · swim (~7–8) · PromptQL correction loop (~4–5).
 
 ## Run locally
 
@@ -20,9 +20,13 @@ pnpm dev
 pnpm build
 ```
 
-## Backup
+## Export
 
-Offline PDF: `export/infobip-shift-2026-agentic-developer.pdf` (also `exports/infobip-shift-2026-agentic-developer.pdf` at repo root).
+```bash
+pnpm export:pdf
+```
+
+Offline PDF: `export/infobip-shift-2026-agentic-developer.pdf` (also `exports/` at repo root when synced).
 
 ## Speaker
 
@@ -30,4 +34,4 @@ Debbie O'Brien · Independent Developer Educator · debbie.codes
 
 ## Screenshots
 
-Desktop captures live in `public/images/`. See `IMAGE-MAP.md` for the attachment → filename mapping.
+Zurich images copied into `public/images/`. Swim shots already present. PromptQL PNGs: see `IMAGE-MAP.md` (re-attach if missing).
