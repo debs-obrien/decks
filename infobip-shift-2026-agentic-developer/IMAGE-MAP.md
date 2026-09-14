@@ -13,6 +13,9 @@ Assets used by the Infobip Shift 2026 deck (`The Agentic Developer`).
 
 | Deck filename | Slide role |
 |---------------|------------|
+| `skill-site-bug-hunt.png` | What's a skill? · real `site-bug-hunt/SKILL.md` on GitHub |
+| `skill-site-bugfix.png` | Fix skill · real `site-bugfix/SKILL.md` on GitHub |
+| `skills-folder.png` | Optional · `.agents/skills/` folder (asset kept, not on spine) |
 | `hunt-pr-621.png` | Hunt PR · production site-bug-hunt |
 | `issue-622.png` | Elevated issue · two Close menus |
 | `before-two-close-menus.png` | BEFORE · prod repro |
@@ -22,7 +25,7 @@ Assets used by the Infobip Shift 2026 deck (`The Agentic Developer`).
 | `review-fix-correct-a11y-regression.png` | Human review · a11y regression |
 | `review-pr-623-ultrareview.png` | Second-pass review still needs eyes |
 
-Trimmed for time (still in `public/images/`, not on spine): candidate file, TheTopBar diff.
+Trimmed for time (still in `public/images/`, not on spine): candidate file, TheTopBar diff, skills folder.
 
 ## Swim (existing Infobip assets)
 

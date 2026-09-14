@@ -16,10 +16,12 @@ const base = process.argv[2] || 'http://127.0.0.1:3030'
 // 1-based slide numbers → filename stem
 const shots = [
   [6, '06-why-agentic'],
-  [9, '09-work-open'],
-  [10, '10-work-loop'],
-  [11, '11-two-skills'],
-  [12, '12-gates-kept'],
+  [7, '09-work-open'],
+  [8, '10-work-loop'],
+  [9, '11-two-skills'],
+  [10, '12-skill-hunt'],
+  [11, '13-skill-fix'],
+  [12, '14-gates-kept'],
   [20, '20-merge-gate'],
   [23, '23-bridge'],
   [35, '35-takeaways'],
