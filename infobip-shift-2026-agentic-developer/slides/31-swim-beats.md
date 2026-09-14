@@ -5,37 +5,82 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<span class="badge badge-green" style="font-size:14px;padding:5px 14px;margin-bottom:8px">life arc</span>
+<span class="badge badge-green" style="font-size:14px;padding:5px 14px;margin-bottom:8px">bots</span>
 
-<h2 style="font-size:36px;margin-bottom:6px">Swim booking · four beats</h2>
-<p class="lede" style="margin-bottom:12px">Intent → eyes → decision → watch. Human gates stay human.</p>
+<h2 style="font-size:36px;margin-bottom:6px">One clear job each</h2>
+<p class="lede" style="margin-bottom:14px">Shopping, coach, job hunt, work, content. Swim is just one of them.</p>
 
-<div class="diagram-chain" style="margin:0;gap:10px;align-items:stretch">
-  <div class="diagram-node blue" style="min-height:180px;padding:16px 12px;flex:1">
-    <div class="label" style="font-size:20px;margin-bottom:8px">1 · Intent</div>
-    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">Book Baby Goldfish. Prefer ~09:30. Parents in pool. €0.</div>
+<div class="bot-grid">
+  <div class="bot-card" style="border-color:var(--blue)">
+    <div class="bot-name">Shopping</div>
+    <div class="bot-sub">Groceries and household</div>
   </div>
-  <div class="diagram-arrow" style="font-size:24px">→</div>
-  <div class="diagram-node orange" style="min-height:180px;padding:16px 12px;flex:1">
-    <div class="label" style="font-size:20px;margin-bottom:8px">2 · Eyes</div>
-    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">Travel + stage on live Turneo. Cookie banner. Real slots.</div>
+  <div class="bot-card" style="border-color:var(--accent)">
+    <div class="bot-name">Coach</div>
+    <div class="bot-sub">Gym, meals, habits</div>
   </div>
-  <div class="diagram-arrow" style="font-size:24px">→</div>
-  <div class="diagram-node purple" style="min-height:180px;padding:16px 12px;flex:1">
-    <div class="label" style="font-size:20px;margin-bottom:8px">3 · Gate</div>
-    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">I pick the slot. Room number via CoS. Don't invent refs.</div>
+  <div class="bot-card" style="border-color:var(--purple)">
+    <div class="bot-name">Job hunt</div>
+    <div class="bot-sub">Roles and applications</div>
   </div>
-  <div class="diagram-arrow" style="font-size:24px">→</div>
-  <div class="diagram-node green" style="min-height:180px;padding:16px 12px;flex:1">
-    <div class="label" style="font-size:20px;margin-bottom:8px">4 · Watch</div>
-    <div class="sub" style="font-size:17px;line-height:1.3;margin:0">Travel owns booking. Mid-week mornings when slots show up.</div>
+  <div class="bot-card" style="border-color:var(--orange)">
+    <div class="bot-name">Work team</div>
+    <div class="bot-sub">Site, QA, code</div>
+  </div>
+  <div class="bot-card" style="border-color:var(--blue)">
+    <div class="bot-name">Content</div>
+    <div class="bot-sub">Blog, YouTube, social</div>
+  </div>
+  <div class="bot-card" style="border-color:var(--accent)">
+    <div class="bot-name">Travel</div>
+    <div class="bot-sub">Flights and bookings</div>
+  </div>
+  <div class="bot-card" style="border-color:var(--purple)">
+    <div class="bot-name">Home</div>
+    <div class="bot-sub">School calendar and bags</div>
+  </div>
+  <div class="bot-card" style="border-color:var(--orange)">
+    <div class="bot-name">Chief of staff</div>
+    <div class="bot-sub">Routes. I keep the yes.</div>
   </div>
 </div>
 
 </div>
+
+<style>
+.bot-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  width: 100%;
+  margin-top: 8px;
+}
+.bot-card {
+  min-width: 0;
+  background: var(--surface);
+  border: 2px solid var(--code-border);
+  border-left-width: 4px;
+  border-radius: 14px;
+  padding: 16px 14px;
+  text-align: left;
+}
+.bot-name {
+  font-size: 22px;
+  font-weight: 850;
+  line-height: 1.15;
+  color: var(--text);
+}
+.bot-sub {
+  margin-top: 6px;
+  font-size: 15px;
+  line-height: 1.3;
+  color: var(--text-dim);
+}
+</style>
 
 <!--
-PRESENTER NOTES: SWIM FOUR BEATS (start of 7–8 min)
-- Walk fast into screenshots.
-- Verbal OK: room number / don't invent refs. Say home only if shipping comes up (it shouldn't here).
+PRESENTER NOTES: MANY BOTS (start of life arc)
+- Sweep the grid fast. Point: not one mega-bot. One clear job each.
+- Then dive swim as the lived example (eyes, slot pick, ownership).
+- Callback to thesis: you keep the yes.
 -->
