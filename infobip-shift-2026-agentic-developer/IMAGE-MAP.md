@@ -13,7 +13,7 @@ Assets used by the Infobip Shift 2026 deck (`The Agentic Developer`).
 
 | Deck filename | Slide role |
 |---------------|------------|
-| `skill-site-bug-hunt.png` | What&rsquo;s a skill? · real `site-bug-hunt/SKILL.md` on GitHub |
+| `skill-site-bug-hunt.png` | What's a skill? · real `site-bug-hunt/SKILL.md` on GitHub |
 | `skill-site-bugfix.png` | Fix skill · real `site-bugfix/SKILL.md` on GitHub |
 | `skills-folder.png` | Optional · `.agents/skills/` folder (asset kept, not on spine) |
 | `hunt-pr-621.png` | Hunt PR · production site-bug-hunt |
