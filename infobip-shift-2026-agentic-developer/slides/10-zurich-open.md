@@ -20,7 +20,7 @@ class: devsum-slide
   <div class="task-card" style="flex:1;text-align:left;border-left:4px solid var(--purple)">
     <span class="task-id" style="color:var(--purple)">Issue</span>
     <h3 style="font-size:24px">Two Close menus</h3>
-    <p style="font-size:18px">I elevated a minor bug for the talk.</p>
+    <p style="font-size:18px">It found a duplicate Close on the mobile menu.</p>
   </div>
 
   <div class="diagram-arrow" style="font-size:28px">→</div>
@@ -28,7 +28,7 @@ class: devsum-slide
   <div class="task-card" style="flex:1;text-align:left;border-left:4px solid var(--accent)">
     <span class="task-id" style="color:var(--accent)">Fix</span>
     <h3 style="font-size:24px">PR with proof</h3>
-    <p style="font-size:18px">Repro, patch, test, before and after.</p>
+    <p style="font-size:18px">Playwright CLI screenshots. It reproduced before it fixed.</p>
   </div>
 
 </div>
