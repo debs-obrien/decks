@@ -5,7 +5,7 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Skim risk · tee ask</div>
+<div class="shot-badge">Shaped in chat · tee ask</div>
 <img src="../public/images/promptql-04-tee-ux.png" alt="PromptQL chat making the tee offer prominent after Debbie almost missed it under the snapshot" class="shot" />
 
 </div>
