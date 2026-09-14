@@ -10,7 +10,7 @@ class: devsum-slide
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:1040px;margin-top:4px">
   <div class="task-card" style="padding:20px 22px;min-height:160px">
     <span class="task-id" style="color:var(--accent);font-size:16px">01</span>
-    <h3 style="font-size:26px;margin-top:6px">Hire bots with hard edges</h3>
+    <h3 style="font-size:26px;margin-top:6px">Give each bot one clear job</h3>
     <p style="font-size:20px;margin:10px 0 0;line-height:1.35">Not one mega-agent. Each bot gets one clear job.</p>
   </div>
   <div class="task-card" style="padding:20px 22px;min-height:160px">
