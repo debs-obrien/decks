@@ -5,21 +5,24 @@ class: devsum-slide
 
 <div class="slide-inner center">
 
-<p style="font-size:28px;color:var(--accent);font-weight:800;letter-spacing:1px;text-transform:uppercase;margin:0 0 28px">the ask</p>
+<p style="font-size:28px;color:var(--accent);font-weight:800;letter-spacing:1px;text-transform:uppercase;margin:0 0 28px">the promise</p>
 
-<p style="font-size:52px;color:var(--text);font-weight:900;margin:0 auto 28px;line-height:1.08;max-width:1080px">
-  "Book swimming for the boys<br>during Infobip Shift."
+<p style="font-size:48px;color:var(--text);font-weight:900;margin:0 auto 24px;line-height:1.1;max-width:1080px">
+  Bug report in.<br>
+  <span class="gradient-text">Pull request out.</span><br>
+  <span style="font-size:34px;font-weight:700;color:var(--text-dim)">You still merge.</span>
 </p>
 
-<p style="font-size:28px;line-height:1.35;color:var(--text-dim);max-width:900px;margin:0 auto">
-  Not a test script. Not a PR loop.<br>
-  Real stay in Zadar. Baby Goldfish at Diadora.
+<p style="font-size:24px;line-height:1.4;color:var(--text-dim);max-width:920px;margin:0 auto">
+  Then the same pattern outside the repo.<br>
+  Book swimming. Shape a bio. Gate the consequential yes.
 </p>
 
 </div>
 
 <!--
-PRESENTER NOTES: HOOK
-- Say the quote. Pause.
-- Keep kids' names light if you use them at all.
+PRESENTER NOTES: HOOK (part of 2–3 min open)
+- Open on the Zurich promise the room already loved.
+- Then widen: same gates for life work, not just CI.
+- Don't linger. Then → now next.
 -->
