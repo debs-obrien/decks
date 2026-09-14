@@ -15,8 +15,7 @@ class: devsum-slide
       Independent Developer Educator
     </p>
     <p style="font-size:22px;line-height:1.42;color:var(--text-dim);max-width:520px;margin:0">
-      I build agent workflows for real life and real work. And I tell the honest version of what ships.
-    </p>
+      I build agent workflows for real life and real work. </p>
     <p style="font-size:20px;margin-top:22px"><span class="accent bold mono">debbie.codes</span></p>
   </div>
 
