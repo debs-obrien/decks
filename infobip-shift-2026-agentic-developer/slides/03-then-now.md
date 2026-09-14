@@ -18,7 +18,7 @@ class: devsum-slide
   <div class="task-card" style="border-color:var(--accent)">
     <span class="task-id" style="color:var(--accent)">Shift 2026</span>
     <h3>Agentic developer</h3>
-    <p>Bots hunt bugs, book swimming, and draft artifacts. You still gate merge, money, and taste.</p>
+    <p>Bots hunt bugs, book swimming, and write drafts. I still approve the merge, the booking, and the words.</p>
   </div>
 </div>
 
