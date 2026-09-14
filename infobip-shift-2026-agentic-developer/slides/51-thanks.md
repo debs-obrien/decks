@@ -11,7 +11,7 @@ class: devsum-slide
 <div style="margin-top:14px">
 <p style="font-size:clamp(20px,2.2vw,30px);font-weight:700;margin-bottom:4px">Debbie O&rsquo;Brien</p>
 <p class="dim small" style="margin-bottom:14px">Independent Developer Educator &middot; debbie.codes</p>
-<p class="small dim" style="max-width:480px;line-height:1.55">Google Developer Expert &middot; Nuxt Ambassador &middot; former Microsoft MVP &middot; GitHub Star Alumni. International speaker. Irish, lives in Mallorca.</p>
+<p class="small dim" style="max-width:480px;line-height:1.55">Google Developer Expert &middot; Nuxt Ambassador &middot; former Microsoft MVP &middot; GitHub Star Alumni. International speaker.</p>
 </div>
 <div style="display:flex;gap:14px;flex-wrap:wrap;margin-top:18px">
 <a href="https://debbie.codes" target="_blank" rel="noreferrer" class="thank-link" style="text-decoration:none">debbie.codes</a>
@@ -23,7 +23,6 @@ class: devsum-slide
 <div style="text-align:center">
 <img src="../public/images/qr-infobip-deck-github.png" alt="QR code to the Infobip Shift deck on GitHub" style="width:280px;height:280px;border-radius:14px;background:#fff;padding:10px" />
 <p class="small" style="margin-top:10px"><span class="accent bold mono">github.com/debs-obrien/decks</span></p>
-<p class="small dim" style="margin-top:4px">Slides &middot; source &middot; image map</p>
 </div>
 </div>
 </div>
