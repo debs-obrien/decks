@@ -34,7 +34,7 @@ aspectRatio: "16/9"
 
 <h1 class="gradient-text" style="font-size:64px;margin:0 0 14px;letter-spacing:-1.5px">The Agentic Developer</h1>
 
-<p style="font-size:26px;color:var(--text-dim);margin:0 auto 18px;max-width:900px">
+<p style="font-size:26px;color:#c8c8e0;margin:0 auto 18px;max-width:900px">
   Bug report in. Pull request out. Same gates outside the repo.
 </p>
 </div>
