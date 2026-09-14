@@ -44,6 +44,6 @@ class: devsum-slide hero
 <!--
 PRESENTER NOTES: ULTRAREVIEW
 - Same PR, deeper pass. Focus loss, close-transition double controls, dead aria-expanded.
-- Agents write the PR. You still decide merge.
+- Draft PR is not the finish line. You still decide merge.
 - Bridge next: same pattern outside the repo.
 -->

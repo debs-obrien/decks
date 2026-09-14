@@ -5,7 +5,7 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Fix PR · with proof</div>
+<div class="shot-badge">Draft fix PR · with proof</div>
 <img src="../public/images/fix-pr-623.png" alt="GitHub pull request fixing single Close menu control" class="shot" />
 
 </div>
@@ -42,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: FIX PR IMAGE (~25s)
-- Point at Summary, Repro before any code change, and the proof.
-- Before closeCount 2, after 1, plus a regression test.
+PRESENTER NOTES: FIX PR IMAGE
+- Draft PR from site-bugfix. Point at repro-before-code and the proof.
+- Before closeCount 2, after 1, plus a regression test. You still merge.
 -->

@@ -27,6 +27,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: HUMAN MERGE
-- Don't hand over merge. The win is reviewable artifacts.
+- Agents prepare the draft PR. You still merge.
+- Check repro, before/after, diff, test. Trust the loop, not a black-box bot.
 - Next: second-pass review catches focus and a11y the first PR missed.
 -->

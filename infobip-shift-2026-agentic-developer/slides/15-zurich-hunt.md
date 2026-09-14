@@ -46,6 +46,6 @@ class: devsum-slide hero
 
 <!--
 PRESENTER NOTES: HUNT PR IMAGE
-- Point at the candidates table. Mobile duplicate Close is the talk demo.
-- Call out: no GitHub issues filed. Honesty gates held.
+- Point at the candidates table. Mobile duplicate Close is the demo.
+- Call out: no GitHub issues filed. Honesty gates held. Hand off to site-bugfix later.
 -->

@@ -5,7 +5,7 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Issue · elevated for the talk</div>
+<div class="shot-badge">Issue · I elevated it</div>
 <img src="../public/images/issue-622.png" alt="GitHub issue: Mobile menu exposes two Close menu buttons" class="shot" />
 
 </div>
@@ -42,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: ISSUE IMAGE (~20s)
-- Cursor bot authored it. Linked fix PR shows up in the sidebar.
-- Read the callout: gates would not auto-file. I elevated it.
+PRESENTER NOTES: ISSUE IMAGE
+- Hunt left a candidate. Gates held. I elevated the mobile duplicate Close.
+- Linked fix PR shows up in the sidebar once site-bugfix runs.
 -->

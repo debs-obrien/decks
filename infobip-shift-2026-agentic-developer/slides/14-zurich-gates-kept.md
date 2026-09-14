@@ -14,7 +14,7 @@ class: devsum-slide
 
 <p style="font-size:24px;color:var(--text-dim);max-width:920px;margin:0 auto 24px;line-height:1.4">
   Hunt wrote <span class="mono">qa/bug-candidates/mobile-duplicate-close-menu.md</span>
-  and stopped. I elevated it for the talk. The gates stayed honest.
+  and stopped. I elevated it to an issue. The gates stayed honest.
 </p>
 
 <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
@@ -28,6 +28,6 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: GATES
-- Teaching beat: silence can be success.
-- I elevated it manually so we can show the fix loop.
+- Teaching beat: silence can be success. Nothing auto-filed overnight.
+- I elevated the minor myself. Then site-bugfix took the issue.
 -->
