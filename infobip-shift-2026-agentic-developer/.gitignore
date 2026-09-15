@@ -2,6 +2,7 @@
 dist/
 node_modules/
 .playwright-cli/
+export/png/
 
 # Large research and CI artifact dumps used while building the deck.
 # Curated assets needed by the deck live in public/images/.

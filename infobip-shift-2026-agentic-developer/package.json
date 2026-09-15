@@ -7,7 +7,8 @@
     "dev": "slidev slides.md --open",
     "build": "slidev build slides.md",
     "export": "slidev export slides.md",
-    "export:pdf": "slidev export slides.md --format pdf"
+    "export:pdf": "slidev export slides.md --format pdf",
+    "export:pdf:hifi": "bash scripts/export-hi-fi-pdf.sh"
   },
   "dependencies": {
     "@slidev/cli": "^52.11.3",
