@@ -1,0 +1,9 @@
+BASE https://debs-obrien.github.io/playwright-movies-app
+getByRole link name=Superman exact → 0
+getByRole link name=/Superman/ → 1
+ariaSnapshot (first Superman card link):
+- link "poster of Superman Superman rating":
+  - /url: /playwright-movies-app/movie?id=1061474&page=1
+  - img "poster of Superman"
+  - heading "Superman" [level=2]
+  - text: ★ ★ ★ ★ ★ ★

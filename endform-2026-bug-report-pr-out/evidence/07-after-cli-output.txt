@@ -1,0 +1,13 @@
+LOCAL AFTER FIX — branch pr-93 / cursor/fix-movie-link-accessible-name-e1e9
+BASE http://127.0.0.1:3000/?category=Popular&page=1
+getByRole('link', { name: 'Superman', exact: true }) → 1
+aria-label / accessible name: Superman
+
+ariaSnapshot (Superman card link):
+- link "Superman":
+  - /url: /movie?id=1061474&page=1
+  - img "poster of Superman"
+  - heading "Superman" [level=2]
+  - text: ★ ★ ★ ★ ★ ★
+
+PASS: exact title locator finds exactly 1 link

@@ -1,0 +1,5 @@
+
+Running 1 test using 1 worker
+
+[1/1] [chromium] › tests/logged-out/movie-link-accessible-name.spec.ts:4:7 › Movie card accessible names › Popular movie links are named by title only
+  1 passed (1.8s)

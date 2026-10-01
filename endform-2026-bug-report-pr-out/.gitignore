@@ -1,0 +1,10 @@
+
+# Curated assets needed by the deck live in public/images/.
+dist/
+.DS_Store
+# Generated / local preview output
+# Large research and CI artifact dumps used while building the deck.
+# macOS
+node_modules/
+.playwright-cli/
+reference/
