@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Human gate · Draft + Checks · you still merge</div>
-<img src="../public/images/10-draft-checks-gate.png" alt="Draft pull request 93 Checks tab before human merge" class="shot" />
+<div class="shot-badge">Issue #92 · gates passed · filed</div>
+<img src="../public/images/03-issue-92.png" alt="GitHub issue 92: Movie card links have polluted accessible names" class="shot" />
 
 </div>
 
@@ -24,9 +24,9 @@ class: devsum-slide hero
   display: inline-flex;
   font-size: 16px;
   font-weight: 700;
-  color: #fda4af;
-  background: rgba(244, 63, 94, 0.12);
-  border: 1px solid rgba(244, 63, 94, 0.35);
+  color: #fcd34d;
+  background: rgba(245, 158, 11, 0.14);
+  border: 1px solid rgba(245, 158, 11, 0.35);
   padding: 6px 14px;
   border-radius: 999px;
 }
@@ -42,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: HUMAN MERGE (~20s)
-- Draft on purpose. Agent prepared the PR. Debbie merges (or doesn't).
-- Alt shot available: 10b-draft-wip-merge-box.png. One beat only.
+PRESENTER NOTES: ISSUE (~20s)
+- https://github.com/debs-obrien/playwright-movies-app/issues/92
+- Labels: accessibility, agent-hunt, bug. Linked draft fix #93.
 -->

@@ -16,17 +16,17 @@ class: devsum-slide
   <div class="task-card">
     <span class="task-id" style="color:var(--purple)">02</span>
     <h3>Gate on honesty</h3>
-    <p>Classify. Add confidence. Minor stays a candidate.</p>
+    <p>Classify. Add confidence. Let silence win.</p>
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--accent)">03</span>
-    <h3>Reproduce before code</h3>
-    <p>Honest before shots. No repro, no PR.</p>
+    <h3>No repro, no PR</h3>
+    <p>Prove the broken state before code.</p>
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--orange)">04</span>
-    <h3>Trust the loop</h3>
-    <p>You merge. Leave a regression test.</p>
+    <h3>You merge. Leave a test</h3>
+    <p>Trust the loop, not the agent.</p>
   </div>
 </div>
 
@@ -47,5 +47,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: TAKEAWAYS (~35s)
 - Read titles only.
-- Callback: this whole loop ran on debbie.codes.
+- Callback: Playwright Movies App loop, not magic.
 -->

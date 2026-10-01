@@ -26,13 +26,13 @@ class: devsum-slide
     <a href="https://github.com/debs-obrien" target="_blank" rel="noreferrer" class="thank-link" style="text-decoration:none">github / debs-obrien</a>
   </div>
 
-  <p class="small dim" style="margin-top:14px"><span class="accent bold mono">github.com/debs-obrien/decks</span> · ZurichJS deck source</p>
+  <p class="small dim" style="margin-top:14px"><span class="accent bold mono">github.com/debs-obrien/decks</span> · Endform · online</p>
 </div>
 
 </div>
 
 <!--
 PRESENTER NOTES: THANKS (~20s + Q&A)
-- Don't rush "any questions?". Let the line sit.
-- Soft links only: site, blog, github. No issue-number wall.
+- Soft links only. No issue/PR number wall.
+- Endform online mini. Working title still TBD with Debbie.
 -->

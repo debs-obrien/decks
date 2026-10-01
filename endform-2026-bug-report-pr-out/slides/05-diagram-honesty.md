@@ -84,5 +84,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: HONESTY (~50s)
 - Walk buckets fast. Auto-file needs bug + high + major/blocker.
-- Tonight's demo is high confidence, severity minor. So candidate only.
+- Tonight's demo hits that bar. Candidate first, then issue #92.
 -->

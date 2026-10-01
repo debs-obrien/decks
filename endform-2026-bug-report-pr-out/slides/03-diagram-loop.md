@@ -97,5 +97,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: DIAGRAM LOOP (~50s)
 - Walk the six boxes once. Finger on Reproduce. That's the hinge.
-- Tonight we watch every step with a real screenshot.
+- Movies demo walks every step. Some QA screenshots still pending.
 -->

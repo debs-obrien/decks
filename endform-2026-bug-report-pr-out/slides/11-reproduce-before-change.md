@@ -3,91 +3,50 @@ layout: default
 class: devsum-slide
 ---
 
-<div class="slide-inner center">
+<div class="slide-inner">
 
-<span class="badge badge-red" style="font-size:16px;padding:6px 16px;margin-bottom:20px">the rule I&rsquo;d fight for</span>
+<span class="badge badge-red" style="font-size:16px;padding:6px 16px;margin-bottom:14px">reproduce before code</span>
 
-<p style="font-size:46px;color:var(--text);font-weight:800;margin:0 auto 18px;line-height:1.12;max-width:1080px">
-  Reproduce the bug<br>
-  <span class="accent">before</span> you change any code.
-</p>
+<h2 style="font-size:34px;margin:0 0 8px">Prove the broken state first</h2>
+<p class="lede" style="margin:0 0 16px">Agent-readable proof. CLI + aria. Then you touch code.</p>
 
-<p style="font-size:24px;line-height:1.45;color:var(--text-dim);max-width:920px;margin:0 auto 22px">
-  site-bugfix confirmed <span class="mono">closeCount: 2</span> on production first.
-  Only then did it touch <span class="mono">TheTopBar.vue</span>.
-</p>
-
-<div class="repro-row">
-  <div class="repro-step orange">
-    <div class="icon">🔁</div>
-    <div class="label">Repro</div>
-    <div class="sub">real broken state</div>
-  </div>
-  <div class="repro-arrow">→</div>
-  <div class="repro-step blue">
-    <div class="icon">📸</div>
-    <div class="label">Before shot</div>
-    <div class="sub">honest evidence</div>
-  </div>
-  <div class="repro-arrow">→</div>
-  <div class="repro-step green">
-    <div class="icon">🔧</div>
-    <div class="label">Code change</div>
-    <div class="sub">never first</div>
-  </div>
+<div class="cli-box mono">
+<pre>BASE https://debs-obrien.github.io/playwright-movies-app
+getByRole link name=Superman exact → 0
+getByRole link name=/Superman/ → 1
+ariaSnapshot (first Superman card link):
+- link "poster of Superman Superman rating":
+  - /url: /playwright-movies-app/movie?id=1061474&page=1
+  - img "poster of Superman"
+  - heading "Superman" [level=2]</pre>
 </div>
 
 </div>
 
 <style>
-.repro-row {
-  display: flex;
-  align-items: stretch;
-  justify-content: center;
-  gap: 12px;
-  margin-top: 8px;
-  max-width: 980px;
-  margin-left: auto;
-  margin-right: auto;
-}
-.repro-step {
-  flex: 1;
-  min-width: 0;
-  overflow: hidden;
-  background: var(--surface);
-  border: 2px solid var(--code-border);
+.cli-box {
+  width: 100%;
+  max-width: 1040px;
+  margin: 0 auto;
+  background: #070b14;
+  border: 1px solid var(--code-border);
   border-radius: 14px;
-  padding: 16px 12px;
-  text-align: center;
+  padding: 18px 22px;
+  box-shadow: 0 18px 50px rgba(0,0,0,.4);
+  overflow: hidden;
 }
-.repro-step .icon { font-size: 32px; line-height: 1; margin-bottom: 8px; }
-.repro-step .label {
-  font-size: 22px;
-  font-weight: 850;
-  line-height: 1.1;
+.cli-box pre {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.45;
+  color: #e2e8f0;
+  white-space: pre-wrap;
   overflow-wrap: anywhere;
-}
-.repro-step .sub {
-  margin-top: 6px;
-  font-size: 15px;
-  color: var(--text-dim);
-  overflow-wrap: anywhere;
-}
-.repro-step.orange { border-color: var(--orange); }
-.repro-step.blue { border-color: var(--blue); }
-.repro-step.green { border-color: var(--accent); }
-.repro-arrow {
-  display: flex;
-  align-items: center;
-  color: var(--accent);
-  font-size: 28px;
-  font-weight: 900;
-  flex: 0 0 auto;
 }
 </style>
 
 <!--
-PRESENTER NOTES: REPRODUCE RULE (~35s)
-- Slow down. This is the hinge of the talk.
-- Agents will invent a tidy "before" from a fixed branch if you let them.
+PRESENTER NOTES: REPRODUCE (~40s)
+- Hinge of the talk. exact → 0. Regex finds one. Name is polluted.
+- Optional light upgrade only: agent-readable proof (aria / CLI) helps the fix skill verify the broken state before code. Not a Trace Viewer tour.
 -->

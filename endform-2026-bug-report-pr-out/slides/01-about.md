@@ -81,6 +81,6 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: ABOUT (~20s)
-- Keep it short. Name, role, why honesty matters.
-- Then: this is a real production story on debbie.codes.
+- Independent Developer Educator. Keep it short.
+- Tonight's loop is on the Playwright Movies App, not debbie.codes.
 -->

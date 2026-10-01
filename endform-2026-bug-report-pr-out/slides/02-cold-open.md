@@ -5,22 +5,22 @@ class: devsum-slide
 
 <div class="slide-inner center">
 
-<p style="font-size:24px;color:var(--text-dim);margin:0 0 20px">One real loop on <span class="mono accent">debbie.codes</span>. While I slept.</p>
+<p style="font-size:24px;color:var(--text-dim);margin:0 0 20px">One real loop on the <span class="mono accent">Playwright Movies App</span>.</p>
 
 <div style="display:flex;gap:14px;justify-content:center;align-items:stretch;flex-wrap:wrap;max-width:1120px;margin:0 auto">
 
   <div class="task-card" style="flex:1;text-align:left;border-left:4px solid var(--blue)">
     <span class="task-id" style="color:var(--blue)">Hunt</span>
-    <h3 style="font-size:24px">Found candidates</h3>
-    <p style="font-size:18px">Gates held. Nothing auto-filed.</p>
+    <h3 style="font-size:24px">Found a real a11y bug</h3>
+    <p style="font-size:18px">Movie cards announce wrong names.</p>
   </div>
 
   <div class="diagram-arrow" style="font-size:28px">→</div>
 
   <div class="task-card" style="flex:1;text-align:left;border-left:4px solid var(--purple)">
     <span class="task-id" style="color:var(--purple)">Issue</span>
-    <h3 style="font-size:24px">Two Close menus</h3>
-    <p style="font-size:18px">I elevated a minor bug for the talk.</p>
+    <h3 style="font-size:24px">Gates said file it</h3>
+    <p style="font-size:18px">bug + high + major.</p>
   </div>
 
   <div class="diagram-arrow" style="font-size:28px">→</div>
@@ -28,7 +28,7 @@ class: devsum-slide
   <div class="task-card" style="flex:1;text-align:left;border-left:4px solid var(--accent)">
     <span class="task-id" style="color:var(--accent)">Fix</span>
     <h3 style="font-size:24px">PR with proof</h3>
-    <p style="font-size:18px">Repro, patch, test, before and after.</p>
+    <p style="font-size:18px">Repro, patch, test. You merge.</p>
   </div>
 
 </div>
@@ -42,7 +42,7 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: COLD OPEN (~45s)
-- Promise the arc: hunt, elevated issue, fix PR. All on production.
-- Stress: minor did NOT auto-file. I elevated it. Honesty first.
-- Stay on debbie.codes. No Agent Gym / swim / Infobip.
+- Live: debs-obrien.github.io/playwright-movies-app
+- Primary story: movie-link-accessible-name. Not seed #90/#91.
+- Debbie one-liner: Movie cards announce themselves as "poster of Superman Superman rating" (sometimes with CSS soup) instead of just the title, so getByRole link exact "Superman" finds nothing.
 -->

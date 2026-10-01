@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Human gate · Draft + Checks · you still merge</div>
-<img src="../public/images/10-draft-checks-gate.png" alt="Draft pull request 93 Checks tab before human merge" class="shot" />
+<div class="shot-badge">Fix PR #93 · draft · linked #92</div>
+<img src="../public/images/06-pr-93-card.png" alt="Draft GitHub pull request 93 fixing movie card accessible names" class="shot" />
 
 </div>
 
@@ -24,9 +24,9 @@ class: devsum-slide hero
   display: inline-flex;
   font-size: 16px;
   font-weight: 700;
-  color: #fda4af;
-  background: rgba(244, 63, 94, 0.12);
-  border: 1px solid rgba(244, 63, 94, 0.35);
+  color: #86efac;
+  background: rgba(34, 197, 94, 0.12);
+  border: 1px solid rgba(34, 197, 94, 0.35);
   padding: 6px 14px;
   border-radius: 999px;
 }
@@ -42,7 +42,7 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: HUMAN MERGE (~20s)
-- Draft on purpose. Agent prepared the PR. Debbie merges (or doesn't).
-- Alt shot available: 10b-draft-wip-merge-box.png. One beat only.
+PRESENTER NOTES: FIX PR (~25s)
+- Draft on purpose. Agent stops at human merge.
+- Summary: exact title locators, repro before code, regression test.
 -->

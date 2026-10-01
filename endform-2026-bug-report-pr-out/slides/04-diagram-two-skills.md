@@ -41,6 +41,6 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: TWO SKILLS (~45s)
+- Both live in playwright-movies-app via PR #89.
 - Hunt is read-only. Fix writes with proof.
-- If hunting invents fixes, you get noise.
 -->

@@ -5,8 +5,8 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Human gate · Draft + Checks · you still merge</div>
-<img src="../public/images/10-draft-checks-gate.png" alt="Draft pull request 93 Checks tab before human merge" class="shot" />
+<div class="shot-badge after-badge">AFTER · local PR #93 preview · exact → 1</div>
+<img src="../public/images/07-after-title-only-name.png" alt="Local PR 93 preview showing Superman link accessible name is title only" class="shot" />
 
 </div>
 
@@ -24,11 +24,13 @@ class: devsum-slide hero
   display: inline-flex;
   font-size: 16px;
   font-weight: 700;
-  color: #fda4af;
-  background: rgba(244, 63, 94, 0.12);
-  border: 1px solid rgba(244, 63, 94, 0.35);
   padding: 6px 14px;
   border-radius: 999px;
+}
+.after-badge {
+  color: #bbf7d0;
+  background: rgba(34, 197, 94, 0.14);
+  border: 1px solid rgba(34, 197, 94, 0.4);
 }
 .shot {
   width: 100%;
@@ -42,7 +44,8 @@ class: devsum-slide hero
 </style>
 
 <!--
-PRESENTER NOTES: HUMAN MERGE (~20s)
-- Draft on purpose. Agent prepared the PR. Debbie merges (or doesn't).
-- Alt shot available: 10b-draft-wip-merge-box.png. One beat only.
+PRESENTER NOTES: AFTER (~25s)
+- LOCAL / PR #93 worktree proof. Not live GH Pages.
+- Live production still shows the before until Debbie merges #93.
+- CLI: getByRole link exact Superman → 1. Accessible name: Superman.
 -->

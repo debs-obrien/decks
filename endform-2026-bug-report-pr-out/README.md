@@ -1,14 +1,15 @@
 # Bug Report In, Pull Request Out: Agentic CI with Playwright
 
-Slidev deck for ZurichJS Conf 2026 · Fri 11 Sep · Auditorium.
+Slidev deck for **Endform** (online mini). Working title still TBD with Debbie.
 
-> A production hunt finds a real a11y bug. Honesty gates keep it a candidate.
-> Elevate, issue, reproduce, fix, verify, PR. Human merge still wins.
+> Agents can hunt bugs and open PRs overnight, but only if you force honesty. I'll walk a real loop: a Playwright-backed hunt skill finds a production bug, then a fix skill reproduces the broken state before touching code, ships a PR with a regression test, and stops at human merge. Playwright is the eyes and the contract that keeps the agent honest.
+
+Demo target: [Playwright Movies App](https://debs-obrien.github.io/playwright-movies-app/) (not debbie.codes).
 
 ## Run locally
 
 ```bash
-cd zurichjs-2026-bug-report-pr-out
+cd endform-2026-bug-report-pr-out
 pnpm install
 pnpm dev
 ```
@@ -19,16 +20,6 @@ pnpm dev
 pnpm build
 ```
 
-## Backup
-
-Offline PDF: `export/zurichjs-2026-bug-report-pr-out.pdf` (also `exports/zurichjs-2026-bug-report-pr-out.pdf` at repo root).
-
-## Capture talk images (optional)
-
-```bash
-pnpm capture:images
-```
-
 ## Speaker
 
 Debbie O'Brien · Independent Developer Educator
@@ -36,10 +27,15 @@ Debbie O'Brien · Independent Developer Educator
 - https://debbie.codes
 - https://github.com/debs-obrien
 
-## Demo receipts
+## Demo receipts (movies)
 
-- Hunt PR: https://github.com/debs-obrien/debbie.codes/pull/621
-- Issue: https://github.com/debs-obrien/debbie.codes/issues/622
-- Fix PR: https://github.com/debs-obrien/debbie.codes/pull/623
-- Skills: https://github.com/debs-obrien/debbie.codes/pull/576
+- Skills PR: https://github.com/debs-obrien/playwright-movies-app/pull/89
+- Issue: https://github.com/debs-obrien/playwright-movies-app/issues/92
+- Fix PR (draft): https://github.com/debs-obrien/playwright-movies-app/pull/93
+- Regression: `tests/logged-out/movie-link-accessible-name.spec.ts`
+- Diff focus: `movies-app/components/MovieList/MovieListItem/index.js`
 - Blog: https://debbie.codes/blog/an-agent-that-hunts-bugs-while-i-sleep
+
+## Image map
+
+See `IMAGE-MAP.md`. All 10 stage receipt slots are wired. After shot is **local PR #93** proof (live GH Pages still before until merge).
