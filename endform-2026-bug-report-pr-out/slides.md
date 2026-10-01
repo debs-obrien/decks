@@ -125,5 +125,9 @@ src: ./slides/17-takeaways.md
 ---
 
 ---
+src: ./slides/17b-image-alt-page0.md
+---
+
+---
 src: ./slides/18-thanks.md
 ---

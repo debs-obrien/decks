@@ -22,6 +22,7 @@ Primary story: `movie-link-accessible-name` on https://debs-obrien.github.io/pla
 | 15 | Regression test | `09-regression-spec.png` | **Wired** · alt `09-regression-test.png`; green log `evidence/09-test-green.log` |
 | 16 | Human merge gate | `10-draft-checks-gate.png` | **Wired** · alt `10b-draft-wip-merge-box.png` |
 | 17 | Takeaways | (text) | Ready |
+| 17b | Also in the hunt · Alt find `?page=0` | `04-ui-page0-prev-control-forced-visible.png` | **Wired** · secondary only; not the spine. Blank hang shot skipped (too thin). |
 | 18 | Thanks | (text) | Ready |
 
 ## Evidence bag (repo)
@@ -33,6 +34,7 @@ Primary story: `movie-link-accessible-name` on https://debs-obrien.github.io/pla
 - `evidence/09-test-green.log`
 - `evidence/LOOP-URLS.md`
 - `evidence/STAGE-MAP.md`
+- `evidence/page-0-blank-hang.md` (deferred alt candidate)
 
 ## Notes
 
