@@ -1,0 +1,135 @@
+[
+  {
+    "n": 1,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-01.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Endform · online\n🐞\n→\n📝\n→\n🔀\nBug Report In,\nPull Request Out\n\nAgentic CI with Playwright\n\nDebbie O’Brien · debbie.codes",
+    "problems": []
+  },
+  {
+    "n": 2,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-02.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Hi, I'm\nDebbie O’Brien\n\nIndependent Developer Educator\n\n🧪\nI live in testing and agents with Playwright\n🌙\nI build loops that hunt bugs while I sleep\n🎤\nI show the honest version. Gates, not magic.\nde",
+    "problems": []
+  },
+  {
+    "n": 3,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-03.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "One real loop on the Playwright Movies App.\n\nHUNT\nFound a real a11y bug\n\nMovie cards announce wrong names.\n\n→\nISSUE\nGates said file it\n\nbug + high + major.\n\n→\nFIX\nPR with proof\n\nRepro, patch, test. Yo",
+    "problems": []
+  },
+  {
+    "n": 4,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-04.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "The loop\n\nSame shape every time\n\nEvidence in. Reviewable PR out.\n\n01\nDiscover\ncrawl + a11y\n02\nIssue\nonly if gates pass\n03\nReproduce\nbefore any code\n04\nFix\nsmallest change\n05\nVerify\nbefore / after\n06\nP",
+    "problems": []
+  },
+  {
+    "n": 5,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-05.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Two skills\n\nHunt and fix are different jobs\n\nDon’t ask one prompt to do both.\n\nSITE-BUG-HUNT\nFind and classify\n🧭\nCrawl the important journeys\n📸\nCapture evidence\n🗂️\nWrite candidate files\n🚪\nFile iss",
+    "problems": []
+  },
+  {
+    "n": 6,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-06.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Say what you found. Say how sure you are.\n\nFinding bugs is easy. Being honest about uncertainty is the hard part.\n\n🐞 Bug\n\nActually broken\n\n😕 Bad UX\n\nWorks, but shouldn’t\n\n🧪 Env / data\n\nSetup, not p",
+    "problems": []
+  },
+  {
+    "n": 7,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-07.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "gates passed\n\nMovie link name. confidence: high.\nSeverity: major → eligible to file.\n\nHunt wrote qa-bug-candidates/movie-link-accessible-name.md and stopped at the candidate. No issue spam from the hu",
+    "problems": []
+  },
+  {
+    "n": 8,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-08.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Hunt · skills PR #89 · production target",
+    "problems": []
+  },
+  {
+    "n": 9,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-09.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Candidate · movie-link-accessible-name.md",
+    "problems": []
+  },
+  {
+    "n": 10,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-10.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Issue #92 · gates passed · filed",
+    "problems": []
+  },
+  {
+    "n": 11,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-11.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "BEFORE · aria name pollution · Superman",
+    "problems": []
+  },
+  {
+    "n": 12,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-12.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "reproduce before code\n\nProve the broken state first\n\nAgent-readable proof. CLI + aria. Then you touch code.\n\nBASE https://debs-obrien.github.io/playwright-movies-app\ngetByRole link name=Superman exact",
+    "problems": []
+  },
+  {
+    "n": 13,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-13.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Fix PR #93 · draft · linked #92",
+    "problems": []
+  },
+  {
+    "n": 14,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-14.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "AFTER · local PR #93 preview · exact → 1",
+    "problems": []
+  },
+  {
+    "n": 15,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-15.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Diff · MovieListItem · aria-label={movie.title}",
+    "problems": []
+  },
+  {
+    "n": 16,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-16.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Regression · movie-link-accessible-name.spec.ts",
+    "problems": []
+  },
+  {
+    "n": 17,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-17.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Human gate · Draft + Checks · you still merge",
+    "problems": []
+  },
+  {
+    "n": 18,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-18.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Four things to steal\n01\nSplit hunt from fix\n\nTwo skills. Two jobs. Compose them.\n\n02\nGate on honesty\n\nClassify. Add confidence. Let silence win.\n\n03\nNo repro, no PR\n\nProve the broken state before code",
+    "problems": []
+  },
+  {
+    "n": 19,
+    "path": "/workspace/endform-2026-bug-report-pr-out/review/slide-19.png",
+    "title": "Bug Report In, Pull Request Out: Agentic CI with Playwright - Slidev",
+    "textSample": "Thank you.\n\nBug report in. Pull request out.\n\nReproduce before you fix. Let honesty gates say no.\n\nDebbie O’Brien\n\nIndependent Developer Educator · debbie.codes\n\ndebbie.codes\nblog post\ngithub / debs-o",
+    "problems": []
+  }
+]
