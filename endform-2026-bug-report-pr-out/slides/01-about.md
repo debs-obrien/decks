@@ -80,7 +80,7 @@ class: devsum-slide
 </style>
 
 <!--
-PRESENTER NOTES: ABOUT (~20s)
+PRESENTER NOTES: ABOUT (~15s)
 - Independent Developer Educator. Keep it short.
 - Tonight's loop is on the Playwright Movies App, not debbie.codes.
 -->

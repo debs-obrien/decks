@@ -6,7 +6,9 @@ class: devsum-slide hero
 <div class="slide-inner image-slide">
 
 <div class="shot-badge">Hunt · skills PR #89 · production target</div>
-<img src="../public/images/hunt-desktop-home.png" alt="Playwright Movies App popular movies home page" class="shot" />
+<div class="shot-zoom zoom-hunt">
+  <img src="../public/images/hunt-desktop-home.png" alt="Playwright Movies App popular movies home page" />
+</div>
 
 </div>
 
@@ -33,20 +35,32 @@ class: devsum-slide hero
   padding: 6px 14px;
   border-radius: 999px;
 }
-.shot {
+.shot-zoom {
+  position: relative;
   width: 100%;
-  max-width: 1080px;
-  max-height: 540px;
-  object-fit: contain;
+  max-width: 1120px;
+  height: 520px;
+  overflow: hidden;
   border-radius: 12px;
   border: 1px solid var(--code-border);
   box-shadow: 0 24px 70px rgba(0,0,0,.45);
+  background: #0b1020;
+}
+.shot-zoom img {
+  position: absolute;
+  max-width: none;
+  max-height: none;
+}
+.zoom-hunt img {
+  width: 118%;
+  left: -6%;
+  top: -4%;
 }
 </style>
 
 <!--
-PRESENTER NOTES: HUNT HOME (~25s)
+PRESENTER NOTES: HUNT HOME (~20s)
 - Live: https://debs-obrien.github.io/playwright-movies-app/
-- Skills landed via PR #89: site-bug-hunt + site-bugfix
-- Interactive production hunt. Candidates only. No issue spam.
+- Skills from PR #89: site-bug-hunt + site-bugfix
+- Interactive production hunt. Candidates only.
 -->

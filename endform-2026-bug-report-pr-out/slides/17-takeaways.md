@@ -16,7 +16,7 @@ class: devsum-slide
   <div class="task-card">
     <span class="task-id" style="color:var(--purple)">02</span>
     <h3>Gate on honesty</h3>
-    <p>Classify. Add confidence. Let silence win.</p>
+    <p>Reproduce. Ship the test. Stop at merge.</p>
   </div>
   <div class="task-card">
     <span class="task-id" style="color:var(--accent)">03</span>
@@ -45,7 +45,8 @@ class: devsum-slide
 </style>
 
 <!--
-PRESENTER NOTES: TAKEAWAYS (~35s)
+PRESENTER NOTES: TAKEAWAYS (~30s)
 - Read titles only.
 - Callback: Playwright Movies App loop, not magic.
+- Optional next: page=0 alt find if time remains. Else skip to thanks.
 -->

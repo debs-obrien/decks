@@ -1,4 +1,4 @@
-LOCAL AFTER FIX — branch pr-93 / cursor/fix-movie-link-accessible-name-e1e9
+LOCAL AFTER FIX  -  branch pr-93 / cursor/fix-movie-link-accessible-name-e1e9
 BASE http://127.0.0.1:3000/?category=Popular&page=1
 getByRole('link', { name: 'Superman', exact: true }) → 1
 aria-label / accessible name: Superman

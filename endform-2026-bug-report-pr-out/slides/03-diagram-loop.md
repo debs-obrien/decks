@@ -95,7 +95,7 @@ class: devsum-slide
 </style>
 
 <!--
-PRESENTER NOTES: DIAGRAM LOOP (~50s)
-- Walk the six boxes once. Finger on Reproduce. That's the hinge.
-- Movies demo walks every step. Some QA screenshots still pending.
+PRESENTER NOTES: DIAGRAM LOOP (~40s)
+- Walk the six boxes once. Finger on Reproduce. That is the hinge.
+- Movies demo walks every step.
 -->

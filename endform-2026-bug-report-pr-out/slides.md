@@ -19,7 +19,7 @@ mermaid:
     fontSize: 24px
 info: |
   ## Bug Report In, Pull Request Out
-  Agentic CI with Playwright. Endform online mini talk.
+  Agentic CI with Playwright. Endform online mini talk. v2
   Movies app hunt, honesty gates, issue, reproduce, fix, PR.
 class: devsum-slide
 lineNumbers: false
@@ -51,9 +51,13 @@ aspectRatio: "16/9"
 
 <!--
 PRESENTER NOTES: COVER (~10s)
-- Endform mini online. Working title; Debbie still picking.
-- Abstract (notes only): Agents can hunt bugs and open PRs overnight, but only if you force honesty. I'll walk a real loop: a Playwright-backed hunt skill finds a production bug, then a fix skill reproduces the broken state before touching code, ships a PR with a regression test, and stops at human merge. Playwright is the eyes and the contract that keeps the agent honest.
-- Gesture the chain: bug, report, PR.
+- Endform mini online. Title stays: Bug Report In, Pull Request Out: Agentic CI with Playwright.
+DEMO PATH (run sheet):
+- Live before: debs-obrien.github.io/playwright-movies-app (still broken until movies #93 merges)
+- Local after: PR #93. Regression passes on #93, fails on main.
+- Tabs: issue #92, PR #93 diff, test file, live app.
+- Fallbacks: deck before/after shots if live down; regression + diff if local fails; PDF if wifi drops.
+- Optional skip: page=0 alt slide if time is tight.
 -->
 
 ---
@@ -65,6 +69,10 @@ src: ./slides/02-cold-open.md
 ---
 
 ---
+src: ./slides/02b-name-compare.md
+---
+
+---
 src: ./slides/03-diagram-loop.md
 ---
 
@@ -73,7 +81,15 @@ src: ./slides/04-diagram-two-skills.md
 ---
 
 ---
-src: ./slides/05-diagram-honesty.md
+src: ./slides/05-honesty-reproduce.md
+---
+
+---
+src: ./slides/05b-honesty-regression.md
+---
+
+---
+src: ./slides/05c-honesty-stop.md
 ---
 
 ---

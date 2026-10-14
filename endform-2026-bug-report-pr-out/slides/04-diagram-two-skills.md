@@ -40,7 +40,7 @@ class: devsum-slide
 </div>
 
 <!--
-PRESENTER NOTES: TWO SKILLS (~45s)
+PRESENTER NOTES: TWO SKILLS (~40s)
 - Both live in playwright-movies-app via PR #89.
 - Hunt is read-only. Fix writes with proof.
 -->

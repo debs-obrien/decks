@@ -5,8 +5,10 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Also in the hunt · Alt find · ?page=0</div>
-<img src="../public/images/04-ui-page0-prev-control-forced-visible.png" alt="Pagination control labeled Page 0 forced visible on Popular movies page" class="shot" />
+<div class="shot-badge">Also in the hunt · skip if tight · ?page=0</div>
+<div class="shot-zoom zoom-page0">
+  <img src="../public/images/04-ui-page0-prev-control-forced-visible.png" alt="Pagination control labeled Page 0 forced visible" />
+</div>
 
 </div>
 
@@ -30,20 +32,32 @@ class: devsum-slide hero
   padding: 6px 14px;
   border-radius: 999px;
 }
-.shot {
+.shot-zoom {
+  position: relative;
   width: 100%;
-  max-width: 1080px;
-  max-height: 540px;
-  object-fit: contain;
+  max-width: 1120px;
+  height: 520px;
+  overflow: hidden;
   border-radius: 12px;
   border: 1px solid var(--code-border);
   box-shadow: 0 24px 70px rgba(0,0,0,.45);
+  background: #0b1020;
+}
+.shot-zoom img {
+  position: absolute;
+  max-width: none;
+  max-height: none;
+}
+.zoom-page0 img {
+  width: 130%;
+  left: -10%;
+  top: -8%;
 }
 </style>
 
 <!--
-PRESENTER NOTES: ALT FIND page=0 (~15s, skip if running long)
+PRESENTER NOTES: ALT FIND page=0 (~15s, skippable)
 - Secondary only. Spine stays Superman movie-link-accessible-name.
-- /?category=Popular&page=0 → stuck title "Please wait a moment. Movies", empty main.
-- Hidden prev on page 1 is labeled Page 0 (forced visible here). Deferred vs primary a11y story.
+- /?category=Popular&page=0 hangs on "Please wait a moment. Movies".
+- Skip if time is tight (run sheet).
 -->

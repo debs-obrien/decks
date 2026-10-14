@@ -1,10 +1,12 @@
 # Bug Report In, Pull Request Out: Agentic CI with Playwright
 
-Slidev deck for **Endform** (online mini). Working title still TBD with Debbie.
+Slidev deck for **Endform** (online mini). Version **v2**. Title locked to the Zurich wording (Debbie).
 
 > Agents can hunt bugs and open PRs overnight, but only if you force honesty. I'll walk a real loop: a Playwright-backed hunt skill finds a production bug, then a fix skill reproduces the broken state before touching code, ships a PR with a regression test, and stops at human merge. Playwright is the eyes and the contract that keeps the agent honest.
 
 Demo target: [Playwright Movies App](https://debs-obrien.github.io/playwright-movies-app/) (not debbie.codes).
+
+See `CHANGELOG.md` for v2 changes.
 
 ## Run locally
 

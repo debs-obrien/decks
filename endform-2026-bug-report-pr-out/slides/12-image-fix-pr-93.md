@@ -6,7 +6,9 @@ class: devsum-slide hero
 <div class="slide-inner image-slide">
 
 <div class="shot-badge">Fix PR #93 · draft · linked #92</div>
-<img src="../public/images/06-pr-93-card.png" alt="Draft GitHub pull request 93 fixing movie card accessible names" class="shot" />
+<div class="shot-zoom zoom-pr">
+  <img src="../public/images/06-pr-93-card.png" alt="Draft GitHub pull request 93 fixing movie card accessible names" />
+</div>
 
 </div>
 
@@ -30,19 +32,31 @@ class: devsum-slide hero
   padding: 6px 14px;
   border-radius: 999px;
 }
-.shot {
+.shot-zoom {
+  position: relative;
   width: 100%;
-  max-width: 1080px;
-  max-height: 540px;
-  object-fit: contain;
+  max-width: 1120px;
+  height: 520px;
+  overflow: hidden;
   border-radius: 12px;
   border: 1px solid var(--code-border);
   box-shadow: 0 24px 70px rgba(0,0,0,.45);
+  background: #0b1020;
+}
+.shot-zoom img {
+  position: absolute;
+  max-width: none;
+  max-height: none;
+}
+.zoom-pr img {
+  width: 125%;
+  left: -6%;
+  top: -2%;
 }
 </style>
 
 <!--
-PRESENTER NOTES: FIX PR (~25s)
+PRESENTER NOTES: FIX PR (~20s)
 - Draft on purpose. Agent stops at human merge.
 - Summary: exact title locators, repro before code, regression test.
 -->

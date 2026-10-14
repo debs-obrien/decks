@@ -5,20 +5,19 @@ class: devsum-slide
 
 <div class="slide-inner">
 
-<span class="badge badge-red" style="font-size:16px;padding:6px 16px;margin-bottom:14px">reproduce before code</span>
+<span class="badge badge-red" style="font-size:15px;padding:6px 14px;margin-bottom:12px">honesty 1 · proof</span>
 
-<h2 style="font-size:34px;margin:0 0 8px">Prove the broken state first</h2>
-<p class="lede" style="margin:0 0 16px">Agent-readable proof. CLI + aria. Then you touch code.</p>
+<h2 style="font-size:32px;margin:0 0 6px">Failing locator on live</h2>
+<p class="lede" style="margin:0 0 14px">Prove the broken state. Then touch code.</p>
 
 <div class="cli-box mono">
 <pre>BASE https://debs-obrien.github.io/playwright-movies-app
-getByRole link name=Superman exact → 0
+getByRole link name=Superman exact → <span class="cli-fail">0</span>
 getByRole link name=/Superman/ → 1
-ariaSnapshot (first Superman card link):
-- link "poster of Superman Superman rating":
-  - /url: /playwright-movies-app/movie?id=1061474&page=1
+ariaSnapshot:
+- link <span class="cli-bad">"poster of Superman Superman rating"</span>:
   - img "poster of Superman"
-  - heading "Superman" [level=2]</pre>
+  - heading "Superman"</pre>
 </div>
 
 </div>
@@ -37,16 +36,19 @@ ariaSnapshot (first Superman card link):
 }
 .cli-box pre {
   margin: 0;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.45;
   color: #e2e8f0;
   white-space: pre-wrap;
   overflow-wrap: anywhere;
 }
+.cli-fail { color: #f87171; font-weight: 900; }
+.cli-bad { color: #fecaca; font-weight: 750; }
 </style>
 
 <!--
-PRESENTER NOTES: REPRODUCE (~40s)
-- Hinge of the talk. exact → 0. Regex finds one. Name is polluted.
-- Optional light upgrade only: agent-readable proof (aria / CLI) helps the fix skill verify the broken state before code. Not a Trace Viewer tour.
+PRESENTER NOTES: REPRODUCE (~35s)
+- Hinge. exact → 0. Regex finds one. Name is polluted.
+- This is the honesty gate in practice.
+DEMO fallback: if live is down, this CLI + the before shot stand in.
 -->

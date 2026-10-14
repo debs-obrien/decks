@@ -33,6 +33,6 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: THANKS (~20s + Q&A)
-- Soft links only. No issue/PR number wall.
-- Endform online mini. Working title still TBD with Debbie.
+- Soft links only. No issue or PR number wall.
+- Endform online mini.
 -->
