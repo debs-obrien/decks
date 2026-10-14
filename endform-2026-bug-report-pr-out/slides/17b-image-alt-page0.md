@@ -49,9 +49,9 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-page0 img {
-  width: 130%;
-  left: -10%;
-  top: -8%;
+  width: 160%;
+  left: 0%;
+  top: -55%;
 }
 </style>
 

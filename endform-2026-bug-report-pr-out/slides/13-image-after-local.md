@@ -63,17 +63,18 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-after-full img {
-  width: 145%;
-  left: -28%;
-  top: -6%;
+  width: 155%;
+  left: -42%;
+  top: -8%;
 }
 .shot-callout {
   position: absolute;
   left: 18px;
   bottom: 18px;
+  max-width: 42%;
   padding: 12px 16px;
   border-radius: 10px;
-  background: rgba(8, 10, 18, 0.92);
+  background: rgba(8, 10, 18, 0.94);
   border: 1px solid rgba(34, 197, 94, 0.55);
   box-shadow: 0 12px 30px rgba(0,0,0,.45);
 }

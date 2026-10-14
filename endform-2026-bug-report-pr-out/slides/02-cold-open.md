@@ -7,6 +7,11 @@ class: devsum-slide
 
 <p class="cold-kicker">The locator that should work</p>
 
+<div class="locator-box mono">
+  <span class="locator-line">getByRole(&apos;link&apos;, &#123; name: &apos;Superman&apos; &#125;)</span>
+  <span class="locator-fail">→ <span class="fail-num">0</span></span>
+</div>
+
 <div class="cold-grid">
   <div class="cold-shot-wrap">
     <div class="shot-zoom zoom-before-card">
@@ -15,21 +20,14 @@ class: devsum-slide
     <p class="cold-shot-cap">Superman card · live production</p>
   </div>
 
-  <div class="cold-copy">
-    <div class="locator-box mono">
-      <div class="locator-line">getByRole(&apos;link&apos;, &#123; name: &apos;Superman&apos; &#125;)</div>
-      <div class="locator-fail">→ <span class="fail-num">0</span></div>
+  <div class="hear-grid">
+    <div class="hear-card bad">
+      <span class="hear-label">Screen reader hears</span>
+      <p>poster of Superman Superman rating</p>
     </div>
-
-    <div class="hear-grid">
-      <div class="hear-card bad">
-        <span class="hear-label">Screen reader hears</span>
-        <p>&ldquo;poster of Superman Superman rating&rdquo;</p>
-      </div>
-      <div class="hear-card good">
-        <span class="hear-label">Test expects</span>
-        <p>&ldquo;Superman&rdquo;</p>
-      </div>
+    <div class="hear-card good">
+      <span class="hear-label">Test expects</span>
+      <p>Superman</p>
     </div>
   </div>
 </div>
@@ -43,10 +41,10 @@ class: devsum-slide
   justify-content: center;
   min-height: 0;
   height: 100%;
-  gap: 14px;
+  gap: 12px;
 }
 .cold-kicker {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -54,11 +52,39 @@ class: devsum-slide
   margin: 0;
   text-align: center;
 }
+.locator-box {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px 18px;
+  background: #070b14;
+  border: 1px solid rgba(248, 113, 113, 0.45);
+  border-radius: 14px;
+  padding: 14px 20px;
+  max-width: 980px;
+  margin: 0 auto;
+  width: 100%;
+}
+.locator-line {
+  font-size: 22px;
+  color: #e2e8f0;
+  line-height: 1.35;
+}
+.locator-fail {
+  font-size: 26px;
+  font-weight: 850;
+  color: #fecaca;
+}
+.fail-num {
+  color: #f87171;
+  font-size: 36px;
+}
 .cold-grid {
   display: grid;
-  grid-template-columns: 1.05fr 1fr;
-  gap: 22px;
-  align-items: center;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 18px;
+  align-items: stretch;
   width: 100%;
 }
 .cold-shot-wrap {
@@ -73,7 +99,7 @@ class: devsum-slide
 .shot-zoom {
   position: relative;
   width: 100%;
-  height: 420px;
+  height: 380px;
   overflow: hidden;
   border-radius: 12px;
   border: 1px solid var(--code-border);
@@ -87,54 +113,30 @@ class: devsum-slide
   width: auto;
   height: auto;
 }
+/* Superman is 4th of 5 cards on the popular row */
 .zoom-before-card img {
-  width: 210%;
-  left: -78%;
-  top: -18%;
-}
-.cold-copy {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  min-width: 0;
-}
-.locator-box {
-  background: #070b14;
-  border: 1px solid rgba(248, 113, 113, 0.45);
-  border-radius: 14px;
-  padding: 18px 20px;
-}
-.locator-line {
-  font-size: 20px;
-  color: #e2e8f0;
-  line-height: 1.35;
-  overflow-wrap: anywhere;
-}
-.locator-fail {
-  margin-top: 10px;
-  font-size: 28px;
-  font-weight: 850;
-  color: #fecaca;
-}
-.fail-num {
-  color: #f87171;
-  font-size: 42px;
+  width: 195%;
+  left: -62%;
+  top: -14%;
 }
 .hear-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+  min-width: 0;
 }
 .hear-card {
   border-radius: 12px;
-  padding: 14px 16px;
+  padding: 16px 18px;
   border: 1px solid transparent;
 }
 .hear-card p {
-  margin: 4px 0 0;
+  margin: 6px 0 0;
   font-size: 22px;
   font-weight: 750;
   line-height: 1.25;
+  overflow-wrap: anywhere;
 }
 .hear-label {
   font-size: 13px;
