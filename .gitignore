@@ -2,3 +2,8 @@ node_modules/
 dist/
 .playwright-cli/
 .DS_Store
+
+style-sample-direction-a/node_modules/
+style-sample-direction-a/dist/
+style-sample-direction-a/export/
+style-sample-direction-a/review/

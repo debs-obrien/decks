@@ -1,0 +1,22 @@
+/* debbie.codes brand tokens — verified from debs-obrien/debbie.codes */
+:root {
+  --debbie-red: #d8002d;
+  --debbie-navy: #091a28;
+  --debbie-navy-deep: #071521;
+  --debbie-paper: #f3f5f4;
+  --debbie-elevated: #dfe8ef;
+  --debbie-slate: #243746;
+  --debbie-ink: #ebf4f1;
+  --debbie-ink-muted: #9db0bf;
+  --debbie-pass: #1f8a4c;
+
+  --debbie-font-sans: "Roboto", "Liberation Sans", "Helvetica Neue", sans-serif;
+  --debbie-font-mono: "Menlo", "Liberation Mono", "DejaVu Sans Mono", ui-monospace, monospace;
+
+  --debbie-size-statement: 96px;
+  --debbie-size-title: 56px;
+  --debbie-size-body: 32px;
+  --debbie-size-code: 26px;
+  --debbie-size-caption: 28px;
+  --debbie-size-min: 32px;
+}
