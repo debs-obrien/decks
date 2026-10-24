@@ -1,0 +1,23 @@
+{
+  "name": "slidev-theme-debbie",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Debbie O'Brien Slidev theme: big words, real proof. Brand red #d8002d on navy #091a28.",
+  "keywords": ["slidev-theme", "slidev", "debbie"],
+  "engines": {
+    "slidev": ">=0.49.0"
+  },
+  "slidev": {
+    "colorSchema": "dark",
+    "defaults": {
+      "fonts": {
+        "sans": "Roboto",
+        "mono": "Menlo"
+      },
+      "colorSchema": "dark",
+      "canvasWidth": 1280,
+      "aspectRatio": "16/9",
+      "transition": "fade-out"
+    }
+  }
+}
