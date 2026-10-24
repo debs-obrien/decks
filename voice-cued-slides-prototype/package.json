@@ -1,0 +1,24 @@
+{
+  "name": "@talks/voice-cued-slides-prototype",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev slides.md --open",
+    "build": "slidev build slides.md",
+    "export": "slidev export slides.md",
+    "export:pdf": "slidev export slides.md --format pdf",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@slidev/cli": "52.15.2",
+    "@slidev/theme-default": "latest",
+    "markdown-it": "14.2.0",
+    "slidev-theme-eloc": "^1.1.0",
+    "vue": "^3.5.26"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
