@@ -104,5 +104,6 @@ PRESENTER NOTES: REGRESSION (~25s)
 - tests/logged-out/movie-link-accessible-name.spec.ts
 - Exact title match. No poster / rating / CSS pollution.
 - Green log in evidence/09-test-green.log: 1 passed.
-DEMO: run it live on PR #93 if the room wifi cooperates.
+- CI was green on #93 too (Playwright Tests, 4 shards).
+DEMO: run it on main if the wifi cooperates. #93 is merged.
 -->

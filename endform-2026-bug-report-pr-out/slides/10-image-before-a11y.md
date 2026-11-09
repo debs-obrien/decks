@@ -5,7 +5,7 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge before-badge">BEFORE · live · aria name pollution</div>
+<div class="shot-badge before-badge">BEFORE · production · aria name pollution</div>
 
 <div class="shot-frame">
   <div class="shot-zoom zoom-before-full">
@@ -98,6 +98,6 @@ class: devsum-slide hero
 <!--
 PRESENTER NOTES: BEFORE (~30s)
 - Zoom on Superman. Read the callout out loud.
-- Live production still looks like this until #93 merges.
+- This was production before #93. Live is fixed now (I merged #93 on 20 Oct).
 - Mobile twin in bag if you want a quick aside.
 -->

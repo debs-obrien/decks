@@ -5,7 +5,7 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge after-badge">AFTER · local PR #93 · not live yet</div>
+<div class="shot-badge after-badge">AFTER · PR #93 run locally</div>
 
 <div class="shot-frame">
   <div class="shot-zoom zoom-after-full">
@@ -104,7 +104,7 @@ class: devsum-slide hero
 
 <!--
 PRESENTER NOTES: AFTER (~25s)
-- LOCAL PR #93 worktree proof. Say that twice if needed.
-- Live GH Pages is still the before until Debbie merges #93.
-DEMO: show local after here if you pulled #93. Else this slide is the proof.
+- This shot is the PR #93 branch running locally, before I merged it.
+- I merged #93 on 20 Oct, so the live app shows this now.
+DEMO: switch to the live app here if wifi is good. Else this slide is the proof.
 -->

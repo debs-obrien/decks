@@ -41,6 +41,6 @@ class: devsum-slide
 
 <!--
 PRESENTER NOTES: TWO SKILLS (~40s)
-- Both live in playwright-movies-app via PR #89.
+- Both skills are in movies PR #89. That PR is still an open draft, so they aren't on main yet.
 - Hunt is read-only. Fix writes with proof.
 -->

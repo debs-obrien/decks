@@ -5,7 +5,7 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Fix PR #93 · draft · linked #92</div>
+<div class="shot-badge">Fix PR #93 · opened as a draft · linked #92</div>
 <div class="shot-zoom zoom-pr">
   <img src="../public/images/06-pr-93-card.png" alt="Draft GitHub pull request 93 fixing movie card accessible names" />
 </div>
@@ -57,6 +57,6 @@ class: devsum-slide hero
 
 <!--
 PRESENTER NOTES: FIX PR (~20s)
-- Draft on purpose. Agent stops at human merge.
+- Opened as a draft on purpose. The agent stopped there.
 - Summary: exact title locators, repro before code, regression test.
 -->

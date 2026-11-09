@@ -5,7 +5,7 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">honesty 3 · Draft + Checks · you still merge</div>
+<div class="shot-badge">honesty 3 · agent stopped at draft · I merged</div>
 
 <div class="shot-frame">
   <div class="shot-zoom zoom-gate">
@@ -94,6 +94,7 @@ class: devsum-slide hero
 
 <!--
 PRESENTER NOTES: HUMAN MERGE (~20s)
-- Draft on purpose. Agent prepared the PR. Debbie merges or does not.
+- Draft on purpose. The agent prepared the PR and stopped.
+- I read it, marked it ready and merged it on 20 Oct. The agent never merged anything.
 - Close on the stop rule from the run sheet.
 -->

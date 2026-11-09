@@ -58,5 +58,5 @@ class: devsum-slide hero
 <!--
 PRESENTER NOTES: ISSUE (~15s)
 - https://github.com/debs-obrien/playwright-movies-app/issues/92
-- Labels: accessibility, agent-hunt, bug. Linked draft fix #93.
+- Labels: accessibility, agent-hunt, bug. Linked fix #93. Screenshot shows it open; #93 closed it when I merged on 20 Oct.
 -->

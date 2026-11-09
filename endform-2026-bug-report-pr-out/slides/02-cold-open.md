@@ -17,7 +17,7 @@ class: devsum-slide
     <div class="shot-zoom zoom-before-card">
       <img src="../public/images/before-movie-link-a11y-desktop.png" alt="Superman movie card with polluted accessible name" />
     </div>
-    <p class="cold-shot-cap">Superman card · live production</p>
+    <p class="cold-shot-cap">Superman card · production, before the fix</p>
   </div>
 
   <div class="hear-grid">
@@ -161,10 +161,10 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: COLD OPEN (~50s)
 DEMO PATH (from run sheet):
-1. Live before: https://debs-obrien.github.io/playwright-movies-app/ (still broken until movies #93 merges)
-2. Local after: PR #93 worktree. Run movie-link-accessible-name.spec.ts (pass on #93, fail on main)
+1. Before: this screenshot. I merged #93 on 20 Oct, so the live app is already fixed.
+2. After: https://debs-obrien.github.io/playwright-movies-app/ (exact Superman finds 1). Run movie-link-accessible-name.spec.ts on main.
 3. Tabs ready: issue #92, PR #93 MovieListItem diff, the test file, live app
-4. Fallbacks: if live is down, use before/after shots in this deck. If local #93 fails, show regression + diff slides. If wifi drops, PDF backup.
+4. Fallbacks: if live is down, use the before/after shots in this deck. If the local run fails, show the regression and diff slides. If wifi drops, PDF backup.
 
 Say the one-liner: the card reads "poster of Superman Superman rating", so getByRole link name Superman finds nothing.
 Primary story only. Not seed #90/#91. Not page=0 yet.

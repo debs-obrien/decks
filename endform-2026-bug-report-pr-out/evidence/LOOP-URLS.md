@@ -2,7 +2,7 @@
 
 - Skills PR: https://github.com/debs-obrien/playwright-movies-app/pull/89
 - Issue: https://github.com/debs-obrien/playwright-movies-app/issues/92
-- Fix PR (draft): https://github.com/debs-obrien/playwright-movies-app/pull/93
+- Fix PR (merged 20 Oct 2026): https://github.com/debs-obrien/playwright-movies-app/pull/93
 - Regression: tests/logged-out/movie-link-accessible-name.spec.ts
 - Diff focus: movies-app/components/MovieList/MovieListItem/index.js (+ ReactStars CSS to head)
 - Live: https://debs-obrien.github.io/playwright-movies-app/

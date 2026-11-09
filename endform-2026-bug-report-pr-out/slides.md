@@ -53,9 +53,10 @@ aspectRatio: "16/9"
 PRESENTER NOTES: COVER (~10s)
 - Endform mini online. Title stays: Bug Report In, Pull Request Out: Agentic CI with Playwright.
 DEMO PATH (run sheet):
-- Live before: debs-obrien.github.io/playwright-movies-app (still broken until movies #93 merges)
-- Local after: PR #93. Regression passes on #93, fails on main.
-- Tabs: issue #92, PR #93 diff, test file, live app.
+- I merged movies #93 on 20 Oct, so the live app is now the after (exact Superman finds 1).
+- Before: the screenshots in this deck. For a live before, run the app locally at e628ea9 (the commit before #93).
+- Regression: tests/logged-out/movie-link-accessible-name.spec.ts passes on main now.
+- Tabs: issue #92 (closed by #93), PR #93 diff, test file, live app.
 - Fallbacks: deck before/after shots if live down; regression + diff if local fails; PDF if wifi drops.
 - Optional skip: page=0 alt slide if time is tight.
 -->

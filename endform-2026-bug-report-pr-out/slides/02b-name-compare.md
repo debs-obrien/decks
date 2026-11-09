@@ -11,13 +11,13 @@ class: devsum-slide
 
 <div class="name-compare">
   <div class="name-col before">
-    <span class="name-tag">Before · live</span>
+    <span class="name-tag">Before · production</span>
     <p class="name-value">&ldquo;poster of Superman<br>Superman rating&rdquo;</p>
     <p class="name-result mono">getByRole exact → <span class="fail">0</span></p>
   </div>
   <div class="name-arrow">→</div>
   <div class="name-col after">
-    <span class="name-tag">After · local PR #93</span>
+    <span class="name-tag">After · PR #93</span>
     <p class="name-value">&ldquo;Superman&rdquo;</p>
     <p class="name-result mono">getByRole exact → <span class="ok">1</span></p>
   </div>
@@ -88,5 +88,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: NAME COMPARE (~25s)
 - Read left, then right. One breath.
-- After is local PR #93. Live site is still the before until #93 merges.
+- Left is production before the fix. Right is PR #93, merged 20 Oct, so live matches the right side now.
 -->

@@ -33,11 +33,11 @@ Debbie O'Brien · Independent Developer Educator
 
 - Skills PR: https://github.com/debs-obrien/playwright-movies-app/pull/89
 - Issue: https://github.com/debs-obrien/playwright-movies-app/issues/92
-- Fix PR (draft): https://github.com/debs-obrien/playwright-movies-app/pull/93
+- Fix PR (merged 20 Oct 2026, closed #92): https://github.com/debs-obrien/playwright-movies-app/pull/93
 - Regression: `tests/logged-out/movie-link-accessible-name.spec.ts`
 - Diff focus: `movies-app/components/MovieList/MovieListItem/index.js`
 - Blog: https://debbie.codes/blog/an-agent-that-hunts-bugs-while-i-sleep
 
 ## Image map
 
-See `IMAGE-MAP.md`. All 10 stage receipt slots are wired. After shot is **local PR #93** proof (live GH Pages still before until merge).
+See `IMAGE-MAP.md`. All 10 stage receipt slots are wired. After shot is the PR #93 branch run locally. #93 is merged now, so the live app shows the after and the before lives in the deck screenshots.

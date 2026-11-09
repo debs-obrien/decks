@@ -7,7 +7,7 @@ class: devsum-slide
 
 <span class="badge badge-red" style="font-size:15px;padding:6px 14px;margin-bottom:12px">honesty 1 · proof</span>
 
-<h2 style="font-size:32px;margin:0 0 6px">Failing locator on live</h2>
+<h2 style="font-size:32px;margin:0 0 6px">Failing locator on production</h2>
 <p class="lede" style="margin:0 0 14px">Prove the broken state. Then touch code.</p>
 
 <div class="cli-box mono">

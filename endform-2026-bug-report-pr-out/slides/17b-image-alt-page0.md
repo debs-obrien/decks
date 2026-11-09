@@ -58,6 +58,6 @@ class: devsum-slide hero
 <!--
 PRESENTER NOTES: ALT FIND page=0 (~15s, skippable)
 - Secondary only. Spine stays Superman movie-link-accessible-name.
-- /?category=Popular&page=0 hangs on "Please wait a moment. Movies".
+- /?category=Popular&page=0 hangs on "Please wait a moment. Movies" with an empty page. Still broken on live (checked 9 Nov).
 - Skip if time is tight (run sheet).
 -->

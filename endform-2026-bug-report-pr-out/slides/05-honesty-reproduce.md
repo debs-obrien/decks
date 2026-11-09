@@ -21,5 +21,5 @@ class: devsum-slide
 <!--
 PRESENTER NOTES: HONESTY 1 (~20s)
 - Say it plain: the fix skill must fail the locator on purpose before it patches anything.
-- Tonight: exact Superman → 0 on live, then we touch MovieListItem.
+- In this demo: exact Superman → 0 on production first. Only then did the agent touch MovieListItem.
 -->
