@@ -11,10 +11,6 @@ class: devsum-slide hero
   <div class="shot-zoom zoom-candidate">
     <img src="../public/images/candidate-movie-link-accessible-name.png" alt="qa/bug-candidates/movie-link-accessible-name.md: frontmatter and title, Movie card links have polluted accessible names (not just the title)" />
   </div>
-  <div class="shot-callout callout-cand">
-    <span class="callout-kicker">frontmatter</span>
-    <code>bug · high · major · a11y</code>
-  </div>
 </div>
 
 </div>
