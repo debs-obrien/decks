@@ -5,15 +5,16 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Diff · MovieListItem · one line that names the link</div>
+<div class="shot-badge">Diff · two changes · name the link, move the star CSS out</div>
 
 <div class="shot-frame">
   <div class="shot-zoom zoom-diff">
-    <img src="../public/images/08-diff-MovieListItem.png" alt="Diff adding aria-label movie.title on PosterLink" />
+    <img src="../public/images/08-diff-MovieListItem.png" alt="PR 93 diff: aria-label movie.title on PosterLink, and ReactStars half-star CSS moved to document.head" />
   </div>
   <div class="shot-callout callout-diff">
     <span class="callout-kicker">the fix</span>
     <code>aria-label=&#123;movie.title&#125;</code>
+    <span class="callout-sub mono">+ star CSS moved to document.head</span>
   </div>
 </div>
 
@@ -90,11 +91,19 @@ class: devsum-slide hero
   background: transparent;
   padding: 0;
 }
+.callout-sub {
+  display: block;
+  margin-top: 4px;
+  font-size: 15px;
+  color: #86efac;
+}
 </style>
 
 <!--
 PRESENTER NOTES: DIFF (~25s)
 - movies-app/components/MovieList/MovieListItem/index.js
-- Point at aria-label={movie.title}. That is the whole punchline.
+- Two changes in #93. aria-label={movie.title} on PosterLink names the link by title.
+- And ReactStars now puts its half-star CSS in document.head, so no style tag sits inside the link and leaks into the name.
+- movies-app/components/UI/ReactStars/index.js is the second file.
 DEMO fallback: if local build fails, this slide + regression slide carry the after story.
 -->

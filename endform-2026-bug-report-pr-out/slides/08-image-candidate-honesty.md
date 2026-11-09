@@ -9,7 +9,7 @@ class: devsum-slide hero
 
 <div class="shot-frame">
   <div class="shot-zoom zoom-candidate">
-    <img src="../public/images/candidate-movie-link-accessible-name.png" alt="Bug candidate markdown with honesty frontmatter" />
+    <img src="../public/images/candidate-movie-link-accessible-name.png" alt="qa/bug-candidates/movie-link-accessible-name.md: frontmatter and title, Movie card links have polluted accessible names (not just the title)" />
   </div>
   <div class="shot-callout callout-cand">
     <span class="callout-kicker">frontmatter</span>
@@ -60,9 +60,9 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-candidate img {
-  width: 102.0%;
-  left: -1.0%;
-  top: -0.0%;
+  width: 100.0%;
+  left: -0.0%;
+  top: -4.2%;
 }
 .shot-callout {
   position: absolute;
@@ -95,5 +95,6 @@ class: devsum-slide hero
 <!--
 PRESENTER NOTES: CANDIDATE (~20s)
 - Frontmatter is the honesty contract for the hunt: bug, high, major, a11y.
+- Title matches issue #92: Movie card links have polluted accessible names (not just the title).
 - Exact getByRole link Superman → 0. That is the Playwright punchline.
 -->

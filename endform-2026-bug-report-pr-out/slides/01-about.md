@@ -13,7 +13,7 @@ class: devsum-slide
 <h1>Debbie O&rsquo;Brien</h1>
 <p class="about-role">Independent Developer Educator</p>
 <ul class="feature-list about-list">
-<li><span class="icon">🧪</span><span>I live in <span class="bold">testing and agents</span> with Playwright</span></li>
+<li><span class="icon">🎬</span><span>I make <span class="bold">talks, videos and blog posts</span> for developers</span></li>
 <li><span class="icon">🌙</span><span>I build loops that hunt bugs <span class="bold">while I sleep</span></span></li>
 <li><span class="icon">🎤</span><span>I show the <span class="bold">honest</span> version. Gates, not magic.</span></li>
 </ul>

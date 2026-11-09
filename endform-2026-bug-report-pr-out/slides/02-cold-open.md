@@ -8,7 +8,7 @@ class: devsum-slide
 <p class="cold-kicker">The locator that should work</p>
 
 <div class="locator-box mono">
-  <span class="locator-line">getByRole(&apos;link&apos;, &#123; name: &apos;Superman&apos; &#125;)</span>
+  <span class="locator-line">getByRole(&apos;link&apos;, &#123; name: &apos;Superman&apos;, exact: true &#125;)</span>
   <span class="locator-fail">→ <span class="fail-num">0</span></span>
 </div>
 
@@ -166,6 +166,6 @@ DEMO PATH (from run sheet):
 3. Tabs ready: issue #92, PR #93 MovieListItem diff, the test file, live app
 4. Fallbacks: if live is down, use the before/after shots in this deck. If the local run fails, show the regression and diff slides. If wifi drops, PDF backup.
 
-Say the one-liner: the card reads "poster of Superman Superman rating", so getByRole link name Superman finds nothing.
+Say the one-liner: the card reads "poster of Superman Superman rating", so getByRole link name Superman with exact: true finds nothing. (Without exact it is a substring match and finds 1.)
 Primary story only. Not seed #90/#91. Not page=0 yet.
 -->

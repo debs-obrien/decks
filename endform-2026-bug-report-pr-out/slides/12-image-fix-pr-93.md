@@ -5,9 +5,9 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Fix PR #93 · opened as a draft · linked #92</div>
+<div class="shot-badge">Fix PR #93 · merged · 2 commits · closes #92</div>
 <div class="shot-zoom zoom-pr">
-  <img src="../public/images/06-pr-93-card.png" alt="Draft GitHub pull request 93 fixing movie card accessible names" />
+  <img src="../public/images/06-pr-93-merged.png" alt="Merged GitHub pull request 93: movie card links use title-only accessible names" />
 </div>
 
 </div>
@@ -49,14 +49,15 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-pr img {
-  width: 125.0%;
-  left: -7.5%;
-  top: -36.2%;
+  width: 116.3%;
+  left: -7.0%;
+  top: -31.3%;
 }
 </style>
 
 <!--
 PRESENTER NOTES: FIX PR (~20s)
-- Opened as a draft on purpose. The agent stopped there.
+- The agent opened it as a draft on purpose and stopped there. This is it now, merged.
+- 2 commits, 6 files. The second commit updated two logged-in list specs after CI flagged the old link names.
 - Summary: exact title locators, repro before code, regression test.
 -->

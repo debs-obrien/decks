@@ -5,9 +5,9 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">Issue #92 · gates passed · filed</div>
+<div class="shot-badge">Issue #92 · filed by the agent · closed by #93</div>
 <div class="shot-zoom zoom-issue">
-  <img src="../public/images/03-issue-92.png" alt="GitHub issue 92: Movie card links have polluted accessible names" />
+  <img src="../public/images/03-issue-92-closed.png" alt="GitHub issue 92: Movie card links have polluted accessible names" />
 </div>
 
 </div>
@@ -49,14 +49,14 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-issue img {
-  width: 114.9%;
-  left: -6.9%;
-  top: -30.9%;
+  width: 113.6%;
+  left: -6.8%;
+  top: -30.6%;
 }
 </style>
 
 <!--
 PRESENTER NOTES: ISSUE (~15s)
 - https://github.com/debs-obrien/playwright-movies-app/issues/92
-- Labels: accessibility, agent-hunt, bug. Linked fix #93. Screenshot shows it open; #93 closed it when I merged on 20 Oct.
+- Labels: accessibility, agent-hunt, bug. Filed by the agent on 1 Oct after the gates passed. Closed by #93 when I merged on 20 Oct.
 -->

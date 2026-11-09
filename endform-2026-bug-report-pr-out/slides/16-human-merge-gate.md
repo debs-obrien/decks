@@ -5,11 +5,11 @@ class: devsum-slide hero
 
 <div class="slide-inner image-slide">
 
-<div class="shot-badge">honesty 3 · agent stopped at draft · I merged</div>
+<div class="shot-badge">honesty 3 · I marked it ready and merged it</div>
 
 <div class="shot-frame">
   <div class="shot-zoom zoom-gate">
-    <img src="../public/images/10-draft-checks-gate.png" alt="Draft pull request 93 Checks tab before human merge" />
+    <img src="../public/images/10-pr-93-merge-timeline.png" alt="PR 93 timeline: debs-obrien marked it ready for review, then merged commit 9146568 into main, 8 checks passed" />
   </div>
   <div class="shot-callout callout-gate">
     <span class="callout-kicker">stop rule</span>
@@ -47,7 +47,7 @@ class: devsum-slide hero
 .shot-zoom {
   position: relative;
   width: 100%;
-  height: 520px;
+  height: 470px;
   overflow: hidden;
   border-radius: 12px;
   border: 1px solid var(--code-border);
@@ -60,14 +60,14 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-gate img {
-  width: 125.0%;
-  left: -2.5%;
-  top: -33.7%;
+  width: 196.1%;
+  left: -13.7%;
+  top: -105.6%;
 }
 .shot-callout {
-  position: absolute;
-  left: 18px;
-  bottom: 18px;
+  position: static;
+  display: table;
+  margin: 12px auto 0;
   padding: 12px 16px;
   border-radius: 10px;
   background: rgba(8, 10, 18, 0.94);
