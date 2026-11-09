@@ -61,9 +61,9 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-spec img {
-  width: 155%;
-  left: -5%;
-  top: -28%;
+  width: 161.3%;
+  left: -37.1%;
+  top: -86.8%;
 }
 .shot-callout {
   position: absolute;

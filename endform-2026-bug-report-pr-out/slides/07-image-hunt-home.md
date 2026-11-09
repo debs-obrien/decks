@@ -52,9 +52,9 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-hunt img {
-  width: 118%;
-  left: -6%;
-  top: -4%;
+  width: 108.7%;
+  left: -4.3%;
+  top: -4.4%;
 }
 </style>
 

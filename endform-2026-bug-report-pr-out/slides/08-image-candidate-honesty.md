@@ -60,14 +60,14 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-candidate img {
-  width: 125%;
-  left: -8%;
-  top: -4%;
+  width: 102.0%;
+  left: -1.0%;
+  top: -0.0%;
 }
 .shot-callout {
   position: absolute;
-  left: 18px;
-  bottom: 18px;
+  right: 36px;
+  top: 40px;
   padding: 12px 16px;
   border-radius: 10px;
   background: rgba(8, 10, 18, 0.94);

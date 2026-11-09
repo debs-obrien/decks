@@ -63,9 +63,9 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-after-full img {
-  width: 155%;
-  left: -42%;
-  top: -8%;
+  width: 122.0%;
+  left: -22.0%;
+  top: -20.7%;
 }
 .shot-callout {
   position: absolute;

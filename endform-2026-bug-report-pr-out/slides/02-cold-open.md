@@ -115,9 +115,9 @@ class: devsum-slide
 }
 /* Superman is 4th of 5 cards on the popular row */
 .zoom-before-card img {
-  width: 195%;
-  left: -62%;
-  top: -14%;
+  width: 155.0%;
+  left: -55.0%;
+  top: -31.2%;
 }
 .hear-grid {
   display: flex;

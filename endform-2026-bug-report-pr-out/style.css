@@ -1443,3 +1443,11 @@ tr.row-success:hover td {
 .slidev-layout.devsum-slide h2 {
   overflow-wrap: anywhere;
 }
+
+/* Zoomed screenshots: let the per-slide crop width win over the 100% cap above. */
+.slidev-layout.devsum-slide .slide-inner .shot-zoom img {
+  max-width: none;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+}

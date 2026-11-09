@@ -60,9 +60,9 @@ class: devsum-slide hero
   max-height: none;
 }
 .zoom-gate img {
-  width: 130%;
-  left: -8%;
-  top: -5%;
+  width: 125.0%;
+  left: -2.5%;
+  top: -33.7%;
 }
 .shot-callout {
   position: absolute;
