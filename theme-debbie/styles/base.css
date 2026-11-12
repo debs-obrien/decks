@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+html,
+body,
+#app,
+.slidev-layout {
+  font-family: var(--debbie-font-sans);
+  color: var(--debbie-ink);
+  background: var(--debbie-navy);
+}
+
+.slidev-layout {
+  --slidev-theme-primary: var(--debbie-red);
+  background: var(--debbie-navy);
+  color: var(--debbie-ink);
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.slidev-layout h1,
+.slidev-layout h2,
+.slidev-layout h3,
+.slidev-layout p,
+.slidev-layout li {
+  font-family: var(--debbie-font-sans);
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+
+.slidev-layout code,
+.slidev-layout pre,
+.slidev-layout .mono {
+  font-family: var(--debbie-font-mono);
+}
+
+.slidev-layout mark,
+.slidev-layout .mark-red {
+  color: var(--debbie-red);
+  background: transparent;
+  font-weight: 900;
+}
+
+.slidev-layout a {
+  color: var(--debbie-ink);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+/* Ban leftover AI-kit classes if someone pastes old markup */
+.slidev-layout .task-card,
+.slidev-layout .badge,
+.slidev-layout .title-badge,
+.slidev-layout .shot-badge,
+.slidev-layout .gradient-text {
+  all: unset;
+}
