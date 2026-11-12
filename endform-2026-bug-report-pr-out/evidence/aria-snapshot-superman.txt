@@ -1,0 +1,5 @@
+- link "poster of Superman Superman rating":
+  - /url: /playwright-movies-app/movie?id=1061474&page=1
+  - img "poster of Superman"
+  - heading "Superman" [level=2]
+  - text: ★ ★ ★ ★ ★ ★
